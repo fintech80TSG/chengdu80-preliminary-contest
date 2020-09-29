@@ -4,7 +4,9 @@ description: About AWS
 
 # 平台
 
-Amazon Web Services \(AWS\) is the world’s most comprehensive and broadly adopted cloud platform, offering over 175 fully featured services from data centers globally. Millions of customers—including the fastest-growing startups, largest enterprises, and leading government agencies—are using AWS to lower costs, become more agile, and innovate faster.。
+![](../../.gitbook/assets/tu-pian-1.png) 
+
+Amazon Web Services \(AWS\) is the world’s most comprehensive and broadly adopted cloud platform, offering over 175 fully featured services from data centers globally. Millions of customers—including the fastest-growing startups, largest enterprises, and leading government agencies—are using AWS to lower costs, become more agile, and innovate faster.
 
 ## The leading cloud platform <a id="The_leading_cloud_platform"></a>
 
