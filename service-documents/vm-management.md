@@ -1,6 +1,6 @@
 # 虚拟机管理
 
-Linux:
+**Linux:**
 
 Linux有[不同登录方式](https://docs.aws.amazon.com/zh_cn/AWSEC2/latest/UserGuide/AccessingInstancesLinux.html%20)，选择一种方式SSH登录。
 
@@ -20,7 +20,7 @@ Linux有[不同登录方式](https://docs.aws.amazon.com/zh_cn/AWSEC2/latest/Use
 
 对于 Ubuntu AMI，用户名称是 ubuntu。
 
-Windows:
+**Windows:**
 
 在EC2实例控制台选中所要登录的Windows机器，点击**连接。**
 
