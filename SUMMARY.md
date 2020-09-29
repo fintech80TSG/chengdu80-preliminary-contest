@@ -1,6 +1,6 @@
 # Table of contents
 
-* [CHENGDU80金融科技全国初赛参赛手册](README.md)
+* [CHENGDU80金融科技参赛手册](README.md)
 
 ## 用户指引
 
