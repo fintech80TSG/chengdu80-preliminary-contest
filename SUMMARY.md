@@ -2,35 +2,35 @@
 
 * [CHENGDU80金融科技参赛手册](README.md)
 
-## 用户指引
+## 用户指引 <a id="user-guide"></a>
 
-* [比赛环境](yong-hu-zhi-yin/bi-sai-huan-jing/README.md)
-  * [平台](yong-hu-zhi-yin/bi-sai-huan-jing/ping-tai.md)
-  * [配置](yong-hu-zhi-yin/bi-sai-huan-jing/pei-zhi.md)
-  * [限制](yong-hu-zhi-yin/bi-sai-huan-jing/xian-zhi.md)
+* [比赛环境](user-guide/bi-sai-huan-jing/README.md)
+  * [平台](user-guide/bi-sai-huan-jing/ping-tai.md)
+  * [配置](user-guide/bi-sai-huan-jing/pei-zhi.md)
+  * [限制](user-guide/bi-sai-huan-jing/xian-zhi.md)
 
-## 操作流程
+## 操作流程 <a id="operation-manual"></a>
 
-* [账户登录](cao-zuo-liu-cheng/zhang-hu-deng-lu.md)
-* [数据获取](cao-zuo-liu-cheng/shu-ju-huo-qu.md)
-* [开发备份](cao-zuo-liu-cheng/kai-fa-bei-fen.md)
-* [代码提交](cao-zuo-liu-cheng/dai-ma-ti-jiao.md)
-* [原型发布](cao-zuo-liu-cheng/yuan-xing-fa-bu.md)
-* [答辩平台](cao-zuo-liu-cheng/da-bian-ping-tai.md)
+* [账户登录](operation-manual/account-and-login.md)
+* [数据获取](operation-manual/data-import.md)
+* [开发备份](operation-manual/develops-and-backup.md)
+* [代码提交](operation-manual/code-present.md)
+* [原型发布](operation-manual/code-release.md)
+* [答辩平台](operation-manual/competitive-platform.md)
 
-## 配置文档
+## 配置文档 <a id="service-documents"></a>
 
-* [虚拟机管理](pei-zhi-wen-dang/xu-ni-ji-guan-li.md)
-* [S3](pei-zhi-wen-dang/s3.md)
-* [其他……](pei-zhi-wen-dang/qi-ta.md)
+* [虚拟机管理](service-documents/vm-management.md)
+* [S3](service-documents/s3.md)
+* [其他……](service-documents/to-be-continued.md)
 
-## 技术支持
+## 技术支持 <a id="tech-support"></a>
 
-* [FAQ](ji-shu-zhi-chi/faq.md)
-* [在线支持](ji-shu-zhi-chi/zai-xian-zhi-chi.md)
+* [FAQ](tech-support/faq.md)
+* [在线支持](tech-support/online-support.md)
 
 ---
 
-* [快速入口](kuai-su-ru-kou.md)
+* [快速入口](quick-entry.md)
 * [CHENGDU80官网](https://chengdu80.org)
 
