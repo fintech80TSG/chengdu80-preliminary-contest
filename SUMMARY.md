@@ -21,7 +21,8 @@
 ## 配置文档 <a id="service-documents"></a>
 
 * [虚拟机管理](service-documents/vm-management.md)
-* [S3](service-documents/s3.md)
+* [配置CLI](service-documents/s3.md)
+* [S3上传/下载操作](service-documents/s3-shang-chuan-xia-zai-cao-zuo.md)
 * [其他……](service-documents/to-be-continued.md)
 
 ## 技术支持 <a id="tech-support"></a>

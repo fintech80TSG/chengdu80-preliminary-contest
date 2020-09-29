@@ -36,7 +36,7 @@
 
 用windows自带的远程连接去连，公网IP在EC2实例控制台上可查看。
 
-![](../.gitbook/assets/image%20%2830%29.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
 ![&#x4F7F;&#x7528;window&#x8FDC;&#x7A0B;&#x8FDE;&#x63A5;](../.gitbook/assets/image.png)
 
