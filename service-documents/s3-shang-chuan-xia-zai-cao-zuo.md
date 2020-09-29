@@ -4,11 +4,11 @@
 
   在AWS控制台-**服务**搜索S3点击进入（如图5-1），
 
-![&#x56FE;5-1 &#x63A7;&#x5236;&#x53F0;&#x641C;&#x7D22;S3](../.gitbook/assets/image%20%2847%29.png)
+![&#x56FE;5-1 &#x63A7;&#x5236;&#x53F0;&#x641C;&#x7D22;S3](../.gitbook/assets/image%20%2848%29.png)
 
 找到所属S3桶（图5-2），点击进入。![](file:///C:\Users\astra\AppData\Local\Temp\ksohtml2444\wps21.jpg)
 
-![&#x56FE;5-2 &#x627E;&#x5230;&#x6240;&#x5C5E;&#x6876;](../.gitbook/assets/image%20%2846%29.png)
+![&#x56FE;5-2 &#x627E;&#x5230;&#x6240;&#x5C5E;&#x6876;](../.gitbook/assets/image%20%2847%29.png)
 
 点击上传文件进行上传，添加文件，选择电脑内的一个文件上传，确认要上传的文件上传成功后，会在桶内出现文件，如图5-3所示，也可以创建层级目录文件夹做扩展。
 
@@ -38,7 +38,7 @@ S3 browser: [https://s3browser.com/download/s3browser-9-2-1.exe](https://s3brows
 
 在第三步骤我们已经将我们的CLI配置好，现在输入**aws s3 ls**命令，该命令为列出当前账户S3桶。
 
-![&#x56FE;5-5 cli&#x67E5;&#x770B;S3&#x6876;](../.gitbook/assets/image%20%2850%29.png)
+![&#x56FE;5-5 cli&#x67E5;&#x770B;S3&#x6876;](../.gitbook/assets/image%20%2851%29.png)
 
  
 
@@ -54,7 +54,7 @@ S3 browser: [https://s3browser.com/download/s3browser-9-2-1.exe](https://s3brows
 
 **aws s3 cp s3://XXXX/XXXX /XXXX/**
 
-![ ](../.gitbook/assets/image%20%2849%29.png)
+![ ](../.gitbook/assets/image%20%2850%29.png)
 
 参考链接：
 
