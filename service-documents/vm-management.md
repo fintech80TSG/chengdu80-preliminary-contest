@@ -42,7 +42,7 @@
 
 输入**公网IP**，**账户**，**密码**进行windows远程登录（windows默认账户为**Administrator**）。
 
-![&#x8F93;&#x5165;&#x8D26;&#x6237;&#x5BC6;&#x7801;](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%2837%29.png)
 
 登录完成
 
