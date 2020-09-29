@@ -14,7 +14,7 @@
 
 * [账户登录](operation-manual/account-and-login.md)
 * [数据获取](operation-manual/data-import.md)
-* [快照备份](operation-manual/develops-and-backup.md)
+* [snapshots](operation-manual/develops-and-backup.md)
 * [代码提交](operation-manual/code-present.md)
 * [原型发布](operation-manual/code-release.md)
 * [答辩平台](operation-manual/competitive-platform.md)

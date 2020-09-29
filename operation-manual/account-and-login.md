@@ -53,7 +53,7 @@ For easy access, you can save the consoles that you use the most to a list of **
 3. Select the star to the left of the service name.
 4. Repeat the previous two steps to add more services to your **Favorites** list.
 
-![                        The Services menu shows favorites, recently visited, and all                            services                    ](https://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/images/console-favorite.png)
+![                           ](https://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/images/console-favorite.png)
 
 **To remove a service from the list of Favorites**
 
