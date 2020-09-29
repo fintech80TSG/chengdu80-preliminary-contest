@@ -24,23 +24,19 @@
 
 在EC2实例控制台选中所要登录的Windows机器，点击**连接。**
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2825%29.png)
 
 点击弹框中的**获取密码。**
 
-![&#x9009;&#x62E9;&#x83B7;&#x53D6;&#x5BC6;&#x7801;](../.gitbook/assets/image%20%2819%29.png)
+![](../.gitbook/assets/image%20%2829%29.png)
 
-根据创建时所选带**.pem**的密钥，在**浏览**中找到放置在本地的密钥文件，通过该密钥**解压密码**。
+![](../.gitbook/assets/image%20%2834%29.png)
 
-![&#x4E0A;&#x4F20;&#x5BC6;&#x94A5;](../.gitbook/assets/image%20%2821%29.png)
 
-![&#x89E3;&#x5BC6;&#x5BC6;&#x94A5;&#x83B7;&#x5F97;&#x5BC6;&#x7801;](../.gitbook/assets/image%20%2824%29.png)
-
-![&#x70B9;&#x51FB;&#x590D;&#x5236;&#x5BC6;&#x7801;](../.gitbook/assets/image%20%288%29.png)
 
 用windows自带的远程连接去连，公网IP在EC2实例控制台上可查看。
 
-![&#x67E5;&#x627E;EC2&#x516C;&#x7F51;ip](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%2830%29.png)
 
 ![&#x4F7F;&#x7528;window&#x8FDC;&#x7A0B;&#x8FDE;&#x63A5;](../.gitbook/assets/image.png)
 
