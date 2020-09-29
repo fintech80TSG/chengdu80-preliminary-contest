@@ -28,13 +28,13 @@
 
 点击弹框中的**获取密码。**
 
-![&#x9009;&#x62E9;&#x83B7;&#x53D6;&#x5BC6;&#x7801;&#x6309;&#x94AE;](../.gitbook/assets/image%20%282%29.png)
+![&#x9009;&#x62E9;&#x83B7;&#x53D6;&#x5BC6;&#x7801;](../.gitbook/assets/image%20%2819%29.png)
 
 根据创建时所选带**.pem**的密钥，在**浏览**中找到放置在本地的密钥文件，通过该密钥**解压密码**。
 
-![&#x627E;&#x5230;&#x5BC6;&#x94A5;&#x8DEF;&#x5F84;&#x4E0A;&#x4F20;](../.gitbook/assets/image%20%281%29.png)
+![&#x4E0A;&#x4F20;&#x5BC6;&#x94A5;](../.gitbook/assets/image%20%2820%29.png)
 
-![&#x89E3;&#x538B;&#x5BC6;&#x94A5;&#x83B7;&#x5F97;&#x5BC6;&#x7801;](../.gitbook/assets/image%20%284%29.png)
+![&#x89E3;&#x5BC6;&#x5BC6;&#x94A5;&#x83B7;&#x5F97;&#x5BC6;&#x7801;](../.gitbook/assets/image%20%2823%29.png)
 
 ![&#x70B9;&#x51FB;&#x590D;&#x5236;&#x5BC6;&#x7801;](../.gitbook/assets/image%20%288%29.png)
 
