@@ -4,7 +4,9 @@
 
 AWS的控制台登录，在网址输入
 
-[https://733604999136.signin.aws.amazon.com/console](https://733604999136.signin.aws.amazon.com/console)
+{% embed url="https://733604999136.signin.aws.amazon.com/console" %}
+
+![AWS&#x4E2D;&#x56FD;&#x63A7;&#x5236;&#x53F0;&#x767B;&#x5F55;&#x754C;&#x9762;](../.gitbook/assets/image%20%2810%29.png)
 
 进入登录页面
 
@@ -12,7 +14,9 @@ AWS的控制台登录，在网址输入
 
 AWS的控制台登录，在网址输入
 
-[https://swufe.signin.amazonaws.cn/console](https://swufe.signin.amazonaws.cn/console)
+{% embed url="https://swufe.signin.amazonaws.cn/console" %}
+
+![AWS&#x5168;&#x7403;&#x63A7;&#x5236;&#x53F0;&#x767B;&#x5F55;&#x754C;&#x9762;](../.gitbook/assets/image%20%287%29.png)
 
 进入登录页面
 

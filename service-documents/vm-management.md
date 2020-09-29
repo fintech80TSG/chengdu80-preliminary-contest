@@ -36,7 +36,7 @@ Linux有[不同登录方式](https://docs.aws.amazon.com/zh_cn/AWSEC2/latest/Use
 
 ![&#x89E3;&#x538B;&#x5BC6;&#x94A5;&#x83B7;&#x5F97;&#x5BC6;&#x7801;](../.gitbook/assets/image%20%284%29.png)
 
-![&#x70B9;&#x51FB;&#x590D;&#x5236;&#x5BC6;&#x7801;](../.gitbook/assets/image%20%287%29.png)
+![&#x70B9;&#x51FB;&#x590D;&#x5236;&#x5BC6;&#x7801;](../.gitbook/assets/image%20%288%29.png)
 
 用windows自带的远程连接去连，公网IP在EC2实例控制台上可查看。
 
@@ -50,5 +50,5 @@ Linux有[不同登录方式](https://docs.aws.amazon.com/zh_cn/AWSEC2/latest/Use
 
 登录完成
 
-![&#x767B;&#x5F55;&#x6210;&#x529F;&#x754C;&#x9762;](../.gitbook/assets/image%20%288%29.png)
+![&#x767B;&#x5F55;&#x6210;&#x529F;&#x754C;&#x9762;](../.gitbook/assets/image%20%289%29.png)
 
