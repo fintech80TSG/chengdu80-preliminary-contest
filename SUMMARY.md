@@ -12,17 +12,17 @@
 
 ## 操作流程 <a id="operation-manual"></a>
 
-* [账户登录](operation-manual/account-and-login.md)
+* [Sign](operation-manual/account-and-login.md)
 * [数据获取](operation-manual/data-import.md)
-* [snapshots](operation-manual/develops-and-backup.md)
+* [snapshots backup](operation-manual/develops-and-backup.md)
 * [代码提交](operation-manual/code-present.md)
 * [原型发布](operation-manual/code-release.md)
 * [答辩平台](operation-manual/competitive-platform.md)
 
 ## 配置文档 <a id="service-documents"></a>
 
-* [虚拟机管理](service-documents/vm-management.md)
-* [配置CLI](service-documents/s3.md)
+* [AWS Management Console](service-documents/aws-management-console.md)
+* [AWS CLI](service-documents/aws-cli.md)
 * [S3上传/下载操作](service-documents/s3-shang-chuan-xia-zai-cao-zuo.md)
 * [其他……](service-documents/to-be-continued.md)
 
