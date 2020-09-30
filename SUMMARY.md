@@ -14,7 +14,7 @@
 * [Sign Console](operation-manual/sign-console.md)
 * [Sign EC2](operation-manual/sign-ec2.md)
 * [Snapshots Backup](operation-manual/develops-and-backup.md)
-* [upload/download data](operation-manual/upload-download-data.md)
+* [Upload/Download Data](operation-manual/upload-download-data.md)
 * [Code Present](operation-manual/code-present.md)
 * [Code Release](operation-manual/code-release.md)
 * [competitive](operation-manual/competitive-platform.md)
