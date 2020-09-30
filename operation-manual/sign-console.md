@@ -1,8 +1,4 @@
-# Sign
-
-
-
-The AWS Management Console provides a web-based user interface that you can use to create and manage your AWS resources. For example, you can start and stop Amazon EC2 instances, create Amazon DynamoDB tables, create Amazon S3 buckets, and so on.
+# Sign Console
 
 Before you can use the AWS Management Console, you must sign in to your AWS account. The process that you will use to sign in to your AWS account depends on what type of AWS user you are. There are two different types of users in AWS. You are either the account owner \(root user\) or you are an IAM user. The root user is created when the AWS account is created using the email address and password that were used to create the account. IAM users are created by the root user or an IAM administrator within the AWS account.
 
@@ -67,7 +63,7 @@ If you are an IAM user, you can log in using either a sign-in URL or the main si
 
 2. Enter your IAM user name and password and choose **Sign in**.
 
-           ![
+              ![
             IAM User Sign-in Page
           ](https://docs.aws.amazon.com/IAM/latest/UserGuide/images/sign-in-iam-user-capture.png)
 
