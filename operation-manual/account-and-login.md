@@ -37,7 +37,7 @@ Before you sign in to an AWS account as the root user, be sure that you have the
 
 3. Enter your password and choose **Sign in**.
 
-         ![
+            ![
             Root user sign-in page
           ](https://docs.aws.amazon.com/IAM/latest/UserGuide/images/sign-in-root-user-capture.png)
 
@@ -65,22 +65,28 @@ If you are an IAM user, you can log in using either a sign-in URL or the main si
    https://account_alias_or_id.signin.aws.amazon.com/console/
    ```
 
-2. Enter your IAM user name and password and choose **Sign in**.![
-               IAM User Sign-in Page
-             ](https://docs.aws.amazon.com/IAM/latest/UserGuide/images/sign-in-iam-user-capture.png)
+2. Enter your IAM user name and password and choose **Sign in**.
+
+           ![
+            IAM User Sign-in Page
+          ](https://docs.aws.amazon.com/IAM/latest/UserGuide/images/sign-in-iam-user-capture.png)
 
 **To sign in to an AWS account as an IAM user using the main sign-in page**
 
 1. Open [https://console.aws.amazon.com/](https://console.aws.amazon.com/).
-2. If you have not signed in previously using this browser, the main sign-in page appears. Choose **IAM user**, enter the account alias or account ID, and choose **Next**.![
-               Main sign-in page with IAM user selected
-             ](https://docs.aws.amazon.com/IAM/latest/UserGuide/images/sign-in-main-capture-iam.png)
+2. If you have not signed in previously using this browser, the main sign-in page appears. Choose **IAM user**, enter the account alias or account ID, and choose **Next**.
 
-   If you have signed in as an IAM user previously using this browser, your browser might remember the account alias or account ID for the AWS account. If so, you'll see the screen shown in the next step instead.
+            ![
+            Main sign-in page with IAM user selected
+          ](https://docs.aws.amazon.com/IAM/latest/UserGuide/images/sign-in-main-capture-iam.png)
 
-3. Enter your IAM user name and password and choose **Sign in**.![
-               IAM User Sign-in Page
-             ](https://docs.aws.amazon.com/IAM/latest/UserGuide/images/sign-in-iam-user-capture.png)
+If you have signed in as an IAM user previously using this browser, your browser might remember the account alias or account ID for the AWS account. If so, you'll see the screen shown in the next step instead.
 
-   If you have signed in as an IAM user for a different AWS account previously using this browser, or you need to sign in as a root user instead, choose **Sign in using root user email** to return to the main sign-in page.
+1. Enter your IAM user name and password and choose **Sign in**.
+
+           ![
+            IAM User Sign-in Page
+          ](https://docs.aws.amazon.com/IAM/latest/UserGuide/images/sign-in-iam-user-capture.png)
+
+If you have signed in as an IAM user for a different AWS account previously using this browser, or you need to sign in as a root user instead, choose **Sign in using root user email** to return to the main sign-in page.
 
