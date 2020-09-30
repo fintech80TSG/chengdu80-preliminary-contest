@@ -1,6 +1,6 @@
 # Table of contents
 
-* [CHENGDU80金融科技参赛手册](README.md)
+* [CHENGDU 80  Technology manual](README.md)
 
 ## User Guide
 
@@ -14,16 +14,16 @@
 * [Sign Console](operation-manual/sign-console.md)
 * [Sign EC2](operation-manual/sign-ec2.md)
 * [Snapshots Backup](operation-manual/develops-and-backup.md)
+* [upload/download data](operation-manual/upload-download-data.md)
 * [Code Present](operation-manual/code-present.md)
-* [原型发布](operation-manual/code-release.md)
-* [答辩平台](operation-manual/competitive-platform.md)
+* [Code Release](operation-manual/code-release.md)
+* [competitive](operation-manual/competitive-platform.md)
 
-## 配置文档 <a id="service-documents"></a>
+## AWS Service Documents <a id="service-documents"></a>
 
 * [AWS Management Console](service-documents/aws-management-console.md)
 * [AWS CLI](service-documents/aws-cli.md)
-* [upload/download with S3](service-documents/upload-download-with-s3.md)
-* [其他……](service-documents/to-be-continued.md)
+* [other](service-documents/to-be-continued.md)
 
 ## 技术支持 <a id="tech-support"></a>
 

@@ -1,2 +1,2 @@
-# 答辩平台
+# competitive
 

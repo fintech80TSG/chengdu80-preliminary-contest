@@ -1,4 +1,4 @@
-# CHENGDU80金融科技参赛手册
+# CHENGDU 80  Technology manual
 
 ## 背景
 
