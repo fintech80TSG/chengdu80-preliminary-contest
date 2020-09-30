@@ -2,19 +2,19 @@
 
 * [CHENGDU80金融科技参赛手册](README.md)
 
-## 用户指引 <a id="user-guide"></a>
+## User Guide
 
-* [比赛环境](user-guide/bi-sai-huan-jing/README.md)
-  * [平台](user-guide/bi-sai-huan-jing/ping-tai.md)
-  * [配置](user-guide/bi-sai-huan-jing/pei-zhi.md)
-  * [限制](user-guide/bi-sai-huan-jing/xian-zhi.md)
+* [Environment](user-guide/environment/README.md)
+  * [Platform](user-guide/environment/platform.md)
+  * [Configuration](user-guide/environment/configuration.md)
+  * [Limit](user-guide/environment/limit.md)
 
-## 操作流程 <a id="operation-manual"></a>
+## operation <a id="operation-manual"></a>
 
 * [Sign Console](operation-manual/sign-console.md)
 * [Sign EC2](operation-manual/sign-ec2.md)
 * [Snapshots Backup](operation-manual/develops-and-backup.md)
-* [代码提交](operation-manual/code-present.md)
+* [Code Present](operation-manual/code-present.md)
 * [原型发布](operation-manual/code-release.md)
 * [答辩平台](operation-manual/competitive-platform.md)
 
