@@ -23,15 +23,15 @@
 
 * [AWS Management Console](service-documents/aws-management-console.md)
 * [AWS CLI](service-documents/aws-cli.md)
-* [other](service-documents/to-be-continued.md)
+* [Other](service-documents/to-be-continued.md)
 
-## 技术支持 <a id="tech-support"></a>
+## Support <a id="tech-support"></a>
 
 * [FAQ](tech-support/faq.md)
-* [在线支持](tech-support/online-support.md)
+* [Support Online](tech-support/online-support.md)
 
 ---
 
-* [快速入口](quick-entry.md)
+* [Quick](quick-entry.md)
 * [Official Website](https://chengdu80.org)
 
