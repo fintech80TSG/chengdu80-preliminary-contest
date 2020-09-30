@@ -23,7 +23,7 @@
 
 * [AWS Management Console](service-documents/aws-management-console.md)
 * [AWS CLI](service-documents/aws-cli.md)
-* [S3上传/下载操作](service-documents/s3-shang-chuan-xia-zai-cao-zuo.md)
+* [upload/download with S3](service-documents/upload-download-with-s3.md)
 * [其他……](service-documents/to-be-continued.md)
 
 ## 技术支持 <a id="tech-support"></a>
