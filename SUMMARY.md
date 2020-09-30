@@ -12,8 +12,8 @@
 ## 操作流程 <a id="operation-manual"></a>
 
 * [Sign Console](operation-manual/sign-console.md)
-* [数据获取](operation-manual/data-import.md)
-* [snapshots backup](operation-manual/develops-and-backup.md)
+* [Sign EC2](operation-manual/sign-ec2.md)
+* [Snapshots Backup](operation-manual/develops-and-backup.md)
 * [代码提交](operation-manual/code-present.md)
 * [原型发布](operation-manual/code-release.md)
 * [答辩平台](operation-manual/competitive-platform.md)
