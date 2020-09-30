@@ -33,5 +33,5 @@
 ---
 
 * [快速入口](quick-entry.md)
-* [CHENGDU80官网](https://chengdu80.org)
+* [Official Website](https://chengdu80.org)
 
