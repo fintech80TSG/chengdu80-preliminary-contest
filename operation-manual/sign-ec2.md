@@ -4,7 +4,7 @@ description: Acquiring and setting up the cloud computing environment
 
 # Acquiring and Setting up
 
-## Getting Super Powers
+## Acquiring and Setting up
 
 Becoming a super hero is a fairly straight forward process:
 
