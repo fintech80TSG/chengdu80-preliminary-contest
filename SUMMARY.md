@@ -33,6 +33,6 @@
 
 ---
 
-* [Quick](quick-entry.md)
-* [Official Website](https://chengdu80.org)
+* [Quick Entry](quick-entry.md)
+* [Official Website](http://cd80.swufe.edu.cn)
 
