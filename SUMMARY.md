@@ -19,7 +19,7 @@
 * [Prototype deployment](operation-manual/code-release.md)
 * [Online Presentation](operation-manual/competitive-platform.md)
 
-## AWS Service Documents <a id="service-documents"></a>
+## Service Documents
 
 * [AWS Management Console](service-documents/aws-management-console.md)
 * [AWS CLI](service-documents/aws-cli.md)
