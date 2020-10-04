@@ -13,10 +13,10 @@
 
 * [Sign Console](operation-manual/sign-console.md)
 * [Sign EC2](operation-manual/sign-ec2.md)
-* [Snapshots Backup](operation-manual/develops-and-backup.md)
-* [Upload/Download Data](operation-manual/upload-download-data.md)
-* [Code Present](operation-manual/code-present.md)
-* [Code Release](operation-manual/code-release.md)
+* [Backup and Restoring](operation-manual/develops-and-backup.md)
+* [Obtaining  Data](operation-manual/upload-download-data.md)
+* [Code Submission](operation-manual/code-present.md)
+* [Prototype deployment](operation-manual/code-release.md)
 * [competitive](operation-manual/competitive-platform.md)
 
 ## AWS Service Documents <a id="service-documents"></a>
