@@ -1,23 +1,23 @@
 # Table of contents
 
-* [CHENGDU 80  Technology manual](README.md)
+* [CHENGDU 80  ONLINE MANUAL](README.md)
 
-## User Guide
+## INTRO
 
-* [Environment](user-guide/environment/README.md)
-  * [Platform](user-guide/environment/platform.md)
-  * [Configuration](user-guide/environment/configuration.md)
-  * [Limit](user-guide/environment/limit.md)
+* [Competition Environment](intro/environment/README.md)
+  * [Platform and Configuration](intro/environment/platform.md)
+  * [Configuration](intro/environment/configuration.md)
+  * [Limit](intro/environment/limit.md)
 
-## operation <a id="operation-manual"></a>
+## operation manual
 
-* [Sign Console](operation-manual/sign-console.md)
-* [Sign EC2](operation-manual/sign-ec2.md)
+* [Access to Account](operation-manual/sign-console.md)
+* [Acquiring and Setting up](operation-manual/sign-ec2.md)
 * [Backup and Restoring](operation-manual/develops-and-backup.md)
 * [Obtaining  Data](operation-manual/upload-download-data.md)
 * [Code Submission](operation-manual/code-present.md)
 * [Prototype deployment](operation-manual/code-release.md)
-* [competitive](operation-manual/competitive-platform.md)
+* [Online Presentation](operation-manual/competitive-platform.md)
 
 ## AWS Service Documents <a id="service-documents"></a>
 

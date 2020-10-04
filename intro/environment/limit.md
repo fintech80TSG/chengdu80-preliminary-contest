@@ -1,8 +1,4 @@
----
-description: Acquiring and setting up the cloud computing environment
----
-
-# Acquiring and Setting up
+# Limit
 
 ## Getting Super Powers
 
