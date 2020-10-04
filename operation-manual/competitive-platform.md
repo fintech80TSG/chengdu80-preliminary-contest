@@ -8,21 +8,21 @@ We need each team to have the following three types of meeting software on hand 
 
 ## Zoom Meeting
 
-download
+Download
 
 Join the meeting   
 
 
 ## Microsoft Teams
 
-download
+Download
 
 Join the meeting   
 
 
 ## Tencent Meeting 
 
-download
+Download
 
 Join the meeting   
 
