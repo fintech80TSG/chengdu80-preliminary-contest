@@ -13,7 +13,7 @@ Here's the submission process \(as if you were submitting code to github normall
 * The rest of your team can also join this code repository by following the [link](https://classroom.github.com/g/ynLA-QII%20) in step 2, while opting to join the team named after the university you created. This way, your team can work together to submit code to your repository!
 
 {% hint style="info" %}
-Detailed instructions are available on the [github website](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github). 
+Detailed instructions are available on the [GITHUB ](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github)
 {% endhint %}
 
 
