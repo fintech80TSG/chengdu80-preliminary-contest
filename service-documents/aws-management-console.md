@@ -8,7 +8,7 @@ The [AWS Management Console](https://console.aws.amazon.com/) is a web applicati
 
 ![](https://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/images/console-home.png)
 
-The home page provides access to each service console as well as an intuitive user interface for exploring AWS and getting helpful tips. Among other things, the individual service consoles offer tools for working with [Amazon S3](https://console.aws.amazon.com/s3/) buckets, launching and connecting to [Amazon EC2](https://console.aws.amazon.com/ec2/) instances, setting [Amazon CloudWatch](https://console.aws.amazon.com/cloudwatch/) alarms, and getting information about your account and about [billing](https://console.aws.amazon.com/billing/).
+The home page provides access to each service console as well as an intuitive user interface for exploring AWS and getting helpful tips. Among other things, the individual service consoles offer tools for working with Amazon S3 buckets, launching and connecting to Amazon EC2 instances, setting Amazon CloudWatch alarms, and getting information about your account and about billing.
 
 ![](https://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/images/console-parts-new.png)
 
