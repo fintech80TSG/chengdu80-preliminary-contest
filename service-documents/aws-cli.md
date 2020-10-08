@@ -92,13 +92,5 @@ This section explains how to configure the settings that the AWS Command Line In
 * [Using an HTTP proxy](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-proxy.html)
 * [Using an IAM role in the AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-role.html)
 
-## Additional Documentation and Resources <a id="cli-chap-configure"></a>
-
-In addition to this guide, the following are valuable online resources for the AWS CLI.
-
-* [AWS CLI version 2 reference guide](https://awscli.amazonaws.com/v2/documentation/api/latest/index.html)
-* [AWS CLI GitHub Repository](https://github.com/aws/aws-cli) You can view—and fork—the source code for the AWS CLI on GitHub in the [aws-cli repository](https://github.com/aws/aws-cli). Join the community of users on GitHub to provide feedback, request features, and submit your own contributions!
-* [AWS CLI version 2 change notes](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst)
-
 \*\*\*\*
 
