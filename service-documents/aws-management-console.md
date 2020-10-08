@@ -2,17 +2,6 @@
 
 Welcome to the [AWS Management Console](https://console.aws.amazon.com/). This guide provides a short introduction to working with the console. To learn how to work with individual services in the console, see [AWS Documentation](https://aws.amazon.com//documentation/).
 
-**Topics**
-
-* [What is the AWS Management Console?](https://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/getting-started.html#learn-whats-new)
-* [Getting started with a service](https://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/getting-started.html#start-service)
-* [Adding and removing favorites](https://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/getting-started.html#add-remove-shortcut)
-* [Choosing a Region](https://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/getting-started.html#select-region)
-* [Changing your password](https://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/getting-started.html#change-password)
-* [Getting billing information](https://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/getting-started.html#get-billinginfo)
-* [Using the device of your choice](https://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/getting-started.html#console-device)
-* [Troubleshooting](https://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/getting-started.html#troubleshooting)
-
 ### What is the AWS Management Console? <a id="learn-whats-new"></a>
 
 The [AWS Management Console](https://console.aws.amazon.com/) is a web application that comprises and refers to a broad collection of service consoles for managing Amazon Web Services. When you first sign in, you see the console home page.
@@ -87,35 +76,4 @@ If you are an account owner, you can change your AWS account password from the [
    The new password must be at least eight characters long and must include a symbol, a number, an uppercase letter, and a lowercase letter.
 
 5. When you've completed the password form, choose **Change Password** or **Save changes**.
-
-### Getting billing information <a id="get-billinginfo"></a>
-
-If you have the necessary permissions, you can get information about your AWS charges from the console.
-
-**To get your billing information**
-
-1. On the navigation bar, choose your account name.
-2. Choose **My Billing Dashboard**.
-3. Use the AWS Billing and Cost Management dashboard to find a summary and a breakdown of your monthly spending. To learn more, see the [AWS Billing and Cost Management User Guide](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/).
-
-### Using the device of your choice <a id="console-device"></a>
-
-The [AWS Management Console](https://console.aws.amazon.com/) has been designed to work on tablets as well as other kinds of devices:
-
-* Horizontal and vertical space is maximized to show more on your screen.
-* Buttons and selectors are larger for a better touch experience.
-
-The AWS Management Console is also available as an app for Android and iOS. This app provides mobile-relevant tasks that are a good companion to the full web experience. For example, you can easily view and manage your existing Amazon EC2 instances and Amazon CloudWatch alarms from your phone.
-
-You can download the AWS Console mobile app from [Amazon Appstore](http://www.amazon.com/AWS-Mobile-LLC-Console/dp/B00ATSN730), [Google Play](https://play.google.com/store/apps/details?id=com.amazon.aws.console.mobile), or [iTunes](https://itunes.apple.com/us/app/aws-console/id580990573?mt=8).
-
-### Troubleshooting <a id="troubleshooting"></a>
-
-Consult this section to find solutions to common problems with the AWS Management Console.
-
-#### Fix page load issues with Internet Explorer 11 <a id="ie11"></a>
-
-If you use the [AWS Management Console](https://console.aws.amazon.com/) with Internet Explorer 11, the browser might fail to load some pages of the console. This is a problem related to Internet Explorer's Compatibility View. To address this issue, in Internet Explorer, open **Compatibility View Settings** and disable **Display intranet sites in Compatibility View**.
-
-For more information, see [Fix site display problems with Compatibility View](https://support.microsoft.com/en-us/help/17472/windows-internet-explorer-11-fix-site-display-problems-compatibility-v#ie=ie-11).
 
