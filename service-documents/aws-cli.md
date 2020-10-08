@@ -26,8 +26,6 @@ unzip awscliv2.zip
 sudo ./aws/install
 ```
 
-For a list of versions, see the [AWS CLI version 2 changelog](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst) on _GitHub_.
-
 ### To install and update for all users using the macOS command line <a id="cliv2-mac-install-cmd-all-users"></a>
 
 If you have `sudo` permissions, you can install the AWS CLI version 2 for all users on the computer.
@@ -47,8 +45,6 @@ $ sudo installer -pkg AWSCLIV2.pkg -target /
 $ curl "https://awscli.amazonaws.com/AWSCLIV2-2.0.30.pkg" -o "AWSCLIV2.pkg"
 $ sudo installer -pkg AWSCLIV2.pkg -target /
 ```
-
-For a list of versions, see the [AWS CLI version 2 changelog](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst) on _GitHub_.
 
 
 
