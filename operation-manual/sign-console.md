@@ -40,8 +40,6 @@ Before you sign into an AWS account as an IAM user, be sure that you have the fo
 * The user name for your IAM user.
 * The password for your IAM user.
 
-If you are a root user or IAM administrator and need to provide the AWS account ID or AWS account alias to an IAM user, see [Your AWS account ID and its alias](https://docs.aws.amazon.com/IAM/latest/UserGuide/console_account-alias.html).
-
 If you are an IAM user, you can log in using either a sign-in URL or the main sign-in page.
 
 **To sign in to an AWS account as an IAM user using an IAM users sign-in URL**
