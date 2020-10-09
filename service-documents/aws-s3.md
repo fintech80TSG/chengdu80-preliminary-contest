@@ -12,6 +12,8 @@
 
 You've successfully uploaded an object to your bucket.
 
+**Amazon S3 using the command line**
+
 ## Delecting an object <a id="PuttingAnObjectInABucket"></a>
 
 **Amazon S3 managerment Console**
@@ -21,6 +23,8 @@ You've successfully uploaded an object to your bucket.
 3. Choose **Actions**, and then choose **Delete**.
 4. In the **Delete objects** dialog box, verify the name of the object, and choose **Delete**.
 
+**Amazon S3 using the command line**
+
 ## Downloading an object from a bucket <a id="PuttingAnObjectInABucket"></a>
 
 **Amazon S3 managerment Console**
@@ -29,4 +33,6 @@ You've successfully uploaded an object to your bucket.
 2. In the **Name** list, select the check box for the object that you want to download.
 3. Choose **Actions**, and then choose **Download**.
 4. In the **Download objects** dialog box and choose **Download**.
+
+**Amazon S3 using the command line**
 
