@@ -69,6 +69,6 @@ VolumeSize          : 20This example creates a snapshot of the specified volume.
    * To make the Volume  Same **Availability Zone** as **EC2**.
 5. Choose **Save**.
 6. Choose broken EC2 and select the root Volume.
-7. then choose **Actions,Detach Volume\(Please shut down EC2\)**.
-8. Select the new Volume and 
+7. then choose **Actions, Detach Volume\(Please shut down EC2\)**.
+8. Select the new Volume and then choose **Actions,  Attach Volume**.
 
