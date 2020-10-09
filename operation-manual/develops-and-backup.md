@@ -68,4 +68,7 @@ VolumeSize          : 20This example creates a snapshot of the specified volume.
 4. Make the snapshot create the Volume with specific AWS accounts as follows:
    * To make the Volume  Same **Availability Zone** as **EC2**.
 5. Choose **Save**.
+6. Choose broken EC2 and select the root Volume.
+7. then choose **Actions,Detach Volume\(Please shut down EC2\)**.
+8. Select the new Volume and 
 
