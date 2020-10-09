@@ -18,11 +18,19 @@ https://account_alias_or_id.signin.aws.amazon.com/console/
 
 1.select **Services -&gt; EC2** buttons
 
-![](../.gitbook/assets/image%20%2856%29.png)
+![](../.gitbook/assets/image%20%2857%29.png)
 
-2.
+2.get EC2 information
+
+
 
 ### Sign in EC2 <a id="user-sign-in-page"></a>
+
+**centos7 or ubuntu18.04 LTS**
+
+\*\*\*\*
+
+**windows 2012R2**
 
 
 
