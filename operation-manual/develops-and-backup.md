@@ -60,3 +60,16 @@ VolumeSize          : 20This example creates a snapshot of the specified volume.
 
 ### Restoring a snapshot <a id="ebs-create-snapshot"></a>
 
+**To restore a snapshot using the console**
+
+1. Open the Amazon EC2 console at [https://console.aws.amazon.com/ec2/](https://console.aws.amazon.com/ec2/).
+2. Choose **Snapshots** in the navigation pane.
+3. Select the snapshot and then choose **Actions**, **Create Volume**.
+4. Make the snapshot create the Volume with specific AWS accounts as follows:
+   * To make the snapshot public, choose **Public**.
+
+     This option is not valid for encrypted snapshots or snapshots with an AWS Marketplace product code.
+
+   * To share the snapshot with one or more AWS accounts, choose **Private**, enter the AWS account ID \(without hyphens\) in **AWS Account Number**, and choose **Add Permission**. Repeat for any additional AWS accounts.
+5. Choose **Save**.
+
