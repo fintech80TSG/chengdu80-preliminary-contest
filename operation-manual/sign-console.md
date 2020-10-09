@@ -16,6 +16,12 @@ https://account_alias_or_id.signin.aws.amazon.com/console/
 
 ### Check in EC2 <a id="user-sign-in-page"></a>
 
+1.select **Services -&gt; EC2** buttons
+
+![](../.gitbook/assets/image%20%2856%29.png)
+
+2.
+
 ### Sign in EC2 <a id="user-sign-in-page"></a>
 
 
