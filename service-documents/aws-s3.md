@@ -23,5 +23,5 @@ If you want to choose which objects you delete without emptying all the objects 
 3. Choose **Actions**, and then choose **Delete**.
 4. In the **Delete objects** dialog box, verify the name of the object, and choose **Delete**.
 
-
+**Download an object from** **a bucket**
 
