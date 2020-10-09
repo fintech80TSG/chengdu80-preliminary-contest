@@ -1,35 +1,5 @@
 # Access to Account
 
-Before you can use the AWS Management Console, you must sign in to your AWS account. The process that you will use to sign in to your AWS account depends on what type of AWS user you are. There are two different types of users in AWS. You are either the account owner \(root user\) or you are an IAM user. The root user is created when the AWS account is created using the email address and password that were used to create the account. IAM users are created by the root user or an IAM administrator within the AWS account.
-
-### Sign in as the root user <a id="root-user-sign-in-page"></a>
-
-Before you sign in to an AWS account as the root user, be sure that you have the following required information.
-
-**Requirements**
-
-* The email address used to create the AWS account.
-* The password for the root user.
-
-**To sign in to an AWS account as the root user**
-
-1. Open [https://console.aws.amazon.com/](https://console.aws.amazon.com/).
-2. If you have not signed in previously using this browser, the main sign-in page appears as follows. Choose **Root user**, enter the email address associated with your account, and choose **Next**.
-
-                                ![
-            Main sign-in page with Root user selected
-          ](https://docs.aws.amazon.com/IAM/latest/UserGuide/images/sign-in-main-capture.png)
-
-If you have signed in as a root user previously using this browser, your browser might remember the email address for the AWS account. If so, you'll see the screen shown in the next step instead.
-
-If you have signed in previously as an IAM user using this browser, your browser might display the IAM user sign in page instead. To return to the main sign-page, choose **Sign in using root user email**.
-
-1. Enter your password and choose **Sign in**.
-
-                              ![
-            Root user sign-in page
-          ](https://docs.aws.amazon.com/IAM/latest/UserGuide/images/sign-in-root-user-capture.png)
-
 ### Sign in as an IAM user <a id="user-sign-in-page"></a>
 
 Before you sign into an AWS account as an IAM user, be sure that you have the following required information. If you do not have this information, contact the administrator for the AWS account.

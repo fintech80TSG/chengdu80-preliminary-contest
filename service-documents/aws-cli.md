@@ -77,22 +77,6 @@ $ sudo installer -pkg AWSCLIV2.pkg -target /
 
 For general use, the aws configure command is the fastest way to set up your AWS CLI installation. When you enter this command, the AWS CLI prompts you for four pieces of information:
 
-* **Access key ID and Secret access key**:
-
-Access keys consist of an access key ID and secret access key, which are used to sign programmatic requests that you make to AWS. If you don't have access keys, you can create them from the AWS Management Console.
-
-* **AWS Region**:
-
- The `Default region name` identifies the AWS Region whose servers you want to send your requests to by default. This is typically the Region closest to you, but it can be any Region. For example, you can type `us-west-2` to use US West \(Oregon\). This is the Region that all later requests are sent to, unless you specify otherwise in an individual command.
-
-* **Output format**:
-
-The `Default output format` specifies how the results are formatted. The value can be any of the values in the following list. If you don't specify an output format, `json` is used as the default.
-
-The AWS CLI stores this information in a _profile_ \(a collection of settings\) named `default` in the `credentials` file. By default, the information in this profile is used when you run an AWS CLI command that doesn't explicitly specify a profile to use. For more information on the `credentials` file, see Configuration and credential file settings.
-
-The following example shows sample values. Replace them with your own values as described in the following sections.
-
 ```text
 $ aws configure
 AWS Access Key ID [None]: AKIAIOSFODNN7EXAMPLE

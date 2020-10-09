@@ -4,14 +4,6 @@ description: Backing up and restoring the computing environment
 
 # Backup and Restoring
 
-
-
-You can back up the data on your Amazon EBS volumes to Amazon S3 by taking point-in-time snapshots. Snapshots are _incremental_ backups, which means that only the blocks on the device that have changed after your most recent snapshot are saved. This minimizes the time required to create the snapshot and saves on storage costs by not duplicating data. Each snapshot contains all of the information that is needed to restore your data \(from the moment when the snapshot was taken\) to a new EBS volume.
-
-When you create an EBS volume based on a snapshot, the new volume begins as an exact replica of the original volume that was used to create the snapshot. The replicated volume loads data in the background so that you can begin using it immediately. If you access data that hasn't been loaded yet, the volume immediately downloads the requested data from Amazon S3, and then continues loading the rest of the volume's data in the background.
-
-When you delete a snapshot, only the data unique to that snapshot is removed. 
-
 ### Creating a snapshot <a id="ebs-create-snapshot"></a>
 
 Use the following procedure to create a snapshot from the specified volume.
