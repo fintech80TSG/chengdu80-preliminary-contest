@@ -58,5 +58,5 @@ VolumeId            : vol-12345678
 VolumeSize          : 20This example creates a snapshot of the specified volume.
 ```
 
-
+### Restoring a snapshot <a id="ebs-create-snapshot"></a>
 
