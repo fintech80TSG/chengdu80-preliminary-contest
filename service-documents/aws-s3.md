@@ -2,8 +2,6 @@
 
 ## Uploading an object to a bucket <a id="PuttingAnObjectInABucket"></a>
 
-Now that you've created a bucket, you're ready to upload an object to it. An object can be any kind of file: a text file, a photo, a video, and so on.
-
 **To upload an object to a bucket**
 
 1. In the **Bucket** list, choose the name of the bucket that you want to upload your object to.
@@ -14,7 +12,7 @@ Now that you've created a bucket, you're ready to upload an object to it. An obj
 
 You've successfully uploaded an object to your bucket.
 
-### Deleting an object <a id="clean-up-delete-objects"></a>
+## Delecting an object <a id="PuttingAnObjectInABucket"></a>
 
 If you want to choose which objects you delete without emptying all the objects from your bucket, you can delete an object.
 
@@ -23,7 +21,7 @@ If you want to choose which objects you delete without emptying all the objects 
 3. Choose **Actions**, and then choose **Delete**.
 4. In the **Delete objects** dialog box, verify the name of the object, and choose **Delete**.
 
-### Downloading an object from an bucket <a id="clean-up-delete-objects"></a>
+## Downloading an object from a bucket <a id="PuttingAnObjectInABucket"></a>
 
 1. In the **Buckets** list, choose the name of the bucket that you want to download an object from.
 2. In the **Name** list, select the check box for the object that you want to download.
