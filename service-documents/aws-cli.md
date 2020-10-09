@@ -89,7 +89,7 @@ Access keys consist of an access key ID and secret access key, which are used to
 
 The `Default output format` specifies how the results are formatted. The value can be any of the values in the following list. If you don't specify an output format, `json` is used as the default.
 
-The AWS CLI stores this information in a _profile_ \(a collection of settings\) named `default` in the `credentials` file. By default, the information in this profile is used when you run an AWS CLI command that doesn't explicitly specify a profile to use. For more information on the `credentials` file, see [Configuration and credential file settings](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html)
+The AWS CLI stores this information in a _profile_ \(a collection of settings\) named `default` in the `credentials` file. By default, the information in this profile is used when you run an AWS CLI command that doesn't explicitly specify a profile to use. For more information on the `credentials` file, see Configuration and credential file settings.
 
 The following example shows sample values. Replace them with your own values as described in the following sections.
 
