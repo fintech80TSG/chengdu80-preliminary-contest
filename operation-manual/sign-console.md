@@ -30,7 +30,7 @@ https://account_alias_or_id.signin.aws.amazon.com/console/
 
 \*\*\*\*
 
-**windows 2012R2**
+**windows 2016 R2**
 
 
 
