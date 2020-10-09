@@ -71,22 +71,39 @@ $ sudo installer -pkg AWSCLIV2.pkg -target /
 
 ## Configuring the AWS CLI <a id="cli-chap-configure"></a>
 
-This section explains how to configure the settings that the AWS Command Line Interface \(AWS CLI\) uses to interact with AWS. These include your security credentials, the default output format, and the default AWS Region.Note
+  This section explains how to configure the settings that the AWS Command Line Interface \(AWS CLI\) uses to interact with AWS. These include your security credentials, the default output format, and the default AWS Region.Note
 
-**Topics**
+### Quick configuration with aws configure <a id="cli-configure-quickstart-config"></a>
 
-* [Configuration basics](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html)
-* [Configuration and credential file settings](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html)
-* [Named profiles](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-profiles.html)
-* [Configuring the AWS CLI to use AWS Single Sign-On](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-sso.html)
-* [Environment variables to configure the AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-envvars.html)
-* [Command line options](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-options.html)
-* [Command completion](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-completion.html)
-* [AWS CLI retries](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-retries.html)
-* [Sourcing credentials with an external process](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-sourcing-external.html)
-* [Getting credentials from EC2 instance metadata](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-metadata.html)
-* [Using an HTTP proxy](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-proxy.html)
-* [Using an IAM role in the AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-role.html)
+For general use, the aws configure command is the fastest way to set up your AWS CLI installation. When you enter this command, the AWS CLI prompts you for four pieces of information:
+
+* **Access key ID and Secret access key**:
+
+Access keys consist of an access key ID and secret access key, which are used to sign programmatic requests that you make to AWS. If you don't have access keys, you can create them from the AWS Management Console.
+
+* **AWS Region**:
+
+ The `Default region name` identifies the AWS Region whose servers you want to send your requests to by default. This is typically the Region closest to you, but it can be any Region. For example, you can type `us-west-2` to use US West \(Oregon\). This is the Region that all later requests are sent to, unless you specify otherwise in an individual command.
+
+* **Output format**:
+
+The `Default output format` specifies how the results are formatted. The value can be any of the values in the following list. If you don't specify an output format, `json` is used as the default.
+
+The AWS CLI stores this information in a _profile_ \(a collection of settings\) named `default` in the `credentials` file. By default, the information in this profile is used when you run an AWS CLI command that doesn't explicitly specify a profile to use. For more information on the `credentials` file, see [Configuration and credential file settings](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html)
+
+The following example shows sample values. Replace them with your own values as described in the following sections.
+
+```text
+$ aws configure
+AWS Access Key ID [None]: AKIAIOSFODNN7EXAMPLE
+AWS Secret Access Key [None]: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+Default region name [None]: us-west-2
+Default output format [None]: json
+```
+
+
+
+
 
 \*\*\*\*
 
