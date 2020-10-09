@@ -25,5 +25,8 @@ If you want to choose which objects you delete without emptying all the objects 
 
 ### Downloading an object from an bucket <a id="clean-up-delete-objects"></a>
 
-When you want to get an object,
+1. In the **Buckets** list, choose the name of the bucket that you want to download an object from.
+2. In the **Name** list, select the check box for the object that you want to download.
+3. Choose **Actions**, and then choose **Download**.
+4. In the **Download objects** dialog box, verify the name of the object, and choose **Download**.
 
