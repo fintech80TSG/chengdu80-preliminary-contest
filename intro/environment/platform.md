@@ -2,7 +2,7 @@
 description: About AWS
 ---
 
-# Platform and Configuration
+# Platform
 
 ![](../../.gitbook/assets/tu-pian-1.png) 
 

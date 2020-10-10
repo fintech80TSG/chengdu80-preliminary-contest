@@ -9,25 +9,28 @@ Because of the global impact of Covid-19, we have chosen to conduct this year's 
 ## Guide
 
 INTRO  
-- Competition Environment  
-   + Platform and Configuration  
-   + Configuration  
-   + Limit  
+ Competition Environment
+
+* [Platform](intro/environment/platform.md)
+* [Configuration](intro/environment/configuration.md)
+* [Limit](intro/environment/limit.md)
+
+  
 - OPERATION MANUAL  
-   + Access to Account  
-   + Acquiring and Setting up  
-   + Backup and Restoring  
-   + Obtaining Data  
-   + Code Submission  
-   + Prototype deployment  
-   + Online Presentation
+   + [Access to Account](operation-manual/sign-console.md)  
+   + [Acquiring and Setting up](operation-manual/sign-ec2.md)  
+   + [Backup and Restoring](operation-manual/develops-and-backup.md)  
+   + [Obtaining Data](operation-manual/upload-download-data.md)  
+   + [Code Submission](operation-manual/code-present.md)  
+   + [Prototype deployment](operation-manual/code-release.md)  
+   + [Online Presentation](operation-manual/competitive-platform.md)
 
 1. SERVICE DOCUMENTS  
-   - AWS Management Console  
-   - AWS CLI  
-   - AWS S3
+   - [AWS Management Console](service-documents/aws-management-console.md)  
+   - [AWS CLI](service-documents/aws-cli.md)  
+   - [AWS S3](service-documents/aws-s3.md)
 
-   - Other
+   - [Other](service-documents/to-be-continued.md)
 
 2. SUPPORT - FAQ - Support Online
 3. Quick entry

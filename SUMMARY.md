@@ -5,7 +5,7 @@
 ## INTRO
 
 * [Competition Environment](intro/environment/README.md)
-  * [Platform and Configuration](intro/environment/platform.md)
+  * [Platform](intro/environment/platform.md)
   * [Configuration](intro/environment/configuration.md)
   * [Limit](intro/environment/limit.md)
 
