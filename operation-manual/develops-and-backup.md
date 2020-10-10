@@ -22,7 +22,7 @@ Use the following procedure to create a snapshot from the specified volume.
 | Key | Value |
 | :--- | :--- |
 | Name | XXXX |
-| Owner | Team XX |
+| Owner | Name\_account\_id |
 
 
 
