@@ -2,11 +2,11 @@
 
 ### 3.1 Limit EC2 resources
 
-We limited each participating team can only use 2 EC2 Server.
+We limited each participating team can only use 2 EC2 Server.\(3 select 2\)
 
 * [x] Windows 2016R2
-* [x] Ubuntu 18.04
-* [ ] Centos 7
+* [ ] Ubuntu 18.04
+* [x] Centos 7
 
 ### 3.2 Limit  Security Groups\(Ports\)
 
