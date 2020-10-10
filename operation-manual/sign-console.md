@@ -82,25 +82,27 @@ ECDSA key fingerprint is l4UB/neBad9tvkgJf1QZWxheQmR59WgrgzEimCG6kZY.
 Are you sure you want to continue connecting (yes/no)?
 ```
 
-1. \(Optional\) Verify that the fingerprint in the security alert matches the fingerprint that you previously obtained in [\(Optional\) Get the instance fingerprint](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/connection-prereqs.html#connection-prereqs-fingerprint). 
-2. Enter `yes`.
+Enter `yes`.
 
-   You see a response like the following:
+You see a response like the following:
 
-   ```text
-   Warning: Permanently added 'ec2-198-51-100-1.compute-1.amazonaws.com' (ECDSA) to the list of known hosts.
-   ```
+```text
+Warning: Permanently added 'ec2-198-51-100-1.compute-1.amazonaws.com' (ECDSA) to the list of known hosts.
+```
 
 **Connect using PuTTY** 
 
-1. Start PuTTY \(from the **Start** menu, choose **All Programs, PuTTY, PuTTY**\).
-2. In the **Category** pane, choose **Session** and complete the following fields:
+1.  Download and install PuTTY from the [PuTTY download page](http://www.chiark.greenend.org.uk/~sgtatham/putty/). 
+2. Start PuTTY \(from the **Start** menu, choose **All Programs, PuTTY, PuTTY**\).
+3. In the **Category** pane, choose **Session** and complete the following fields:
 
    1. In the **Host Name** box, do one of the following:
-      * \(Public DNS\) To connect using your instance's public DNS name, enter `my-instance-user-name`@`my-instance-public-dns-name`.
-      * \(IPv6\) Alternatively, if your instance has an IPv6 address, to connect using your instance's IPv6 address, enter `my-instance-user-name`@`my-instance-IPv6-address`.
-   2. Ensure that the **Port** value is 22.
-   3. Under **Connection type**, select **SSH**.
+
+   * \(Public DNS\) To connect using your instance's public DNS name, enter `my-instance-user-name`@`my-instance-public-dns-name`.
+   * \(IPv6\) To connect using your instance's IPv6 address, enter  `my-instance-user-name`@`my-instance-IPv6-address`.
+
+   1. Ensure that the **Port** value is 22.
+   2. Under **Connection type**, select **SSH**.
 
                                ![
    							PuTTY configuration - Session
@@ -131,7 +133,7 @@ Are you sure you want to continue connecting (yes/no)?
 
 1. Select the file name of the private key \(`.pem`\) and unzip.
 2. Copy **EC2 Password**.
-3. Using window mstsc to connect.
+3. Using Windows mstsc\(Remote Desktop Connection\) to connect.
 
 ![](../.gitbook/assets/image%20%2860%29.png)
 
