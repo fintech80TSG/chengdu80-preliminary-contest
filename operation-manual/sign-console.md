@@ -45,7 +45,6 @@ https://account_alias_or_id.signin.aws.amazon.com/console/
 Your local computer might have an SSH client installed by default. You can verify this by typing **ssh** at the command line. If your compute doesn't recognize the command, you can install an SSH client.
 
 * Recent versions of Windows Server 2019 and Windows 10 - OpenSSH is included as an installable component. For information, see [OpenSSH in Windows](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_overview).
-* Earlier versions of Windows - Download and install OpenSSH. For more information, see [Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH/wiki).
 * Linux and macOS X - Download and install OpenSSH. For more information, see [http://www.openssh.com](http://www.openssh.com/).
 
 2. Connect your Linux instance using an SSH client
