@@ -8,13 +8,13 @@
 
 Each team will be provided  with two virtual servers .
 
-The two virtual servers can be configured as Windows operating system or Ubuntu/centos operating system, but it should be **noted** that **the way to connect to the server varies according to the operating system of the terminal**.
+The two virtual servers can be configured as Windows operating system or Ubuntu/Centos operating system, but it should be **noted** that **the way to connect to the server varies according to the operating system of the terminal**.
 
 Hardware configuration is as follows：
 
 | CPU | RAM | HDD | Ethernet | OS |
 | :--- | :--- | ---: | ---: | ---: |
-| Xeon 4vCPU | 16GB | 200GB SSD | 4000M | Windows10/Ubuntu 18.04/centos7 |
+| Xeon 4vCPU | 16GB | 200GB SSD | 4000M | Windows10/Ubuntu 18.04/Centos7 |
 
 ### 2.3  Pre-installed software
 
@@ -32,7 +32,7 @@ Hardware configuration is as follows：
 
 | OS | Pre-installed Apps | Version |
 | :--- | :--- | :--- |
-| centos | Python | 3.7 |
+| Centos | Python | 3.7 |
 |  | NodeJS |  |
 |  | Pip |  |
 
