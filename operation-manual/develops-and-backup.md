@@ -16,17 +16,23 @@ Use the following procedure to create a snapshot from the specified volume.
 
 ![](../.gitbook/assets/image%20%2865%29.png)
 
-1. \(Optional\) Choose **Add Tag** to add tags to your snapshot. For each tag, provide a tag key and a tag value.
+1.  Choose **Add Tag** to add tags to your snapshot. For each tag, provide a tag key and a tag value.
 2. Choose **Create Snapshot**.
+
+| Key | Value |
+| :--- | :--- |
+| Name | XXXX |
+| Owner | Team XX |
+
+
 
 ![](../.gitbook/assets/image%20%2866%29.png)
 
 **To create a snapshot using the command line, see the following example**
 
-* create-snapshot \(AWS CLI\):
+* create-snapshot \(AWS CLI\):aws ec2 create-snapshots \
 
 ```text
-aws ec2 create-snapshots \
     --instance-specification InstanceId=i-1234567890abcdef0 \
     --description "This is snapshot of a volume from my-instance"
 ```
