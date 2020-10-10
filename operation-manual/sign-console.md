@@ -56,28 +56,34 @@ Use the following procedure to connect to your Linux instance using an SSH clien
 
 1. In a terminal window, use the **ssh** command to connect to the instance. You specify the path and file name of the private key \(`.pem`\), the user name for your instance, and the public DNS name or IPv6 address for your instance
 
-   * \(Public DNS\) To connect using your instance's public DNS name, enter the following command.
+{% tabs %}
+{% tab title="Public DNS" %}
+\(Public DNS\) To connect using your instance's public DNS name, enter the following command.
 
-     ```text
-     ssh -i /path/my-key-pair.pem my-instance-user-name@my-instance-public-dns-name
-     ```
+```text
+ssh -i /path/my-key-pair.pem my-instance-user-name@my-instance-public-dns-name
+```
+{% endtab %}
 
-   * \(IPv6\) Alternatively, if your instance has an IPv6 address, to connect using your instance's IPv6 address, enter the following command.
+{% tab title="IPv6" %}
+\(IPv6\) Alternatively, if your instance has an IPv6 address, to connect using your instance's IPv6 address, enter the following command.
 
-     ```text
-     ssh -i /path/my-key-pair.pem my-instance-user-name@my-instance-IPv6-address
-     ```
+```
+ssh -i /path/my-key-pair.pem my-instance-user-name@my-instance-IPv6-address
+```
+{% endtab %}
+{% endtabs %}
 
-   You see a response like the following:
+You see a response like the following:
 
-   ```text
-   The authenticity of host 'ec2-198-51-100-1.compute-1.amazonaws.com (198-51-100-1)' can't be established.
-   ECDSA key fingerprint is l4UB/neBad9tvkgJf1QZWxheQmR59WgrgzEimCG6kZY.
-   Are you sure you want to continue connecting (yes/no)?
-   ```
+```text
+The authenticity of host 'ec2-198-51-100-1.compute-1.amazonaws.com (198-51-100-1)' can't be established.
+ECDSA key fingerprint is l4UB/neBad9tvkgJf1QZWxheQmR59WgrgzEimCG6kZY.
+Are you sure you want to continue connecting (yes/no)?
+```
 
-2. \(Optional\) Verify that the fingerprint in the security alert matches the fingerprint that you previously obtained in [\(Optional\) Get the instance fingerprint](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/connection-prereqs.html#connection-prereqs-fingerprint). 
-3. Enter `yes`.
+1. \(Optional\) Verify that the fingerprint in the security alert matches the fingerprint that you previously obtained in [\(Optional\) Get the instance fingerprint](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/connection-prereqs.html#connection-prereqs-fingerprint). 
+2. Enter `yes`.
 
    You see a response like the following:
 
