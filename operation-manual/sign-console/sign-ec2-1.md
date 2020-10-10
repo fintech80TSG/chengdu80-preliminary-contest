@@ -1,7 +1,7 @@
 # Sign EC2
 
 {% hint style="info" %}
- As there will be network problems for Chinese participating teams to log in EC2 overseas, we will provide acceleration service\(GA\) for Chinese teams to speed up to Hong Kong to ensure the stability of login.each team can get 40GB data transfer ,If your team want to apply more, please connect us.
+ As there will be network problems for Chinese participating teams to log in EC2 overseas, we will provide acceleration service\(GA\) for Chinese teams to speed up to Hong Kong to ensure the stability of login.each team can get 40GB data transfer ,If your team want to apply more, please [Connect us](../../tech-support/online-support.md).
 {% endhint %}
 
 **Get the default user name for the AMI that you used to launch your instance:**

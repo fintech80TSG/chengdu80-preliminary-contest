@@ -8,9 +8,11 @@ We limited each participating team can only use 2 EC2 Server. \(3 select 2\)
 * [x] Ubuntu 18.04
 * [ ] Centos 7
 
-Each team can only use owner
+Each team can only operate its own resources，can start/stop/restart your team
+
+EC2 and 
 
 ### 3.2 Limit  Security Groups\(Ports\)
 
-each EC2 Server will only open Ports XXXX-XXXX.You should start your server on these Ports.
+each EC2 Server will only open Ports XXXX-XXXX.You should start your server on these Ports.If your team need special ports,please [Connect us.](../../tech-support/online-support.md)
 
