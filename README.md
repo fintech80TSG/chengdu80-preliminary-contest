@@ -8,18 +8,18 @@ Because of the global impact of Covid-19, we have chosen to conduct this year's 
 
 ## Guide
 
-用户指引  
-- 比赛环境介绍  
-   + 平台 初赛国内AWS  
-   + 配置  
-   + 限制  
-- 操作流程  
-   + 账户获取及登录  
-   + 赛题及数据获取  
-   + 开发及备份  
-   + 代码提交  
-   + 原型发布  
-   + 答辩平台
+INTRO  
+- Competition Environment  
+   + Platform and Configuration  
+   + Configuration  
+   + Limit  
+- OPERATION MANUAL  
+   + Access to Account  
+   + Acquiring and Setting up  
+   + Backup and Restoring  
+   + Obtaining Data  
+   + Code Submission  
+   + Prototype deployment
 
 1. 配置服务详细文档 - 虚拟机管理（快照） - S3存储 - ……上述提到的服务内容
 2. 技术支持方式 - FAQ - 在线支持    TEAMS？/GITHUB repo issue / 

@@ -94,7 +94,7 @@ Use the following procedure to connect to your Linux instance using an SSH clien
    2. Ensure that the **Port** value is 22.
    3. Under **Connection type**, select **SSH**.
 
-   ![
+                               ![
    							PuTTY configuration - Session
    						](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/images/putty-session-config.png)
 
