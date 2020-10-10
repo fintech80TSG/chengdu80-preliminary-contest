@@ -2,13 +2,15 @@
 
 ### Sign in as an IAM user <a id="user-sign-in-page"></a>
 
-1.Open a browser and enter the following sign-in URL, replacing `account_alias_or_id` with the account alias or account ID provided by your administrator.
+1.You will get the `account_alias_or_id` and `password` from the email.
+
+2.Open a browser and enter the following sign-in URL, replacing `account_alias_or_id` with the account alias or account ID provided by your administrator.
 
 ```text
 https://account_alias_or_id.signin.aws.amazon.com/console/
 ```
 
-2.Enter your IAM user name and password and choose **Sign in**.
+3.Enter your IAM user name and password and choose **Sign in**.
 
                                 ![
             IAM User Sign-in Page
@@ -98,8 +100,13 @@ Use the following procedure to connect to your Linux instance using an SSH clien
    							PuTTY configuration - Session
    						](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/images/putty-session-config.png)
 
-3. \(Optional\) You can configure PuTTY to automatically send 'keepalive' data at regular intervals to keep the session active. This is useful to avoid disconnecting from your instance due to session inactivity. In the **Category** pane, choose **Connection**, and then enter the required interval in the **Seconds between keepalives** field. For example, if your session disconnects after 10 minutes of inactivity, enter 180 to configure PuTTY to send keepalive data every 3 minutes.
-4. In the **Category** pane, expand **Connection**, expand **SSH**, and then choose **Auth**. Complete the following:
+
+
+{% hint style="info" %}
+ \(Optional\) You can configure PuTTY to automatically send 'keepalive' data at regular intervals to keep the session active. This is useful to avoid disconnecting from your instance due to session inactivity. In the **Category** pane, choose **Connection**, and then enter the required interval in the **Seconds between keepalives** field. For example, if your session disconnects after 10 minutes of inactivity, enter 180 to configure PuTTY to send keepalive data every 3 minutes.
+{% endhint %}
+
+1. In the **Category** pane, expand **Connection**, expand **SSH**, and then choose **Auth**. Complete the following:
 
    1. Choose **Browse**.
    2. Select the `.ppk` file that you generated for your key pair and choose **Open**.
