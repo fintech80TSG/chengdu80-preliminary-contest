@@ -28,7 +28,7 @@ s3fs s3fs-mount-bucket /home/ec2-user/s3mnt -o passwd\_file=/home/ec2-user/.pass
 {% hint style="info" %}
  **Download**
 
-\*\*\*\*
+cl
 {% endhint %}
 
 

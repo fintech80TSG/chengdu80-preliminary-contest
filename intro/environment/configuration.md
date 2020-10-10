@@ -1,10 +1,10 @@
 # Configuration
 
-### 2.1 Architecture
+### 1. Architecture
 
 ![](../../.gitbook/assets/image%20%2867%29.png)
 
-### 2.2  EC2（Elastic Computer Cloud）
+### 2.  EC2（Elastic Computer Cloud）
 
 Each team will be provided  with two virtual servers .
 
@@ -16,7 +16,7 @@ Hardware configuration is as follows：
 | :--- | :--- | ---: | ---: | ---: |
 | Xeon 4vCPU | 16GB | 200GB SSD | 4000M | Windows10/Ubuntu 18.04/Centos7 |
 
-### 2.3  Pre-installed software
+### 3.  Pre-installed software
 
 | OS | Pre-installed Apps | Version |
 | :--- | :--- | :--- |
@@ -36,7 +36,7 @@ Hardware configuration is as follows：
 |  | NodeJS |  |
 |  | Pip |  |
 
-### **2.4  Basic services**
+### **4.  Basic services**
 
 The network for each team's servers is isolated from each other. There is 10 Gigabit bandwidth between the two given servers, and Gigabit bandwidth between terminals and servers. 
 
