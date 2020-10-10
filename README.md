@@ -27,13 +27,13 @@ SERVICE DOCUMENTS
 - [AWS Management Console](service-documents/aws-management-console.md)  
 - [AWS CLI](service-documents/aws-cli.md)  
 - [AWS S3](service-documents/aws-s3.md)  
-- [Other](service-documents/to-be-continued.md)
+- [Other]()
 
 SUPPORT  
-- FAQ  
-- Support Online
+- [FAQ](tech-support/faq.md)  
+- [Support Online](tech-support/online-support.md)
 
-Quick entry
+[Quick entry](quick-entry.md)
 
 Official Website
 
