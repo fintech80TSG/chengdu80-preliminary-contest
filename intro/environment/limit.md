@@ -20,5 +20,5 @@ EC2 and download resource from S3 bucket.
 
 ### 3.2 Limit  Security Groups\(Ports\)
 
-each EC2 Server will only open Ports XXXX-XXXX.You should start your server on these Ports.If your team need special ports,please [Connect us.](../../tech-support/online-support.md)
+Each EC2 Server will only open Ports XXXX-XXXX.You should start your server on these Ports.If your team need special ports,please [Connect us.](../../tech-support/online-support.md)
 
