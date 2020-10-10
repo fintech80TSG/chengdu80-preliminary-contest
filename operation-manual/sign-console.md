@@ -22,7 +22,7 @@ https://account_alias_or_id.signin.aws.amazon.com/console/
 
 2.get EC2 information
 
-
+![](../.gitbook/assets/image%20%2859%29.png)
 
 ### Sign in EC2 <a id="user-sign-in-page"></a>
 
@@ -83,7 +83,25 @@ Use the following procedure to connect to your Linux instance using an SSH clien
 
 **Connect using PuTTY** 
 
-\*\*\*\*
+1. Start PuTTY \(from the **Start** menu, choose **All Programs, PuTTY, PuTTY**\).
+2. In the **Category** pane, choose **Session** and complete the following fields:
+
+   1. In the **Host Name** box, do one of the following:
+      * \(Public DNS\) To connect using your instance's public DNS name, enter `my-instance-user-name`@`my-instance-public-dns-name`.
+      * \(IPv6\) Alternatively, if your instance has an IPv6 address, to connect using your instance's IPv6 address, enter `my-instance-user-name`@`my-instance-IPv6-address`.
+   2. Ensure that the **Port** value is 22.
+   3. Under **Connection type**, select **SSH**.
+
+   ![
+   							PuTTY configuration - Session
+   						](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/images/putty-session-config.png)
+
+3. \(Optional\) You can configure PuTTY to automatically send 'keepalive' data at regular intervals to keep the session active. This is useful to avoid disconnecting from your instance due to session inactivity. In the **Category** pane, choose **Connection**, and then enter the required interval in the **Seconds between keepalives** field. For example, if your session disconnects after 10 minutes of inactivity, enter 180 to configure PuTTY to send keepalive data every 3 minutes.
+4. In the **Category** pane, expand **Connection**, expand **SSH**, and then choose **Auth**. Complete the following:
+   1. Choose **Browse**.
+   2. Select the `.ppk` file that you generated for your key pair and choose **Open**.
+   3. \(Optional\) If you plan to start this session again later, you can save the session information for future use. Under **Category**, choose **Session**, enter a name for the session in **Saved Sessions**, and then choose **Save**.
+   4. Choose **Open**.
 
 **windows 2016 R2**
 
