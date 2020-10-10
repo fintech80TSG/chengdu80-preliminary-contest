@@ -15,7 +15,6 @@ INTRO
 * [Configuration](intro/environment/configuration.md)
 * [Limit](intro/environment/limit.md)
 
-  
 OPERATION MANUAL
 
 * [Access to Account](operation-manual/sign-console.md)
