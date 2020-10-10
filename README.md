@@ -16,14 +16,15 @@ INTRO
 * [Limit](intro/environment/limit.md)
 
   
-- OPERATION MANUAL  
-   + [Access to Account](operation-manual/sign-console.md)  
-   + [Acquiring and Setting up](operation-manual/sign-ec2.md)  
-   + [Backup and Restoring](operation-manual/develops-and-backup.md)  
-   + [Obtaining Data](operation-manual/upload-download-data.md)  
-   + [Code Submission](operation-manual/code-present.md)  
-   + [Prototype deployment](operation-manual/code-release.md)  
-   + [Online Presentation](operation-manual/competitive-platform.md)
+OPERATION MANUAL
+
+* [Access to Account](operation-manual/sign-console.md)
+* [Acquiring and Setting up](operation-manual/sign-ec2.md)
+* [Backup and Restoring](operation-manual/develops-and-backup.md)
+* [Obtaining Data](operation-manual/upload-download-data.md)
+* [Code Submission](operation-manual/code-present.md)
+* [Prototype deployment](operation-manual/code-release.md)
+* [Online Presentation](operation-manual/competitive-platform.md)
 
 1. SERVICE DOCUMENTS  
    - [AWS Management Console](service-documents/aws-management-console.md)  
@@ -35,4 +36,6 @@ INTRO
 2. SUPPORT - FAQ - Support Online
 3. Quick entry
 4. Official Website
+
+The document will be updated according to the rules of the contest announced by the Committee. Relevant technical explanations and rule interpretations shall be subject to the official interpretation of the chengdu80 contest committee.
 
