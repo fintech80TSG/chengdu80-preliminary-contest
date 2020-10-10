@@ -29,8 +29,7 @@ OPERATION MANUAL
 SERVICE DOCUMENTS  
 - [AWS Management Console](service-documents/aws-management-console.md)  
 - [AWS CLI](service-documents/aws-cli.md)  
-- [AWS S3](service-documents/aws-s3.md)
-
+- [AWS S3](service-documents/aws-s3.md)  
 - [Other](service-documents/to-be-continued.md)
 
 SUPPORT  
