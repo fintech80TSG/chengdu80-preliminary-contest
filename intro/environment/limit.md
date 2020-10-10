@@ -10,7 +10,7 @@ We limited each participating team can only use 2 EC2 Server. \(3 select 2\)
 
 Each team can only operate its own resources，can start/stop/restart your team
 
-EC2 and 
+EC2 and do not touch other teams EC2 server.
 
 ### 3.2 Limit  Security Groups\(Ports\)
 
