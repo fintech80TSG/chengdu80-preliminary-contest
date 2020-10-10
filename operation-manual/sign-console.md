@@ -6,7 +6,7 @@
 
 2.Open a browser and enter the following sign-in URL, replacing `account_alias_or_id` with the account alias or account ID provided by your administrator.
 
-```text
+```markup
 https://account_alias_or_id.signin.aws.amazon.com/console/
 ```
 
@@ -58,7 +58,7 @@ Use the following procedure to connect to your Linux instance using an SSH clien
 {% tab title="Public DNS" %}
 \(Public DNS\) To connect using your instance's public DNS name, enter the following command.
 
-```text
+```bash
 ssh -i /path/my-key-pair.pem my-instance-user-name@my-instance-public-dns-name
 ```
 {% endtab %}
@@ -119,7 +119,7 @@ Warning: Permanently added 'ec2-198-51-100-1.compute-1.amazonaws.com' (ECDSA) to
    3. \(Optional\) If you plan to start this session again later, you can save the session information for future use. Under **Category**, choose **Session**, enter a name for the session in **Saved Sessions**, and then choose **Save**.
    4. Choose **Open**.
 
-   Other SSH client please find the information about SSH Client.
+   Other SSH client please find the information about [SSH Client](https://www.slant.co/topics/149/~best-ssh-clients-for-windows).
 
 **windows 2016 R2**
 
