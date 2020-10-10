@@ -42,8 +42,8 @@ The network for each team's servers is isolated from each other. There is 10 Gig
 
 To support the completion of the project, the following services are provided:
 
-* GIT  
-* Network storage 
+* [GIT ](../../operation-manual/sign-console/git.md) 
+* [S3 bucket](../../service-documents/aws-s3.md)
 * [Limit ](limit.md)
 * [Backup](../../operation-manual/develops-and-backup.md) 
 
