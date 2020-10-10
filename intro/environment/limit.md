@@ -10,7 +10,7 @@ We limited each participating team can only use 2 EC2 Server. \(3 select 2\)
 
 Each team can only operate its own resources，can start/stop/restart your team
 
-EC2 and .
+EC2 and download resource from S3 bucket.
 
 If your team need additional S3 bucket,please [Connect us.](../../tech-support/online-support.md)
 
