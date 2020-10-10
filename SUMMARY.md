@@ -11,7 +11,8 @@
 
 ## operation manual
 
-* [Access to Account](operation-manual/sign-console.md)
+* [Access to Account](operation-manual/sign-console/README.md)
+  * [Sign EC2](operation-manual/sign-console/sign-ec2.md)
 * [Acquiring and Setting up](operation-manual/sign-ec2.md)
 * [Backup and Restore](operation-manual/develops-and-backup.md)
 * [Obtaining  Data](operation-manual/upload-download-data.md)

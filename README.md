@@ -17,7 +17,7 @@ INTRO
 
 OPERATION MANUAL
 
-* [Access to Account](operation-manual/sign-console.md)
+* [Access to Account](operation-manual/sign-console/)
 * [Acquiring and Setting up](operation-manual/sign-ec2.md)
 * [Backup and Restore](operation-manual/develops-and-backup.md)
 * [Obtaining Data](operation-manual/upload-download-data.md)
