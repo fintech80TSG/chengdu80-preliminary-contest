@@ -6,7 +6,7 @@
 
 Each team will be provided  with two virtual servers .
 
-The two virtual servers can be configured as Windows 10 operating system or Ubuntu operating system, but it should be **noted** that **the way to connect to the server varies according to the operating system of the terminal**.
+The two virtual servers can be configured as Windows operating system or Ubuntu/centos operating system, but it should be **noted** that **the way to connect to the server varies according to the operating system of the terminal**.
 
 Hardware configuration is as follows：
 
@@ -44,8 +44,8 @@ To support the completion of the project, the following services are provided:
 
 * GIT  
 * Network storage 
-* Database 
-* Backup 
+* [Limit ](limit.md)
+* [Backup](../../operation-manual/develops-and-backup.md) 
 
 
 
