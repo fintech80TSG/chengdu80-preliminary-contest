@@ -26,13 +26,25 @@ https://account_alias_or_id.signin.aws.amazon.com/console/
 
 ### Sign in EC2 <a id="user-sign-in-page"></a>
 
+**Get the default user name for the AMI that you used to launch your instance:**
+
+ For a CentOS AMI, the user name is `centos`. ****
+
+ For an Ubuntu AMI, the user name is `ubuntu`.
+
+ For a Windows AMI，the user name is `administrator`.
+
 **centos7 or ubuntu18.04 LTS**
 
 \*\*\*\*
 
+**Connect using SSH**
+
+\*\*\*\*
+
+**Connect using PuTTY** 
+
 **windows 2016 R2**
 
-
-
-
+use
 
