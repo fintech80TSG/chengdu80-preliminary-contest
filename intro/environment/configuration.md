@@ -1,8 +1,10 @@
 # Configuration
 
-### 1.1
+### 1.1 Architecture
 
-### 1.2  Virtual servers
+
+
+### 1.2  EC2（Elastic Computer Cloud）
 
 Each team will be provided  with two virtual servers .
 

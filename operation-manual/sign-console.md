@@ -2,9 +2,9 @@
 
 ### Sign in as an IAM user <a id="user-sign-in-page"></a>
 
-1.You will get the `account_alias_or_id` and `password` from the email.
+1.You will get the information about your group resources from the email.
 
-2.Open a browser and enter the following sign-in URL, replacing `account_alias_or_id` with the account alias or account ID provided by your administrator.
+2.Open a browser and enter the following sign-in URL, replacing `account_alias_or_id`with the account alias or account ID provided by your administrator.
 
 ```markup
 https://account_alias_or_id.signin.aws.amazon.com/console/
@@ -16,7 +16,7 @@ https://account_alias_or_id.signin.aws.amazon.com/console/
             IAM User Sign-in Page
           ](https://docs.aws.amazon.com/IAM/latest/UserGuide/images/sign-in-iam-user-capture.png)
 
-### Check in EC2 <a id="user-sign-in-page"></a>
+### View EC2 <a id="user-sign-in-page"></a>
 
 1.select **Services -&gt; EC2** buttons
 
