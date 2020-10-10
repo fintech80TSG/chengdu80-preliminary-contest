@@ -50,8 +50,6 @@ Your local computer might have an SSH client installed by default. You can verif
 
 Use the following procedure to connect to your Linux instance using an SSH client. 
 
-**To connect to your instance using SSH**
-
 1. In a terminal window, use the **ssh** command to connect to the instance. You specify the path and file name of the private key \(`.pem`\), the user name for your instance, and the public DNS name or IPv6 address for your instance
 
    * \(Public DNS\) To connect using your instance's public DNS name, enter the following command.
@@ -89,5 +87,11 @@ Use the following procedure to connect to your Linux instance using an SSH clien
 
 **windows 2016 R2**
 
-use
+1. Open the Amazon EC2 console at [https://console.aws.amazon.com/ec2/](https://console.aws.amazon.com/ec2/).
+2. Choose **EC2** enter the Page.
+3. Choose **Connect**. 
+4. Select the file name of the private key \(`.pem`\) and unzip.
+5. Copy **EC2 Password**.
+6. Using window mstsc to connect.
+7. Enter the **default user name** and **Password**.
 
