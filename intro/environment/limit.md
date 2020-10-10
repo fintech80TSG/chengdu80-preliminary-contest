@@ -12,7 +12,11 @@ Each team can only operate its own resources，can start/stop/restart your team
 
 EC2 and download resource from S3 bucket.
 
-If your team need additional S3 bucket,please [Connect us.](../../tech-support/online-support.md)
+{% hint style="danger" %}
+ Warning: Don't touch other teams resource and you have not permission to create new instances.
+{% endhint %}
+
+ If your team need additional S3 bucket,please [Connect us.](../../tech-support/online-support.md)
 
 ### 3.2 Limit  Security Groups\(Ports\)
 
