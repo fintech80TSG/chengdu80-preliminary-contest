@@ -1,8 +1,8 @@
 # FAQ
 
-## Can I become who I want to be?
+## If I Had Question?
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+We provide some general FAQs. During the competition, there are problems that need to be dealt with in real time. We will provide efficient online support .
 
 ## Question about EC2
 
