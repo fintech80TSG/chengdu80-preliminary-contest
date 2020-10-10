@@ -26,16 +26,20 @@ OPERATION MANUAL
 * [Prototype deployment](operation-manual/code-release.md)
 * [Online Presentation](operation-manual/competitive-platform.md)
 
-1. SERVICE DOCUMENTS  
-   - [AWS Management Console](service-documents/aws-management-console.md)  
-   - [AWS CLI](service-documents/aws-cli.md)  
-   - [AWS S3](service-documents/aws-s3.md)
+SERVICE DOCUMENTS  
+- [AWS Management Console](service-documents/aws-management-console.md)  
+- [AWS CLI](service-documents/aws-cli.md)  
+- [AWS S3](service-documents/aws-s3.md)
 
-   - [Other](service-documents/to-be-continued.md)
+- [Other](service-documents/to-be-continued.md)
 
-2. SUPPORT - FAQ - Support Online
-3. Quick entry
-4. Official Website
+SUPPORT  
+- FAQ  
+- Support Online
+
+Quick entry
+
+Official Website
 
 The document will be updated according to the rules of the contest announced by the Committee. Relevant technical explanations and rule interpretations shall be subject to the official interpretation of the chengdu80 contest committee.
 
