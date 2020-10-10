@@ -2,7 +2,7 @@
 
 ### 2.1 Architecture
 
-
+![](../../.gitbook/assets/image%20%2867%29.png)
 
 ### 2.2  EC2（Elastic Computer Cloud）
 
