@@ -20,7 +20,7 @@ OPERATION MANUAL
 
 * [Access to Account](operation-manual/sign-console.md)
 * [Acquiring and Setting up](operation-manual/sign-ec2.md)
-* [Backup and Restoring](operation-manual/develops-and-backup.md)
+* [Backup and Restore](operation-manual/develops-and-backup.md)
 * [Obtaining Data](operation-manual/upload-download-data.md)
 * [Code Submission](operation-manual/code-present.md)
 * [Prototype deployment](operation-manual/code-release.md)

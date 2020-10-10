@@ -2,7 +2,7 @@
 description: Backing up and restoring the computing environment
 ---
 
-# Backup and Restoring
+# Backup and Restore
 
 ### Creating a snapshot <a id="ebs-create-snapshot"></a>
 
