@@ -18,11 +18,11 @@ https://account_alias_or_id.signin.aws.amazon.com/console/
 
 1.select **Services -&gt; EC2** buttons
 
-![](../.gitbook/assets/image%20%2857%29.png)
+![](../.gitbook/assets/image%20%2864%29.png)
 
 2.get EC2 information
 
-![](../.gitbook/assets/image%20%2859%29.png)
+![](../.gitbook/assets/image%20%2862%29.png)
 
 ### Sign in EC2 <a id="user-sign-in-page"></a>
 
@@ -108,8 +108,16 @@ Use the following procedure to connect to your Linux instance using an SSH clien
 1. Open the Amazon EC2 console at [https://console.aws.amazon.com/ec2/](https://console.aws.amazon.com/ec2/).
 2. Choose **EC2** enter the Page.
 3. Choose **Connect**. 
-4. Select the file name of the private key \(`.pem`\) and unzip.
-5. Copy **EC2 Password**.
-6. Using window mstsc to connect.
-7. Enter the **default user name** and **Password**.
+
+![](../.gitbook/assets/image%20%2861%29.png)
+
+1. Select the file name of the private key \(`.pem`\) and unzip.
+2. Copy **EC2 Password**.
+3. Using window mstsc to connect.
+
+![](../.gitbook/assets/image%20%2860%29.png)
+
+1. Enter the **default user name** and **Password**.
+
+![](../.gitbook/assets/image%20%2863%29.png)
 
