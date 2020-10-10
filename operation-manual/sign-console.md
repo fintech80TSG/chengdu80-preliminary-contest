@@ -22,6 +22,8 @@ https://account_alias_or_id.signin.aws.amazon.com/console/
 
 2.get EC2 information
 
+Port groups are restricted in this competition. The range of port groups is XXX-XXX.
+
 ![](../.gitbook/assets/image%20%2862%29.png)
 
 ### Sign in EC2 <a id="user-sign-in-page"></a>
