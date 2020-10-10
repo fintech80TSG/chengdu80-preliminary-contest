@@ -11,13 +11,15 @@ Use the following procedure to create a snapshot from the specified volume.
 **To create a snapshot using the console**
 
 1. Open the Amazon EC2 console at [https://console.aws.amazon.com/ec2/](https://console.aws.amazon.com/ec2/).
-2. Choose **Snapshots** under **Elastic Block Store** in the navigation pane.
+2. Choose **Volume** under **Elastic Block Store** in the navigation pane.
 3. Choose **Create Snapshot**.
-4. For **Select resource type**, choose **Volume**.
-5. For **Volume**, select the volume.
-6. \(Optional\) Enter a description for the snapshot.
-7. \(Optional\) Choose **Add Tag** to add tags to your snapshot. For each tag, provide a tag key and a tag value.
-8. Choose **Create Snapshot**.
+
+![](../.gitbook/assets/image%20%2865%29.png)
+
+1. \(Optional\) Choose **Add Tag** to add tags to your snapshot. For each tag, provide a tag key and a tag value.
+2. Choose **Create Snapshot**.
+
+![](../.gitbook/assets/image%20%2866%29.png)
 
 **To create a snapshot using the command line, see the following example**
 
