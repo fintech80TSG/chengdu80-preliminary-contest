@@ -27,7 +27,7 @@ SERVICE DOCUMENTS
 - [AWS Management Console](service-documents/aws-management-console.md)  
 - [AWS CLI](service-documents/aws-cli.md)  
 - [AWS S3](service-documents/aws-s3.md)  
-- [Other]()
+- [Other](service-documents/other.md)
 
 SUPPORT  
 - [FAQ](tech-support/faq.md)  
