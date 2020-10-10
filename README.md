@@ -19,9 +19,17 @@ INTRO
    + Backup and Restoring  
    + Obtaining Data  
    + Code Submission  
-   + Prototype deployment
+   + Prototype deployment  
+   + Online Presentation
 
-1. 配置服务详细文档 - 虚拟机管理（快照） - S3存储 - ……上述提到的服务内容
-2. 技术支持方式 - FAQ - 在线支持    TEAMS？/GITHUB repo issue / 
-3. 快速入口 - 登录console - 代码提交GITHUB - 答辩平台 - 比赛官网
+1. SERVICE DOCUMENTS  
+   - AWS Management Console  
+   - AWS CLI  
+   - AWS S3
+
+   - Other
+
+2. SUPPORT - FAQ - Support Online
+3. Quick entry
+4. Official Website
 
