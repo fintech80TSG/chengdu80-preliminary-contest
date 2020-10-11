@@ -1,7 +1,5 @@
 # Access to Account
 
-### Sign in as an IAM user <a id="user-sign-in-page"></a>
-
 1.You will get the information about your group resources from the email.
 
 2.Open a browser and enter the following sign-in URL, replacing `account_alias_or_id`with the account alias or account ID provided by your administrator.
@@ -25,4 +23,10 @@ https://account_alias_or_id.signin.aws.amazon.com/console/
 2.get EC2 information
 
 ![](../../.gitbook/assets/image%20%2862%29.png)
+
+### CONNECT  EC2 <a id="user-sign-in-page"></a>
+
+plz refer [CONNECT  EC2](sign-ec2-1.md)
+
+ 
 
