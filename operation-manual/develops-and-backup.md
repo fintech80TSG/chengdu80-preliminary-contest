@@ -4,7 +4,7 @@ description: Backing up and restoring the computing environment
 
 # Backup and Restore
 
-When we encounter misoperation, we can use snapshot restore. We provide daily UTC Automatic snapshot at 23:00 and provide manual snapshot
+When we encounter misoperation, we can use snapshot restore. We provide daily UTC Automatic snapshot at 23:00 and provide manual snapshot.
 
 ### Creating a snapshot <a id="ebs-create-snapshot"></a>
 
