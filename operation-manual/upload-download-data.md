@@ -28,6 +28,10 @@ s3fs s3fs-mount-bucket /home/ec2-user/s3mnt -o passwd\_file=/home/ec2-user/.pass
 {% hint style="info" %}
  **Download**
 
+**install AWS CLI**
+
+**configure AWS CLI**
+
 aws s3 cp s3://XXXX  /XXX/
 {% endhint %}
 
