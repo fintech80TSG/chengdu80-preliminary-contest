@@ -20,7 +20,21 @@ The specific operation steps are as follows：
 {% hint style="info" %}
 **Mount S3** 
 
-s3fs s3fs-mount-bucket /home/ec2-user/s3mnt -o passwd\_file=/home/ec2-user/.passwd-s3fs -o url=[http://s3.cn-north-1.amazonaws.com.cn](http://s3.cn-north-1.amazonaws.com.cn) -o endpoint=cn-north-1
+ sudo apt-get（yum） update
+
+ sudo apt-get（yum） install s3fs
+
+ echo ACCESS\_KEY:SECRET\_ACCESS\_KEY &gt; PATH\_TO\_FILE
+
+（Access\_key/Secret\_access\_key will send with account password to your email）
+
+ cat ~/.passwd-s3fs
+
+ chmod 600 ~/.passwd-s3fs
+
+ mkdir ~/s3-bucket
+
+ s3fs bucket-name /path/to/mountpoint -o passwd\_file=/path/passwd-s3fs
 {% endhint %}
 
 \*\*\*\*
