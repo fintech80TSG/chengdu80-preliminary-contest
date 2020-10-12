@@ -98,7 +98,7 @@ Warning: Permanently added 'ec2-198-51-100-1.compute-1.amazonaws.com' (ECDSA) to
 2. Choose **EC2** enter the Page.
 3. Choose **Get Windows password**. 
 4. Select the file name of the private key \(`.pem`\) and unzip.
-5. Copy **EC2 Password**.
+5. Copy **Password**.
 6. Using Windows mstsc\(Remote Desktop Connection\) to connect.
 
 ![](../../.gitbook/assets/image%20%2876%29.png)
