@@ -48,7 +48,7 @@ now we can mount aws s3:
 
  **s3fs bucket-name /path/to/mountpoint -o passwd\_file=/path/passwd-s3fs**
 
-**In our example:**
+In our example:
 
  **s3fs chengdu80final-project ~/s3-bucket -o passwd\_file=~/.passwd-s3fs**
 {% endhint %}
