@@ -14,9 +14,9 @@ Under the rule of fairness and justice, participants should compete in the envir
 
 ### 2.  EC2（Elastic Computer Cloud）
 
-Each team will be provided  with two virtual servers .
+Each team will be provided  with two EC2.
 
-The two virtual servers can be configured as Windows operating system or Ubuntu/Centos operating system, but it should be **noted** that **the way to connect to the server varies according to the operating system of the terminal**.
+The two EC2 can be configured as Windows operating system or Ubuntu/Centos operating system, but it should be **noted** that **the way to connect to the server varies according to the operating system of the terminal**.
 
 Hardware configuration is as follows：
 
