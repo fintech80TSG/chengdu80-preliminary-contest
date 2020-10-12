@@ -32,7 +32,7 @@ As there will be network problems for Chinese participating teams to log in EC2 
 
 ### **3.  Basic services**
 
-The network for each team's servers is isolated from each other. There is 10 Gigabit bandwidth between the two given servers, and Gigabit bandwidth between terminals and servers. 
+The network for each team's servers is isolated from each other. There is 10 Gigabit bandwidth between aws servers.
 
 To support the completion of the project, the following services are provided:
 
