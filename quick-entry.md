@@ -4,7 +4,7 @@
 
 
 
-Here is the **fast entry** for the CHENGDU80 contest!
+Here is the **Quick Entry** for the CHENGDU80 contest!
 
 *  [**login**](https://login.chengdu80.org) to the server
 *  [**Git**](http://git.chengdu80.org) ****the code
