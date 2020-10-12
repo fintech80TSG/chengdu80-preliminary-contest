@@ -35,8 +35,7 @@ SUPPORT
 - [FAQ](tech-support/faq.md)  
 - [Support Online](tech-support/online-support.md)
 
-[Quick entry](quick-entry.md)  
-Official Website
+[Quick entry](quick-entry.md)
 
 The document will be updated according to the rules of the contest announced by the Committee. Relevant technical explanations and rule interpretations shall be subject to the official interpretation of the chengdu80 contest committee.
 
