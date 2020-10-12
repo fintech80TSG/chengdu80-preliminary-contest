@@ -63,7 +63,7 @@ VolumeSize          : 20This example creates a snapshot of the specified volume.
 ### Restoring a snapshot <a id="ebs-create-snapshot"></a>
 
 {% hint style="danger" %}
- Warning: Due to IAM limit，Contestants do not have permission to restore the snapshot.You just can[ connect us](../tech-support/online-support.md) 
+ Warning: Due to IAM limit，Contestants do not have permission to restore the snapshot.You just can[ contact us](../tech-support/online-support.md) for alternative operations.
 {% endhint %}
 
 
