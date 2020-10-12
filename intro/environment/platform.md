@@ -4,7 +4,7 @@ description: About AWS
 
 # Platform
 
-![](../../.gitbook/assets/tu-pian-1.png) 
+![](../../.gitbook/assets/tu-pian-1.png)  
 
 Amazon Web Services \(AWS\) is the world’s most comprehensive and broadly adopted cloud platform, offering over 175 fully featured services from data centers globally. Millions of customers—including the fastest-growing startups, largest enterprises, and leading government agencies—are using AWS to lower costs, become more agile, and innovate faster.
 
@@ -12,15 +12,13 @@ Amazon Web Services \(AWS\) is the world’s most comprehensive and broadly adop
 
 **Complete Global Facilities, Convenient for Contestants to Access Nearby**
 
+There will be domestic and overseas teams in this competition. we provided a cloud-based competition environment where teams around the world could choose the nearest available area to access computing power and release prototypes. for Chinese teams ,it will be Hong Kong region;
+
+AWS now spans 77 Availability Zones within 24 geographic regions around the world, and has announced plans for nine more Availability Zones and three more AWS Regions in Indonesia, Japan, and Spain. There are 210+ Edge Locations and 12 Regional Edge Caches in the world. The complete global infrastructure based on AWS can help domestic and overseas competitors to access the regional points more conveniently , and use GA acceleration in Hong Kong to ensure the efficient access of Domestic players in China.
+
 ![AWS Global Cloud Infrastructure](../../.gitbook/assets/image%20%2871%29.png)
 
-![](../../.gitbook/assets/image%20%2870%29.png)
-
-修改：AWS now spans 77 Availability Zones within 24 geographic regions around the world, and has announced plans for nine more Availability Zones and three more AWS Regions in Indonesia, Japan, and Spain. There are 210+ Edge Locations and 12 Regional Edge Caches in the world. The complete global infrastructure based on AWS can help domestic and overseas competitors to access the regional points more conveniently , and use GA acceleration in Hong Kong to ensure the efficient access of Domestic players in China.
-
 **Service Provided**
-
-修改：Services provided to contestants, including AWS EC2, S3 \(Domestic contestants in China involve GA acceleration\)
 
 **Amazon Elastic Compute Cloud** \(Amazon EC2\) is a web service that provides secure, resizable compute capacity in the cloud. It is designed to make web-scale cloud computing easier for developers. Amazon EC2’s simple web service interface allows you to obtain and configure capacity with minimal friction.
 
