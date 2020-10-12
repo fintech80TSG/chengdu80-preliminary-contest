@@ -17,7 +17,6 @@ This document contains the following:
 #### OPERATION MANUAL
 
 * [Access to Account](operation-manual/sign-console/)
-* [Acquiring and Setting up]()
 * [Backup and Restore](operation-manual/develops-and-backup.md)
 * [Obtaining Data](operation-manual/upload-download-data.md)
 * [Code Submission](operation-manual/code-present.md)
