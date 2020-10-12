@@ -32,19 +32,19 @@ As there will be network problems for Chinese participating teams to log in EC2 
 
 | OS | Pre-installed Apps | Version |
 | :--- | :--- | :--- |
-| Windows | Python | 3.7 |
+| Windows | Python |  |
 |  | NodeJS |  |
 |  | Pip |  |
 
 | OS | Pre-installed Apps | Version |
 | :--- | :--- | :--- |
-| Ubuntu | Python | 3.7 |
+| Ubuntu | Python |  |
 |  | NodeJS |  |
 |  | Pip |  |
 
 | OS | Pre-installed Apps | Version |
 | :--- | :--- | :--- |
-| Centos | Python | 3.7 |
+| Centos | Python |  |
 |  | NodeJS |  |
 |  | Pip |  |
 
