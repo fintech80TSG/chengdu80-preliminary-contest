@@ -30,7 +30,7 @@ Use the following procedure to create a snapshot from the specified volume.
 
 ![](../.gitbook/assets/image%20%2866%29.png)
 
-**To create a snapshot using the command line, see the following example**
+**（Optional）To create a snapshot using the command line, see the following example**
 
 * create-snapshot \(AWS CLI\):aws ec2 create-snapshots \
 
