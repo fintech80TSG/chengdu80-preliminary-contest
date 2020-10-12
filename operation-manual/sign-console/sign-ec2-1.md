@@ -101,13 +101,13 @@ Warning: Permanently added 'ec2-198-51-100-1.compute-1.amazonaws.com' (ECDSA) to
 5. Copy **Password**.
 6. Using Windows mstsc\(Remote Desktop Connection\) to connect.
 
-![](../../.gitbook/assets/image%20%2876%29.png)
+![](../../.gitbook/assets/image%20%2878%29.png)
+
+![](../../.gitbook/assets/image%20%2875%29.png)
 
 ![](../../.gitbook/assets/image%20%2874%29.png)
 
-![](../../.gitbook/assets/image%20%2873%29.png)
-
-![](../../.gitbook/assets/image%20%2875%29.png)
+![](../../.gitbook/assets/image%20%2876%29.png)
 
 ![](../../.gitbook/assets/image%20%2860%29.png)
 
