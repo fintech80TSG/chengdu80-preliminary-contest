@@ -22,7 +22,7 @@ Hardware configuration is as follows：
 
 | CPU | RAM | HDD | Ethernet | OS |
 | :--- | :--- | ---: | ---: | ---: |
-| Xeon 4vCPU | 16GB | 200GB SSD | 4000M | Windows10/Ubuntu 18.04/Centos7 |
+| Xeon 4vCPU | 16GB | 200GB SSD | 10Gbps | Windows10/Ubuntu 18.04/Centos7 |
 
 ### 3.  Pre-installed software
 
