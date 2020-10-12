@@ -28,27 +28,9 @@ Hardware configuration is as follows：
 As there will be network problems for Chinese participating teams to log in EC2 overseas, we will provide acceleration service\(GA\) for Chinese teams to speed up to Hong Kong to ensure the stability of login.each team can get 40GB data transfer ,If your team want to apply more, please [Connect us](../../tech-support/online-support.md).
 {% endhint %}
 
-### 3.  Pre-installed software
 
-| OS | Pre-installed Apps | Version |
-| :--- | :--- | :--- |
-| Windows | Python |  |
-|  | NodeJS |  |
-|  | Pip |  |
 
-| OS | Pre-installed Apps | Version |
-| :--- | :--- | :--- |
-| Ubuntu | Python |  |
-|  | NodeJS |  |
-|  | Pip |  |
-
-| OS | Pre-installed Apps | Version |
-| :--- | :--- | :--- |
-| Centos | Python |  |
-|  | NodeJS |  |
-|  | Pip |  |
-
-### **4.  Basic services**
+### **3.  Basic services**
 
 The network for each team's servers is isolated from each other. There is 10 Gigabit bandwidth between the two given servers, and Gigabit bandwidth between terminals and servers. 
 
