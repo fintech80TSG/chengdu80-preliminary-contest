@@ -2,10 +2,10 @@
 
 1.You will get the information about your group resources from the email.
 
-2.Open a browser and enter the following sign-in URL, replacing `account_alias_or_id`with the account alias or account ID provided by your administrator.
+2.Open a browser and enter the following sign-in URL, replacing the account alias or account ID provided by your administrator.
 
 ```markup
-https://account_alias_or_id.signin.aws.amazon.com/console/
+https://733604999136.signin.aws.amazon.com/console/
 ```
 
 3.Enter your IAM user name and password and choose **Sign in**.
