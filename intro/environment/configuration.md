@@ -25,7 +25,7 @@ Hardware configuration is as follows：
 | Xeon 4vCPU | 16GB | 200GB SSD | 10Gbps | Windows10/Ubuntu 18.04/Centos7 |
 
 {% hint style="info" %}
-As there will be network problems for Chinese participating teams to log in EC2 overseas, we will provide acceleration service\(GA\) for Chinese teams to speed up to Hong Kong to ensure the stability of login.each team can get 40GB data transfer ,If your team want to apply more, plz [Connect us](../../tech-support/online-support.md).
+As there will be network problems for Chinese participating teams to log in EC2 overseas, we will provide acceleration service\(GA\) for Chinese teams to speed up to Hong Kong to ensure the stability of login.each team can get 40GB data transfer ,If your team want to apply more, plz [Contact us](../../tech-support/online-support.md).
 {% endhint %}
 
 

@@ -16,9 +16,9 @@ EC2 and download resource from S3 bucket.
  Warning: Don't touch other teams resource,and you have not permission to create new instances.
 {% endhint %}
 
- If your team need additional S3 bucket,plz [Connect us.](../../tech-support/online-support.md)
+ If your team need additional S3 bucket,plz [Contact us.](../../tech-support/online-support.md)
 
 ### 3.2 Limit  Security Groups\(Ports\)
 
-Each EC2 Server will only open Ports XXXX-XXXX.You should start your server on these Ports.If your team need special ports,plz [Connect us.](../../tech-support/online-support.md)
+Each EC2 Server will only open Ports XXXX-XXXX.You should start your server on these Ports.If your team need special ports,plz [Contact us.](../../tech-support/online-support.md)
 
