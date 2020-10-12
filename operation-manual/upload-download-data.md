@@ -60,9 +60,13 @@ In our example:
 
 \*\*\*\*[**install & config AWS CLI**](../service-documents/aws-cli.md)\*\*\*\*
 
-aws s3 ls（find the bucket and file）
+**aws s3 ls（find the bucket and file）**
 
-aws s3 cp s3://XXXX  /local/
+**aws s3 cp s3://chengdu80final-project/XXX  /local/**
+
+for example:
+
+**aws s3 cp s3://chengdu80final-project/topic1 ./root/**
 {% endhint %}
 
 
