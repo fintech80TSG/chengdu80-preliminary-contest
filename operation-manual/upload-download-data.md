@@ -56,6 +56,22 @@ In our example:
 \*\*\*\*
 
 {% hint style="info" %}
+ **Upload**
+
+\*\*\*\*[**install & config AWS CLI**](../service-documents/aws-cli.md)\*\*\*\*
+
+**aws s3 ls（find the bucket and file）**
+
+**aws s3 cp /local/ s3://chengdu80final-project/XXX**
+
+for example:
+
+**aws s3 cp ./root/ s3://chengdu80final-project/topic1**
+{% endhint %}
+
+\*\*\*\*
+
+{% hint style="info" %}
  **Download**
 
 \*\*\*\*[**install & config AWS CLI**](../service-documents/aws-cli.md)\*\*\*\*
