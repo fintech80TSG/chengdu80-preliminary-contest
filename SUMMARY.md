@@ -17,7 +17,7 @@
 * [Obtaining  Data](operation-manual/upload-download-data.md)
 * [Code Submission](operation-manual/code-present.md)
 * [Prototype deployment](operation-manual/code-release.md)
-* [Online Presentation](operation-manual/competitive-platform.md)
+* [Video Upload](operation-manual/video-upload.md)
 
 ## Service Documents
 

@@ -21,7 +21,7 @@ This document contains the following:
 * [Obtaining Data](operation-manual/upload-download-data.md)
 * [Code Submission](operation-manual/code-present.md)
 * [Prototype deployment](operation-manual/code-release.md)
-* [Online Presentation](operation-manual/competitive-platform.md)
+* [Online Presentation](operation-manual/video-upload.md)
 
 #### SERVICE DOCUMENTS
 
