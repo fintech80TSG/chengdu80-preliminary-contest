@@ -62,11 +62,11 @@ In our example:
 
 **aws s3 ls（find the bucket and file）**
 
-**aws s3 cp /local/ s3://chengdu80final-project/XXX**
+**aws s3 cp /local/ s3://chengdu80final-topic/XXX**
 
 for example:
 
-**aws s3 cp ./root/ s3://chengdu80final-project/topic1**
+**aws s3 cp ./root/ s3://chengdu80final-topic/topic1**
 {% endhint %}
 
 \*\*\*\*
@@ -82,7 +82,7 @@ for example:
 
 for example:
 
-**aws s3 cp s3://chengdu80final-project/topic1 ./root/**
+**aws s3 cp s3://chengdu80final-topic/topic1 ./root/**
 {% endhint %}
 
 
