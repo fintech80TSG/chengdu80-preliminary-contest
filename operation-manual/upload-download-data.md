@@ -89,3 +89,8 @@ If there are large files on the windows side that cannot be uploaded or download
 Install&open the S3 browser,click Account - Add New Account(Fill in your account key information)
 
 ![](../../.gitbook/assets/image-s3browser.jpg)
+
+{% hint style="info" %}
+Detailed instructions are available on the [S3 browser ](https://s3browser.com/s3browser-first-run.aspx)
+{% endhint %}
+
