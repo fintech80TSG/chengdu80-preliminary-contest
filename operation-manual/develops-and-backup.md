@@ -6,7 +6,7 @@ description: Backing up and restoring the computing environment
 
 When we encounter misoperation, we can use snapshot restore. We provide daily UTC Automatic snapshot at 2:00 and provide manual snapshot.
 
-### Creating a snapshot <a id="ebs-create-snapshot"></a>
+## Creating a snapshot <a id="ebs-create-snapshot"></a>
 
 Use the following procedure to create a snapshot from the specified volume.
 
@@ -18,15 +18,13 @@ Use the following procedure to create a snapshot from the specified volume.
 
 ![](../.gitbook/assets/image%20%2865%29.png)
 
-1.  Choose **Add Tag** to add tags to your snapshot. For each tag, provide a tag key and a tag value（Name_account is your AccountName like chengdu80final-team 1）.
+1. Choose **Add Tag** to add tags to your snapshot. For each tag, provide a tag key and a tag value（Name\_account is your AccountName like chengdu80final-team 1）.
 2. Choose **Create Snapshot**.
 
 | Key | Value |
 | :--- | :--- |
 | Name | XXXX |
 | Owner | Name\_account |
-
-
 
 ![](../.gitbook/assets/image%20%2866%29.png)
 
@@ -43,7 +41,7 @@ Use the following procedure to create a snapshot from the specified volume.
 
 ```text
 PS C:\> New-EC2Snapshot -VolumeId vol-12345678 -Description "This is a test"
-    
+
 DataEncryptionKeyId :
 Description         : This is a test
 Encrypted           : False
@@ -60,13 +58,11 @@ VolumeId            : vol-12345678
 VolumeSize          : 20This example creates a snapshot of the specified volume.
 ```
 
-### Restoring a snapshot <a id="ebs-create-snapshot"></a>
+## Restoring a snapshot <a id="ebs-create-snapshot"></a>
 
 {% hint style="danger" %}
- Warning: Due to IAM limit，Contestants do not have permission to restore the snapshot.You just can[ contact us](../tech-support/online-support.md) for alternative operations.
+Warning: Due to IAM limit，Contestants do not have permission to restore the snapshot.You just can[ contact us](../tech-support/online-support.md) for alternative operations.
 {% endhint %}
-
-
 
 **To restore a snapshot using the console**
 

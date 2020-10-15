@@ -66,8 +66,6 @@ for example:
 **aws s3 cp ./root/ s3://chengdu80final-topic/topic1**
 {% endhint %}
 
-
-
 \*\*\*\*
 
 {% hint style="info" %}
@@ -86,9 +84,9 @@ for example:
 
 If there are large files on the windows side that cannot be uploaded or downloaded, you can use the official free tool [S3 Browser](https://s3browser.com/download/s3browser-9-2-1.exe).
 
-Install&open the S3 browser,click Account - Add New Account(Fill in your account key information)
+Install&open the S3 browser,click Account - Add New Account\(Fill in your account key information\)
 
-![](../../.gitbook/assets/image-s3browser.jpg)
+![](../.gitbook/assets/image-s3browser.jpg)
 
 {% hint style="info" %}
 Detailed instructions are available on the [S3 browser ](https://s3browser.com/s3browser-first-run.aspx)
