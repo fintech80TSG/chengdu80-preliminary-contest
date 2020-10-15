@@ -10,5 +10,7 @@ Each EC2 Server will only open Ports 60-9000.You should start your server on the
 
 2.find the ec2 and see the information,click on **Security Group**.
 
+![](../../.gitbook/assets/image-SG.jpg)
+
 3.
 
