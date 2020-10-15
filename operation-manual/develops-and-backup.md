@@ -18,7 +18,7 @@ Use the following procedure to create a snapshot from the specified volume.
 
 ![](../.gitbook/assets/image%20%2865%29.png)
 
-1.  Choose **Add Tag** to add tags to your snapshot. For each tag, provide a tag key and a tag value.
+1.  Choose **Add Tag** to add tags to your snapshot. For each tag, provide a tag key and a tag value（Name_account is your AccountName like chengdu80final-team 1）.
 2. Choose **Create Snapshot**.
 
 | Key | Value |
