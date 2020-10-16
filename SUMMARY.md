@@ -25,10 +25,6 @@
   * [Code Submission](operation-manual/competition-operation/code-submission.md)
   * [Prototype deployment](operation-manual/competition-operation/prototype-deployment.md)
 
----
-
-* [Intro Project Video Upload](intro-project-video-upload.md)
-
 ## Service Documents
 
 * [AWS Management Console](service-documents/aws-management-console.md)
