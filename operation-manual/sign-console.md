@@ -1,5 +1,7 @@
 # Access to Account
 
+If you are logging into the AWS console for the first time, please follow the steps below.
+
 ### Sign Account <a id="user-sign-in-page"></a>
 
 1.You will get the information about your group resources from the email.
