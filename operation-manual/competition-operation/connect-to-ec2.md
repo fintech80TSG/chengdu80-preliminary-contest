@@ -12,7 +12,7 @@ For an Ubuntu AMI, the user name is ubuntu. ‌
 For a Windows AMI，the user name is administrator.
 {% endhint %}
 
-因区域限制，以下队伍（Tsinghua University / THU Southern University of Science and Technology /SUSTech Chongqing University / CQU Southwestern University of Finance and Economics / SWUFE）的服务器地址不同，需要注意邮件信息，建议您使用邮件提供的连接信息。
+Due to regional restrictions, the server addresses of the following teams are different, \(Tsinghua University/THU Southern University of Science and Technology /SUSTech Chongqing University/CQU Southwestern University of Finance and Economics/SWUFE\).
 
 ## **Connect to Centos7 or Ubuntu18.04 LTS** <a id="PuttingAnObjectInABucket"></a>
 
