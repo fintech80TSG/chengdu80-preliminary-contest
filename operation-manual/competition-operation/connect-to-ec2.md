@@ -1,8 +1,8 @@
 # Connect to EC2
 
+How to connect to EC2 after we get public ip and key of EC2?
 
-
-
+**Note:** EC2 has a default username.
 
 **Get the default user name for the AMI that you used to launch your instance:**
 
