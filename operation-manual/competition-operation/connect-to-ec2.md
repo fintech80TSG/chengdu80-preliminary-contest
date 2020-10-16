@@ -24,14 +24,10 @@ b.Start PuTTY \(from the **Start** menu, choose **All Programs, PuTTY, PuTTY**\)
 
 c.In the **Category** pane, choose **Session** and complete the following fields:
 
-1. In the **Host Name** box, do one of the following:
-
-* \(Public DNS\) To connect using your instance's public DNS name, enter `my-instance-user-name`@`my-instance-public-dns-name`.
-* \(IPv6\) To connect using your instance's IPv6 address, enter  `my-instance-user-name`@`my-instance-IPv6-address`.
-
-d.Ensure that the **Port** value is 22.
-
-f.Under **Connection type**, select **SSH**.
+1. In the **Host Name** box: public ip\(ipv4\).
+2. In the **Port Name** box: 22
+3. 
+d.Under **Connection type**, select **SSH**.
 
                             ![
 							PuTTY configuration - Session
