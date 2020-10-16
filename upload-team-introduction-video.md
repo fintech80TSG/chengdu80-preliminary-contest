@@ -1,5 +1,7 @@
 # Project Intro Video Upload
 
+We use Amazon S3 to upload Project Intro Video after Access to Account \(if you don't know how to access,plz return [Access to Account](operation-manual/sign-console.md)\).
+
 ## Uploading the Intro Video to a bucket <a id="PuttingAnObjectInABucket"></a>
 
 **Turn to Amazon S3 managerment Console**

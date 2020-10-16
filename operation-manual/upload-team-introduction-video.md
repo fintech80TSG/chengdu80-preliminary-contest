@@ -1,6 +1,6 @@
 # Team Intro Video Upload
 
-We use Amazon S3 to upload team intro Video after Access to Account \(if you don't know how to access,plz return [Access to Account](sign-console.md)\).
+We use Amazon S3 to upload Team Intro Video after Access to Account \(if you don't know how to access,plz return [Access to Account](sign-console.md)\).
 
 ## Uploading the Intro Video to a bucket <a id="PuttingAnObjectInABucket"></a>
 
