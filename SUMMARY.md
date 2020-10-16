@@ -11,7 +11,7 @@
 
 ## operation manual
 
-* [Join Chengdu80](operation-manual/join-chengdu80.md)
+* [Join Chengdu80 TEAMS](operation-manual/join-chengdu80.md)
 * [Access to Account](operation-manual/sign-console.md)
 * [Environment Test](operation-manual/environment-test.md)
 * [Team Intro Video Upload](operation-manual/upload-team-introduction-video.md)

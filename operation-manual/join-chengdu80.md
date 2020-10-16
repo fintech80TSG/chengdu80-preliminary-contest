@@ -1,4 +1,4 @@
-# Join Chengdu80
+# Join Chengdu80 TEAMS
 
 Before the test environment, join the chengdu80 Microsoft Teams, you can contact the supporter about your questions at any time during the competition.
 
