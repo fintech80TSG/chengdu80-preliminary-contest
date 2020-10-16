@@ -1,6 +1,6 @@
 # Presentation Video Upload
 
-We use Amazon S3 to upload Project Intro Video after Access to Account \(if you don't know how to access,plz return [Access to Account](../sign-console.md)\).
+We use Amazon S3 to upload Project Intro Video after Access to Account \(if you don't know how to access, please return [Access to Account](../sign-console.md)\).
 
 ## Uploading the Intro Video to a bucket <a id="PuttingAnObjectInABucket"></a>
 
