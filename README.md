@@ -19,11 +19,11 @@ This document contains the following:
 #### OPERATION MANUAL
 
 * [Access to Account](operation-manual/sign-console.md)
-* [Backup and Restore](operation-manual/develops-and-backup.md)
-* [Obtaining Data](operation-manual/upload-download-data.md)
-* [Code Submission](operation-manual/code-present.md)
-* [Prototype deployment](operation-manual/code-release.md)
-* [Online Presentation](operation-manual/video-upload.md)
+* [Backup and Restore]()
+* [Obtaining Data]()
+* [Code Submission]()
+* [Prototype deployment]()
+* [Online Presentation]()
 
 #### SERVICE DOCUMENTS
 
