@@ -6,6 +6,8 @@ Test your environment according to the following test steps .
 
 **1.Connect to Centos7 or Ubuntu18.04 LTS**
 
+Due to regional restrictions, the server addresses of the following teams are different, \(Tsinghua University/THU Southern University of Science and Technology /SUSTech Chongqing University/CQU Southwestern University of Finance and Economics/SWUFE\)so email information should be noted. It is recommended that you use the connection information provided by mail.
+
 **Connect using PuTTY** 
 
 a. Download and install PuTTY from the [PuTTY download page](http://www.chiark.greenend.org.uk/~sgtatham/putty/). 
