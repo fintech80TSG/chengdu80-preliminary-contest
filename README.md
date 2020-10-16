@@ -28,13 +28,15 @@ The process of this competition is as follows. Please read carefully:
 
 **The time range is CST 2020-10-2200:00 to CST 2020-10-23:00**
 
-3.1 **Test Operation**:  Target 1-EC2 login is available,
+  3.1 **Test Operation**:  
 
-Target 2-SSH link test,
+                      Target 1-EC2 login is available,
 
-Target 3-S3 upload test.
+                      Target 2-SSH link test,
 
-3.2 **Test Feedback**: Whether the test has been completed and what Suggestions or requirements are available.
+                      Target 3-S3 upload test.
+
+  3.2 **Test Feedback**: Whether the test has been completed and what Suggestions or requirements are available.
 
 **4.Upload the video of team introduction to S3, and the organizing committee will download the materials**
 
