@@ -10,6 +10,11 @@ Participants can log in to the competition environment and read it directly by m
 
 The specific operation steps are as follows：
 
+* [Download From S3](obtaining-data.md#download-from-s3)
+* [Mount S3 as a disk](obtaining-data.md#mount-s3)
+
+### **Download from S3**
+
 {% hint style="info" %}
 **Download**
 
@@ -30,11 +35,13 @@ Install&open the S3 browser,click Account - Add New Account\(Fill in your accoun
 
 ![](../../.gitbook/assets/image-s3browser.jpg)
 
-{% hint style="warning" %}
+{% hint style="info" %}
 Detailed instructions are available on the [S3 browser ](https://s3browser.com/s3browser-first-run.aspx)
 {% endhint %}
 
-\*\*\*\*
+
+
+### **Mount S3**
 
 {% hint style="info" %}
 **\(optional\)Mount S3**
