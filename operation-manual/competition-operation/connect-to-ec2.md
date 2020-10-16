@@ -60,17 +60,17 @@ d.Select the file name of the private key \(`.pem`\) and unzip.
 
 ![](../../.gitbook/assets/image%20%2875%29.png)
 
-e.Copy **Password**.
-
-f.Using Windows mstsc\(Remote Desktop Connection\) to connect.
-
 ![](../../.gitbook/assets/image%20%2874%29.png)
+
+e.Copy **Password**.
 
 ![](../../.gitbook/assets/image%20%2876%29.png)
 
+f.Using Windows mstsc\(Remote Desktop Connection\) to connect.
+
 ![](../../.gitbook/assets/image%20%2860%29.png)
 
-1. Enter the **default user name** and **Password**.
+g.Enter the **default user name** and **Password**.
 
 ![](../../.gitbook/assets/image%20%2863%29.png)
 
