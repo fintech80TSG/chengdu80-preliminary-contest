@@ -17,7 +17,7 @@
   * [TEST EC2 Server](operation-manual/test-environment/test-ec2-server.md)
   * [TEST EC2 port](operation-manual/test-environment/untitled.md)
   * [TEST S3](operation-manual/test-environment/test-s3.md)
-* [Upload Intro Video](operation-manual/upload-team-introduction-video.md)
+* [Intro Team Video Upload](operation-manual/upload-team-introduction-video.md)
 * [Competition operation](operation-manual/competition-operation/README.md)
   * [Connect to EC2](operation-manual/competition-operation/connect-to-ec2.md)
   * [Backup and Restore](operation-manual/competition-operation/backup-and-restore.md)
@@ -25,6 +25,10 @@
   * [Code Submission](operation-manual/competition-operation/code-submission.md)
   * [Prototype deployment](operation-manual/competition-operation/prototype-deployment.md)
   * [Video Upload](operation-manual/competition-operation/video-upload.md)
+
+---
+
+* [Intro Product Video Upload](intro-product-video-upload.md)
 
 ## Service Documents
 
