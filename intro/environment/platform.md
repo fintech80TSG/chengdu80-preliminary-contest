@@ -1,12 +1,8 @@
----
-description: About AWS
----
-
 # Platform
 
-![](../../.gitbook/assets/tu-pian-1.png)  
+For this competition, we used AWS's cloud platform to provide the computing environment.
 
-## AWS Cloud Platform <a id="The_leading_cloud_platform"></a>
+Follows are the introduction of AWS.
 
 **Complete Global Facilities, Convenient for Contestants to Access Nearby**
 

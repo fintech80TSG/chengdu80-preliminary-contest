@@ -1,34 +1,32 @@
 # Configuration
 
-## 1. Architecture
-
 Under the rule of fairness and justice, participants should compete in the environment provided, via the following steps:
 
 * Connect to the designated network; 
 * Connect to the designated servers\(EC2\) ; 
 * Develop, deploy and demonstrate the project in the designated servers.
 
+## 1. Architecture
 
-
-Each team will be provided with two EC2 \(Windows 2016 or Ubuntu 18.04 or Centos7\).  Participants should develop and deploy under the given environment.   
+Each team will be provided with two servers \(Windows 2016 or Ubuntu 18.04 or Centos7\).  Participants should develop and deploy under the given environment.   
 All operations will be recorded.
 
 ![](../../.gitbook/assets/image%20%2873%29.png)
 
 ## 2.  EC2（Elastic Computer Cloud）
 
-Each team will be provided with two EC2.
+Each team will be provided with two EC2 servers.
 
 The two EC2 can be configured as Windows operating system or Ubuntu/Centos operating system, but it should be **noted** that **the way to connect to the server varies according to the operating system of the terminal**.
 
 Hardware configuration is as follows：
 
-| CPU | RAM | HDD | OS |  |
-| :--- | :--- | ---: | ---: | :--- |
-| Xeon 16vCPU | 32GB | 200GB SSD | Windows10/Ubuntu 18.04/Centos7 |  |
+| CPU | RAM | HDD | OS |
+| :--- | :--- | ---: | ---: |
+| Xeon 16vCPU | 32GB | 200GB SSD | Windows10/Ubuntu 18.04/Centos7 |
 
 {% hint style="info" %}
-As there will be network problems for Chinese participating teams to log in EC2 overseas, we will provide acceleration service\(GA\) for Chinese teams to speed up to Hong Kong to ensure the stability of login.each team can get 40GB data transfer ,If your team want to apply more, plz [Contact us](../../tech-support/online-support.md).
+All teams in China will use servers in the Hong Kong region by default. We have optimized the connection from the cities to Hong Kong via the accelerator. Each team's accelerator provides 40GB of traffic by default \(which is enough for normal usage\), please contact technical support if you need more information. 
 {% endhint %}
 
 ## **3.  Basic services**
