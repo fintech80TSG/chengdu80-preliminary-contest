@@ -10,8 +10,36 @@ Participants can log in to the competition environment and read it directly by m
 
 The specific operation steps are as follows：
 
+\*\*\*\*
+
 {% hint style="info" %}
-**Mount S3**
+**Download**
+
+\*\*\*\*[**install & config AWS CLI**](../../service-documents/aws-cli.md)\*\*\*\*
+
+**aws s3 ls（find the bucket and file）**
+
+**aws s3 cp s3://chengdu80final-project/XXX /local/**
+
+for example:
+
+**aws s3 cp s3://chengdu80final-topic/topic1 ./root/**
+{% endhint %}
+
+If there are large files on the windows side that cannot be uploaded or downloaded, you can use the official free tool [S3 Browser](https://s3browser.com/download/s3browser-9-2-1.exe).
+
+Install&open the S3 browser,click Account - Add New Account\(Fill in your account key information\)
+
+![](../../.gitbook/assets/image-s3browser.jpg)
+
+{% hint style="info" %}
+Detailed instructions are available on the [S3 browser ](https://s3browser.com/s3browser-first-run.aspx)
+{% endhint %}
+
+
+
+{% hint style="info" %}
+**\(optional\)Mount S3**
 
 **sudo apt-get（yum） update**
 
@@ -44,47 +72,5 @@ now we can mount aws s3:
 In our example:
 
 **s3fs chengdu80final-project ~/s3-bucket -o passwd\_file=~/.passwd-s3fs**
-{% endhint %}
-
-\*\*\*\*
-
-{% hint style="info" %}
-**Upload**
-
-\*\*\*\*[**install & config AWS CLI**](../../service-documents/aws-cli.md)\*\*\*\*
-
-**aws s3 ls（find the bucket and file）**
-
-**aws s3 cp /local/ s3://chengdu80final-topic/XXX**
-
-for example:
-
-**aws s3 cp ./root/ s3://chengdu80final-topic/topic1**
-{% endhint %}
-
-\*\*\*\*
-
-{% hint style="info" %}
-**Download**
-
-\*\*\*\*[**install & config AWS CLI**](../../service-documents/aws-cli.md)\*\*\*\*
-
-**aws s3 ls（find the bucket and file）**
-
-**aws s3 cp s3://chengdu80final-project/XXX /local/**
-
-for example:
-
-**aws s3 cp s3://chengdu80final-topic/topic1 ./root/**
-{% endhint %}
-
-If there are large files on the windows side that cannot be uploaded or downloaded, you can use the official free tool [S3 Browser](https://s3browser.com/download/s3browser-9-2-1.exe).
-
-Install&open the S3 browser,click Account - Add New Account\(Fill in your account key information\)
-
-![](../../.gitbook/assets/image-s3browser.jpg)
-
-{% hint style="info" %}
-Detailed instructions are available on the [S3 browser ](https://s3browser.com/s3browser-first-run.aspx)
 {% endhint %}
 
