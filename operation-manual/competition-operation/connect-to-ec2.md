@@ -2,17 +2,15 @@
 
 How to connect to EC2 after we get public ip and key of EC2?
 
-{% hint style="info" %}
-**Note**: Get the default user name for the AMI that you used to launch your instance: ‌ 
-
-For a CentOS AMI, the user name is centos. ‌ 
-
-For an Ubuntu AMI, the user name is ubuntu. ‌ 
-
-For a Windows AMI，the user name is administrator.
+{% hint style="warning" %}
+Due to regional restrictions, the server addresses of the following teams are **different \(Using** [**GA service**](https://aws.amazon.com/cn/global-accelerator/?blogs-global-accelerator.sort-by=item.additionalFields.createdDate&blogs-global-accelerator.sort-order=desc&aws-global-accelerator-wn.sort-by=item.additionalFields.postDateTime&aws-global-accelerator-wn.sort-order=desc)**\),** so emailed account information should be noted.   
+  
+It is recommended that you use the connection information provided by mail.  
+  
+Tsinghua University/THU   
+Southern University of Science and Technology /SUSTech Chongqing University/CQU   
+Southwestern University of Finance and Economics/SWUFE\)
 {% endhint %}
-
-Due to regional restrictions, the server addresses of the following teams are different, \(Tsinghua University/THU Southern University of Science and Technology /SUSTech Chongqing University/CQU Southwestern University of Finance and Economics/SWUFE\)so email information should be noted. It is recommended that you use the connection information provided by mail
 
 ## **Connect to Centos7 or Ubuntu18.04 LTS** <a id="PuttingAnObjectInABucket"></a>
 
@@ -66,4 +64,16 @@ f.Using Windows mstsc\(Remote Desktop Connection\) to connect.
 g.Enter the **default user name** and **Password**.
 
 ![](../../.gitbook/assets/image%20%2863%29.png)
+
+
+
+{% hint style="info" %}
+**Note**: Get the default user name for the AMI that you used to launch your instance: ‌ 
+
+For a CentOS AMI, the user name is centos. ‌ 
+
+For an Ubuntu AMI, the user name is ubuntu. ‌ 
+
+For a Windows AMI，the user name is administrator.
+{% endhint %}
 
