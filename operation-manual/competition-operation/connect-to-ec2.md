@@ -24,9 +24,12 @@ b.Start PuTTY \(from the **Start** menu, choose **All Programs, PuTTY, PuTTY**\)
 
 c.In the **Category** pane, choose **Session** and complete the following fields:
 
-1. In the **Host Name** box: public ip\(ipv4\).
-2. In the **Port Name** box: 22
-3. 
+1. run puttygen.exe,load `.pem`file change to`.ppk` file.
+2. In the **Host Name** box: public ip\(ipv4\).
+3. In the **Port Name** box: 22
+4. Select **Connection** -&gt; **SSH** -&gt; **Auth**,browse the `.ppk` file.
+5. Click **Open**.
+
 d.Under **Connection type**, select **SSH**.
 
                             ![
@@ -38,13 +41,6 @@ d.Under **Connection type**, select **SSH**.
 {% hint style="info" %}
  \(Optional\) You can configure PuTTY to automatically send 'keepalive' data at regular intervals to keep the session active. This is useful to avoid disconnecting from your instance due to session inactivity. In the **Category** pane, choose **Connection**, and then enter the required interval in the **Seconds between keepalives** field. For example, if your session disconnects after 10 minutes of inactivity, enter 180 to configure PuTTY to send keepalive data every 3 minutes.
 {% endhint %}
-
-g.In the **Category** pane, expand **Connection**, expand **SSH**, and then choose **Auth**. Complete the following:
-
-1. Choose **Browse**.
-2. Select the `.ppk` file that you generated for your key pair and choose **Open**.
-3. \(Optional\) If you plan to start this session again later, you can save the session information for future use. Under **Category**, choose **Session**, enter a name for the session in **Saved Sessions**, and then choose **Save**.
-4. Choose **Open**.
 
 Other SSH client please find the information about [SSH Client](https://www.slant.co/topics/149/~best-ssh-clients-for-windows).
 
