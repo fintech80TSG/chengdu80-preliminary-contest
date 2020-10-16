@@ -2,15 +2,15 @@
 
 How to connect to EC2 after we get public ip and key of EC2?
 
-**Note:** EC2 has a default username.
+{% hint style="warning" %}
+**Note**: Get the default user name for the AMI that you used to launch your instance: ‌ 
 
-**Get the default user name for the AMI that you used to launch your instance:**
+For a CentOS AMI, the user name is centos. ‌ 
 
- For a CentOS AMI, the user name is `centos`. ****
+For an Ubuntu AMI, the user name is ubuntu. ‌ 
 
- For an Ubuntu AMI, the user name is `ubuntu`.
-
- For a Windows AMI，the user name is `administrator`.
+For a Windows AMI，the user name is administrator.
+{% endhint %}
 
 ## **Connect to Centos7 or Ubuntu18.04 LTS** <a id="PuttingAnObjectInABucket"></a>
 
