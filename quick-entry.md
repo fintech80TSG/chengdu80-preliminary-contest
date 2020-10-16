@@ -1,9 +1,5 @@
 # Quick Entry
 
-
-
-
-
 Here is the **Quick Entry** for the CHENGDU80 contest!
 
 *  [**login**](https://login.chengdu80.org) to the server
