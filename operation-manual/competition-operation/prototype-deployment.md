@@ -5,7 +5,7 @@
 请各队自行保障在比赛结束时服务器的状态能够再重启后自动启动。
 
 {% hint style="info" %}
-You should start your server on these Ports.If your team need special ports,plz [Contact us.](../../tech-support/online-support.md)
+You should start your server on these Ports（60-9000）.If your team need special ports,plz [Contact us.](../../tech-support/online-support.md)
 {% endhint %}
 
 
