@@ -12,9 +12,9 @@
 ## operation manual
 
 * [Join Chengdu80](operation-manual/join-chengdu80.md)
+* [Access to Account](operation-manual/sign-console.md)
 * [Test Environment](operation-manual/test-environment.md)
 * [Upload Intro Video](operation-manual/upload-team-introduction-video.md)
-* [Access to Account](operation-manual/sign-console.md)
 * [Competition operation](operation-manual/competition-operation/README.md)
   * [Connect to EC2](operation-manual/competition-operation/connect-to-ec2.md)
   * [Backup and Restore](operation-manual/competition-operation/backup-and-restore.md)
