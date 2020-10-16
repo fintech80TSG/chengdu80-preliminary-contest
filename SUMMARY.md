@@ -28,7 +28,7 @@
 
 ---
 
-* [Intro Product Video Upload](intro-product-video-upload.md)
+* [Intro Project Video Upload](intro-project-video-upload.md)
 
 ## Service Documents
 
