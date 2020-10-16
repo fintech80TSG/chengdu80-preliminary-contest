@@ -37,10 +37,10 @@ The network for each team's servers is isolated from each other. There is 10 Gig
 
 To support the completion of the project, the following services are provided:
 
-* [GIT]()  
+* [GIT ](../../operation-manual/competition-operation/code-submission.md) 
 * [S3 bucket](../../service-documents/aws-s3.md)
 * [Limit ](limit.md)
-* [Backup]() 
+* [Backup ](../../operation-manual/competition-operation/backup-and-restore.md)
 
 
 
