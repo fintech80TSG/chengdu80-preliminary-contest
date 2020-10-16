@@ -1,6 +1,6 @@
 # Environment Test
 
-Plz test your environment according to the following test steps to determine if it meets your needs
+Plz test your environment according to the following test steps to determine if it meets your needs.
 
 ## 3.1 Test connection to EC2
 
