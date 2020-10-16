@@ -24,7 +24,6 @@
   * [Obtaining  Data](operation-manual/competition-operation/obtaining-data.md)
   * [Code Submission](operation-manual/competition-operation/code-submission.md)
   * [Prototype deployment](operation-manual/competition-operation/prototype-deployment.md)
-  * [Video Upload](operation-manual/competition-operation/video-upload.md)
 
 ---
 
