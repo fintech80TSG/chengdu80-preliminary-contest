@@ -1,5 +1,9 @@
 # Connect to EC2
 
+
+
+
+
 **Get the default user name for the AMI that you used to launch your instance:**
 
  For a CentOS AMI, the user name is `centos`. ****
@@ -8,7 +12,7 @@
 
  For a Windows AMI，the user name is `administrator`.
 
-**centos7 or ubuntu18.04 LTS**
+## **Centos7 or Ubuntu18.04 LTS** <a id="PuttingAnObjectInABucket"></a>
 
 **Connect using PuTTY** 
 
