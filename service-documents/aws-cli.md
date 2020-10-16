@@ -18,34 +18,6 @@ unzip awscliv2.zip
 sudo ./aws/install
 ```
 
-**For a specific version of the AWS CLI,** append a hyphen and the version number to the filename. For this example the filename for version `2.0.30` would be `awscli-exe-linux-x86_64-2.0.30.zip` resulting in the following command:
-
-```text
-$ curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64-2.0.30.zip" -o "awscliv2.zip"
-unzip awscliv2.zip
-sudo ./aws/install
-```
-
-### To install and update for all users using the macOS command line <a id="cliv2-mac-install-cmd-all-users"></a>
-
-If you have `sudo` permissions, you can install the AWS CLI version 2 for all users on the computer.
-
-We provide the steps in one easy to copy and paste group. See the descriptions of each line in the following steps.
-
-**For the latest version of the AWS CLI,** use the following command block:
-
-```text
-$ curl "https://awscli.amazonaws.com/AWSCLIV2.pkg" -o "AWSCLIV2.pkg"
-$ sudo installer -pkg AWSCLIV2.pkg -target /
-```
-
-**For a specific version of the AWS CLI,** append a hyphen and the version number to the filename. For this example the filename for version `2.0.30` would be `AWSCLIV2-2.0.30.pkg` resulting in the following command:
-
-```text
-$ curl "https://awscli.amazonaws.com/AWSCLIV2-2.0.30.pkg" -o "AWSCLIV2.pkg"
-$ sudo installer -pkg AWSCLIV2.pkg -target /
-```
-
 
 
 ### Install or update the AWS CLI version 2 on Windows using the MSI installer <a id="cliv2-windows-install"></a>
