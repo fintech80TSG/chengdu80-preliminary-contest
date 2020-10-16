@@ -23,17 +23,25 @@ b.Start PuTTY \(from the **Start** menu, choose **All Programs, PuTTY, PuTTY**\)
 c.In the **Category** pane, choose **Session** and complete the following fields:
 
 1. run puttygen.exe,load `.pem`file change to`.ppk` file.
-2. In the **Host Name** box: public ip\(ipv4\).
-3. In the **Port Name** box: 22
-4. Select **Connection** -&gt; **SSH** -&gt; **Auth**,browse the `.ppk` file.
+
+* From the **Start** menu, choose **All Programs**, **PuTTY**, **PuTTYgen**.
+* Under **Type of key to generate**, choose **RSA**. If you're using an older version of PuTTYgen, choose **SSH-2 RSA**.
+
+![
+							RSA key in PuTTYgen
+						](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/images/puttygen-key-type.png)
+
+* Choose **Load**. By default, PuTTYgen displays only files with the extension `.ppk`. To locate your `.pem` file, choose the option to display files of all types.![
+  							Select all file types
+  						](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/images/puttygen-load-key.png)
+* Select your `.pem` file for the key pair that you specified when you launched your instance and choose **Open**. PuTTYgen displays a notice that the `.pem` file was successfully imported. Choose **OK**.
+* To save the key in the format that PuTTY can use, choose **Save private key**. PuTTYgen displays a warning about saving the key without a passphrase. Choose **Yes**.
+
+1. In the **Host Name** box: public ip\(ipv4\).
+2. In the **Port Name** box: 22
+3. Select **Connection** -&gt; **SSH** -&gt; **Auth**,browse the `.ppk` file.
 
 ![](../../.gitbook/assets/image%20%2885%29.png)
-
-![](../../.gitbook/assets/image%20%2896%29.png)
-
-![](../../.gitbook/assets/image%20%2894%29.png)
-
-![](../../.gitbook/assets/image%20%2895%29.png)
 
     5.Click **Open**.
 
