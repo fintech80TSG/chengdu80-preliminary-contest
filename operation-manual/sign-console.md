@@ -1,5 +1,7 @@
 # Access to Account
 
+### Sign Account <a id="user-sign-in-page"></a>
+
 1.You will get the information about your group resources from the email.
 
 2.Open a browser and enter the following sign-in URL, replacing the account alias or account ID provided by your administrator.
