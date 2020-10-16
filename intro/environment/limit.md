@@ -24,3 +24,7 @@ If your team need additional S3 bucket,plz [Contact us.](../../tech-support/onli
 
 Each EC2 Server will only open limit Ports  60-9000.You should start your server on these Ports.If your team need special ports,plz [Contact us.](../../tech-support/online-support.md)
 
+## 3.4 Prohibited content
+
+It is prohibited to submit any content irrelevant to the event of CHENG80. If any illegal or illegal controversial content is involved, the event party will hold responsible.
+

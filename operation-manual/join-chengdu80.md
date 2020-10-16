@@ -16,9 +16,7 @@ The support process is as follows:
 
 [https://www.microsoft.com/en/microsoft-365/microsoft-teams/download-app\#desktopAppDownloadregion](https://www.microsoft.com/en/microsoft-365/microsoft-teams/download-app#desktopAppDownloadregion)
 
-**Join link:** 
-
-[https://teams.microsoft.com/l/team/19%3ab5064e81a1f74d82bc1f6fc909bcf86a%40thread.tacv2/conversations?groupId=b6ecae3d-b84a-4648-acc2-73b4e8c3369e&tenantId=64e0c74b-1a17-4000-81c9-28cc776f6c75](https://teams.microsoft.com/l/team/19%3ab5064e81a1f74d82bc1f6fc909bcf86a%40thread.tacv2/conversations?groupId=b6ecae3d-b84a-4648-acc2-73b4e8c3369e&tenantId=64e0c74b-1a17-4000-81c9-28cc776f6c75)
+**Join link:** [https://teams.microsoft.com/l/team/19%3ab5064e81a1f74d82bc1f6fc909bcf86a%40thread.tacv2/conversations?groupId=b6ecae3d-b84a-4648-acc2-73b4e8c3369e&tenantId=64e0c74b-1a17-4000-81c9-28cc776f6c75](https://teams.microsoft.com/l/team/19%3ab5064e81a1f74d82bc1f6fc909bcf86a%40thread.tacv2/conversations?groupId=b6ecae3d-b84a-4648-acc2-73b4e8c3369e&tenantId=64e0c74b-1a17-4000-81c9-28cc776f6c75)
 
 **If you have any technical questions, you can choose several ways :**
 
