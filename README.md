@@ -28,7 +28,7 @@ The guide of this contest is as follows. Please read carefully:
 
                       Target 1-[EC2 login is available](operation-manual/environment-test.md#3-1-test-connection-to-ec2),
 
-                      Target 2-[Test EC2 Speed](operation-manual/environment-test.md#3-2-test-ec2-connection-speed),
+                      Target 2-[Test EC2 environment,](operation-manual/environment-test.md#3-2-test-ec2-environment)
 
                       Target 3-[S3 upload/download test](operation-manual/environment-test.md#3-3-test-s3-upload-download).
 

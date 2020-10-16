@@ -57,13 +57,17 @@ g.Enter the **default user name** and **Password**.
 
 ![](../.gitbook/assets/image%20%2863%29.png)
 
-## 3.2 Test EC2 connection speed
+## 3.2 Test EC2 environment,
+
+**1.Use EC2 to test the network speed \(for example: ping the local IP to test the delay\).**
+
+2.**Check whether the EC2 environment meets the operating requirements of your data.**
 
 ## **Connect to Centos7 or Ubuntu18.04 LTS** <a id="PuttingAnObjectInABucket"></a>
 
 ## 3.3 Test S3 Upload/Download
 
-Open the Amazon S3 console at Services.
+**Open the Amazon S3 console at Services.**
 
 ![](../.gitbook/assets/image%20%2886%29.png)
 
