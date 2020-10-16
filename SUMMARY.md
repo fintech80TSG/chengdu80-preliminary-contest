@@ -36,6 +36,5 @@
 
 ---
 
-* [Quick Entry](quick-entry.md)
 * [Official Website](http://cd80.swufe.edu.cn)
 
