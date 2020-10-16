@@ -36,7 +36,7 @@ Install&open the S3 browser,click Account - Add New Account\(Fill in your accoun
 
 ![](../.gitbook/assets/image-s3browser.jpg)
 
-{% hint style="warning" %}
+{% hint style="info" %}
 Detailed instructions are available on the [S3 browser ](https://s3browser.com/s3browser-first-run.aspx)
 {% endhint %}
 
