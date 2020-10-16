@@ -4,9 +4,17 @@ Test your environment according to the following test steps .
 
 ## 3.1 Test connection to EC2
 
-**1.Connect to Centos7 or Ubuntu18.04 LTS**
+{% hint style="warning" %}
+Due to regional restrictions, the server addresses of the following teams are **different \(Using** [**GA service**](https://aws.amazon.com/cn/global-accelerator/?blogs-global-accelerator.sort-by=item.additionalFields.createdDate&blogs-global-accelerator.sort-order=desc&aws-global-accelerator-wn.sort-by=item.additionalFields.postDateTime&aws-global-accelerator-wn.sort-order=desc)**\),** so emailed account information should be noted.   
+  
+It is recommended that you use the connection information provided by mail.  
+  
+Tsinghua University/THU   
+Southern University of Science and Technology /SUSTech Chongqing University/CQU   
+Southwestern University of Finance and Economics/SWUFE\)
+{% endhint %}
 
-Due to regional restrictions, the server addresses of the following teams are different, \(Tsinghua University/THU Southern University of Science and Technology /SUSTech Chongqing University/CQU Southwestern University of Finance and Economics/SWUFE\)so email information should be noted. It is recommended that you use the connection information provided by mail.
+**1.Connect to Centos7 or Ubuntu18.04 LTS**
 
 **Connect using PuTTY** 
 
