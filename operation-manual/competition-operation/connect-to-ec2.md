@@ -50,7 +50,7 @@ g.In the **Category** pane, expand **Connection**, expand **SSH**, and then choo
 
 Other SSH client please find the information about [SSH Client](https://www.slant.co/topics/149/~best-ssh-clients-for-windows).
 
-**windows 2016 R2**
+## **Windows 2016 R2** <a id="PuttingAnObjectInABucket"></a>
 
 a.Open the Amazon EC2 console at [https://console.aws.amazon.com/ec2/](https://console.aws.amazon.com/ec2/).
 
