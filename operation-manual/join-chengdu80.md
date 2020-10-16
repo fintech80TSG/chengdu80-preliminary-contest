@@ -1,5 +1,7 @@
 # Join Chengdu80
 
+Before the test environment, join the chengdu80 Microsoft Teams, you can contact the supporter about your questions at any time during the competition.
+
 **Technical support process**
 
 Choosing Microsoft Teams as the platform for technical support and instant notification \(instant communication, meeting, calling, file management, etc\).
