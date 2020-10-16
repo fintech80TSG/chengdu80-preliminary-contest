@@ -24,7 +24,7 @@ The support process is as follows:
 
 1.  **Create a private one-to-one chat for communication;**
 
-![](file:///C:\Users\22676\AppData\Local\Temp\ksohtml16048\wps1.jpg)
+![](../.gitbook/assets/image%20%2887%29.png)
 
 **2. You can also have an open dialogue in the** **‘Team’ to seek problem solving;**
 
