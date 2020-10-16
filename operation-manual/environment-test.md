@@ -2,7 +2,9 @@
 
 ## 3.1 Test connection to EC2
 
-## **Connect to Centos7 or Ubuntu18.04 LTS** <a id="PuttingAnObjectInABucket"></a>
+
+
+**1.Connect to Centos7 or Ubuntu18.04 LTS**
 
 **Connect using PuTTY** 
 
@@ -27,7 +29,7 @@ c.In the **Category** pane, choose **Session** and complete the following fields
 
 Other SSH client please find the information about [SSH Client](https://www.slant.co/topics/149/~best-ssh-clients-for-windows).
 
-## **Connect to Windows 2016 R2** <a id="PuttingAnObjectInABucket"></a>
+**2.Connect to Windows 2016 R2**
 
 a.Open the Amazon EC2 console at [https://console.aws.amazon.com/ec2/](https://console.aws.amazon.com/ec2/).
 
@@ -57,13 +59,15 @@ g.Enter the **default user name** and **Password**.
 
 ## 3.2 Test EC2 connection speed
 
-
+## **Connect to Centos7 or Ubuntu18.04 LTS** <a id="PuttingAnObjectInABucket"></a>
 
 ## 3.3 Test S3 Upload/Download
 
-## Uploading an object to a bucket <a id="PuttingAnObjectInABucket"></a>
+Open the Amazon S3 console at Services.
 
-**Amazon S3 managerment Console**
+![](../.gitbook/assets/image%20%2886%29.png)
+
+1**.Uploading an object to a bucket**
 
 1. In the **Bucket** list, choose the name of the bucket that you want to upload your object to.
 2. On the **Overview** tab for your bucket, choose **Upload** or **Get Started**.
@@ -73,9 +77,7 @@ g.Enter the **default user name** and **Password**.
 
 You've successfully uploaded an object to your bucket.
 
-## Delecting an object <a id="PuttingAnObjectInABucket"></a>
-
-**Amazon S3 managerment Console**
+**2.Delecting an object**
 
 1. In the **Buckets** list, choose the name of the bucket that you want to delete an object from.
 2. In the **Name** list, select the check box for the object that you want to delete.
@@ -84,9 +86,7 @@ You've successfully uploaded an object to your bucket.
 
 You've successfully deleted an object to your bucket.
 
-## Downloading an object from a bucket <a id="PuttingAnObjectInABucket"></a>
-
-**Amazon S3 managerment Console**
+**3.Downloading an object from a bucket**
 
 1. In the **Buckets** list, choose the name of the bucket that you want to download an object from.
 2. In the **Name** list, select the check box for the object that you want to download.
