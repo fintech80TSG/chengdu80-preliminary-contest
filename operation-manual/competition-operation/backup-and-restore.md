@@ -65,13 +65,21 @@ Warning: Due to IAM limit，Contestants do not have permission to restore the sn
 
 **\(No permission\)To restore a snapshot using the console**
 
-1. Open the Amazon EC2 console at [https://console.aws.amazon.com/ec2/](https://console.aws.amazon.com/ec2/).
-2. Choose **Snapshots** in the navigation pane.
-3. Select the snapshot and then choose **Actions**, **Create Volume**.
-4. Make the snapshot create the Volume with specific AWS accounts as follows:
-   * To make the Volume  Same **Availability Zone** as **EC2**.
-5. Choose **Save**.
-6. Choose broken EC2 and select the root Volume.
-7. then choose **Actions, Detach Volume\(Please shut down EC2\)**.
-8. Select the new Volume and then choose **Actions,  Attach Volume**.
+a.Open the Amazon EC2 console at [https://console.aws.amazon.com/ec2/](https://console.aws.amazon.com/ec2/).
+
+b.Choose **Snapshots** in the navigation pane.
+
+c.Select the snapshot and then choose **Actions**, **Create Volume**.
+
+d.Make the snapshot create the Volume with specific AWS accounts as follows:
+
+* To make the Volume  Same **Availability Zone** as **EC2**.
+
+e.Choose **Save**.
+
+f.Choose broken EC2 and select the root Volume.
+
+g.then choose **Actions, Detach Volume\(Please shut down EC2\)**.
+
+h.Select the new Volume and then choose **Actions,  Attach Volume**.
 
