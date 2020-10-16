@@ -1,6 +1,6 @@
 # Backup and Restore
 
-When we encounter misoperation, we can use snapshot restore. We provide daily UTC Automatic snapshot at 2:00 and provide manual snapshot.
+When we encounter misoperation, we can use snapshot restore. We provide daily  automatic snapshot at UTC 2:00 and provide self-manual snapshot.
 
 ## Creating a snapshot <a id="ebs-create-snapshot"></a>
 
