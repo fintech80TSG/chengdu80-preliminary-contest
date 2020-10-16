@@ -63,7 +63,7 @@ VolumeSize          : 20This example creates a snapshot of the specified volume.
 Warning: Due to IAM limit，Contestants do not have permission to restore the snapshot.You just can[ contact us](../../tech-support/online-support.md) for alternative operations.
 {% endhint %}
 
-**To restore a snapshot using the console**
+**\(No permission\)To restore a snapshot using the console**
 
 1. Open the Amazon EC2 console at [https://console.aws.amazon.com/ec2/](https://console.aws.amazon.com/ec2/).
 2. Choose **Snapshots** in the navigation pane.
