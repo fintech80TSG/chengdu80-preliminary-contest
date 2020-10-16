@@ -23,7 +23,7 @@ Hardware configuration is as follows：
 
 | CPU | RAM | HDD | OS |
 | :--- | :--- | ---: | ---: |
-| Xeon 16vCPU | 32GB | 200GB SSD | Windows10/Ubuntu 18.04/Centos7 |
+| Xeon 8vCPU | 32GB | 200GB SSD | Windows10/Ubuntu 18.04/Centos7 |
 
 {% hint style="info" %}
 All teams in China will use servers in the Hong Kong region by default. We have optimized the connection from the cities to Hong Kong via the accelerator. Each team's accelerator provides 40GB of traffic by default \(which is enough for normal usage\), please contact technical support if you need more information. 
