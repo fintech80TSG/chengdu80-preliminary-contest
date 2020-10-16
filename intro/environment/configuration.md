@@ -23,9 +23,9 @@ The two EC2 can be configured as Windows operating system or Ubuntu/Centos opera
 
 Hardware configuration is as follows：
 
-| CPU | RAM | HDD | Ethernet | OS |
-| :--- | :--- | ---: | ---: | ---: |
-| Xeon 4vCPU | 16GB | 200GB SSD | 10Gbps | Windows10/Ubuntu 18.04/Centos7 |
+| CPU | RAM | HDD | OS |  |
+| :--- | :--- | ---: | ---: | :--- |
+| Xeon 16vCPU | 32GB | 200GB SSD | Windows10/Ubuntu 18.04/Centos7 |  |
 
 {% hint style="info" %}
 As there will be network problems for Chinese participating teams to log in EC2 overseas, we will provide acceleration service\(GA\) for Chinese teams to speed up to Hong Kong to ensure the stability of login.each team can get 40GB data transfer ,If your team want to apply more, plz [Contact us](../../tech-support/online-support.md).
@@ -41,4 +41,6 @@ To support the completion of the project, the following services are provided:
 * [S3 bucket](../../service-documents/aws-s3.md)
 * [Limit ](limit.md)
 * [Backup](../../operation-manual/develops-and-backup.md) 
+
+
 

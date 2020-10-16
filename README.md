@@ -8,6 +8,8 @@ This document site is an introduction to the technical rules and environment of 
 
 This document contains the following:
 
+#### compelete Microsoft Teams account
+
 ####   Intro of the Online Environment
 
 * [Platform](intro/environment/platform.md)
@@ -16,7 +18,7 @@ This document contains the following:
 
 #### OPERATION MANUAL
 
-* [Access to Account](operation-manual/sign-console/)
+* [Access to Account](operation-manual/sign-console.md)
 * [Backup and Restore](operation-manual/develops-and-backup.md)
 * [Obtaining Data](operation-manual/upload-download-data.md)
 * [Code Submission](operation-manual/code-present.md)

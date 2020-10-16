@@ -18,15 +18,15 @@ https://733604999136.signin.aws.amazon.com/console/
 
 1.select **Services -&gt; EC2** buttons
 
-![](../../.gitbook/assets/image%20%2864%29.png)
+![](../.gitbook/assets/image%20%2864%29.png)
 
 2.get EC2 information
 
-![](../../.gitbook/assets/image%20%2862%29.png)
+![](../.gitbook/assets/image%20%2862%29.png)
 
 ### CONNECT  EC2 <a id="user-sign-in-page"></a>
 
-plz refer [CONNECT  EC2](sign-ec2-1.md)
+plz refer [CONNECT  EC2]()
 
  
 
