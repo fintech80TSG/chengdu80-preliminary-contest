@@ -26,3 +26,19 @@ The support process is as follows:
 
 **2. You can also have an open dialogue in the** **‘Team’ to seek problem solving;**
 
+![](../.gitbook/assets/image%20%2892%29.png)
+
+
+
+**3.If there is a document transfer, you can choose the ‘File’ function \(built-in Microsoft 365\) for collaborative interaction:**
+
+![](../.gitbook/assets/image%20%2888%29.png)
+
+**4. If you need to communicate in a multi-person meeting, you can use Teams meetings to contact and collaborate with people around the world via voice or video on the desktop, browser, mobile device or meeting room device.**
+
+![](../.gitbook/assets/image%20%2889%29.png)
+
+**5. If you need overall process guidance, please refer to "User Guide"**
+
+![](../.gitbook/assets/image%20%2890%29.png)
+
