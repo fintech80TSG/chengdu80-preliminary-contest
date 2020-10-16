@@ -13,7 +13,9 @@
 
 * [Join Chengdu80](operation-manual/join-chengdu80.md)
 * [Access to Account](operation-manual/sign-console.md)
-* [Test Environment](operation-manual/test-environment.md)
+* [Test Environment](operation-manual/test-environment/README.md)
+  * [TEST EC2 Server](operation-manual/test-environment/test-ec2-server.md)
+  * [Untitled](operation-manual/test-environment/untitled.md)
 * [Upload Intro Video](operation-manual/upload-team-introduction-video.md)
 * [Competition operation](operation-manual/competition-operation/README.md)
   * [Connect to EC2](operation-manual/competition-operation/connect-to-ec2.md)
