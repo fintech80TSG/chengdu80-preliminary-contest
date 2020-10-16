@@ -2,7 +2,7 @@
 
 ## 3.1 Test connection to EC2
 
-
+1
 
 ## 3.2 Test EC2 connection speed
 

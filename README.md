@@ -24,11 +24,11 @@ The process of this competition is as follows. Please read carefully:
 
   3.1 **Test Operation**:  
 
-                      Target 1-EC2 login is available,
+                      Target 1-[EC2 login is available](operation-manual/environment-test.md#3-1-test-connection-to-ec2),
 
-                      Target 2-SSH link test,
+                      Target 2-[Test EC2 Speed](operation-manual/environment-test.md#3-2-test-ec2-connection-speed),
 
-                      Target 3-S3 upload test.
+                      Target 3-[S3 upload/download test](operation-manual/environment-test.md#3-3-test-s3-upload-download).
 
   3.2 **Test Feedback**: Whether the test has been completed and what Suggestions or requirements are available.
 
