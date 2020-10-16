@@ -73,8 +73,6 @@ g.Enter the **default user name** and **Password**.
 
 2.**Check whether the EC2 environment meets the operating requirements of your data.**
 
-## **Connect to Centos7 or Ubuntu18.04 LTS** <a id="PuttingAnObjectInABucket"></a>
-
 ## 3.3 Test S3 Upload/Download
 
 **Open the Amazon S3 console at Services.**
