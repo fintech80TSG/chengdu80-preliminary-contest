@@ -6,9 +6,7 @@ description: About AWS
 
 ![](../../.gitbook/assets/tu-pian-1.png)  
 
-Amazon Web Services \(AWS\) is the world’s most comprehensive and broadly adopted cloud platform, offering over 175 fully featured services from data centers globally. Millions of customers—including the fastest-growing startups, largest enterprises, and leading government agencies—are using AWS to lower costs, become more agile, and innovate faster.
-
-## The **L**eading Cloud Platform <a id="The_leading_cloud_platform"></a>
+## AWS Cloud Platform <a id="The_leading_cloud_platform"></a>
 
 **Complete Global Facilities, Convenient for Contestants to Access Nearby**
 
