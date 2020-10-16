@@ -13,7 +13,7 @@
 
 * [Join Chengdu80](operation-manual/join-chengdu80.md)
 * [Access to Account](operation-manual/sign-console.md)
-* [Test Environment](operation-manual/test-environment.md)
+* [Environment Test](operation-manual/environment-test.md)
 * [Team Intro Video Upload](operation-manual/upload-team-introduction-video.md)
 * [Competition operation](operation-manual/competition-operation/README.md)
   * [Connect to EC2](operation-manual/competition-operation/connect-to-ec2.md)
@@ -21,10 +21,7 @@
   * [Obtaining  Data](operation-manual/competition-operation/obtaining-data.md)
   * [Code Submission](operation-manual/competition-operation/code-submission.md)
   * [Prototype deployment](operation-manual/competition-operation/prototype-deployment.md)
-
----
-
-* [Project Intro Video Upload](upload-team-introduction-video.md)
+  * [Video Upload](operation-manual/competition-operation/upload-team-introduction-video.md)
 
 ## Service Documents
 
