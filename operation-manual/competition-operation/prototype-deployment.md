@@ -1,6 +1,8 @@
 # Prototype deployment
 
-The security group port is only set by the organizing committee during the competition and cannot be viewed. To ensure that your service starts up properly, each team needs to apply for the required open port.
+The security group port is only set by the organizing committee during the competition and cannot be viewed. 
+
+To ensure that your service starts up properly, each team needs to **apply for the required open port** on TEAMS.
 
 Each team should ensure that the server can be restarted automatically at the end of the game.
 
