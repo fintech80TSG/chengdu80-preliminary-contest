@@ -22,7 +22,7 @@ b.Start PuTTY \(from the **Start** menu, choose **All Programs, PuTTY, PuTTY**\)
 
 c.In the **Category** pane, choose **Session** and complete the following fields:
 
-1. run puttygen.exe,load `.pem`file change to`.ppk` file.
+a.run puttygen.exe,load `.pem`file change to`.ppk` file.
 
 * From the **Start** menu, choose **All Programs**, **PuTTY**, **PuTTYgen**.
 * Under **Type of key to generate**, choose **RSA**. If you're using an older version of PuTTYgen, choose **SSH-2 RSA**.
@@ -40,13 +40,15 @@ c.In the **Category** pane, choose **Session** and complete the following fields
 * Select your `.pem` file for the key pair that you specified when you launched your instance and choose **Open**. PuTTYgen displays a notice that the `.pem` file was successfully imported. Choose **OK**.
 * To save the key in the format that PuTTY can use, choose **Save private key**. PuTTYgen displays a warning about saving the key without a passphrase. Choose **Yes**.
 
-1. In the **Host Name** box: public ip\(ipv4\).
-2. In the **Port Name** box: 22
-3. Select **Connection** -&gt; **SSH** -&gt; **Auth**,browse the `.ppk` file.
+b.In the **Host Name** box: public ip\(ipv4\).
+
+c.In the **Port Name** box: 22
+
+d.Select **Connection** -&gt; **SSH** -&gt; **Auth**,browse the `.ppk` file.
 
 ![](../../.gitbook/assets/image%20%2885%29.png)
 
-    5.Click **Open**.
+    e.Click **Open**.
 
 {% hint style="info" %}
  \(Optional\) You can configure PuTTY to automatically send 'keepalive' data at regular intervals to keep the session active. This is useful to avoid disconnecting from your instance due to session inactivity. In the **Category** pane, choose **Connection**, and then enter the required interval in the **Seconds between keepalives** field. For example, if your session disconnects after 10 minutes of inactivity, enter 180 to configure PuTTY to send keepalive data every 3 minutes.
