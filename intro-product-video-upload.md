@@ -1,6 +1,6 @@
 # Intro Product Video Upload
 
-We use Amazon S3 to upload team intro Video after Access to Account \(if you don't know how to access,plz return [Access to Account](operation-manual/sign-console.md)\).
+Using S3 to upload your team intro video and  contest project video.
 
 ## Uploading the Intro Video to a bucket <a id="PuttingAnObjectInABucket"></a>
 
