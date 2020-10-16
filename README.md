@@ -31,7 +31,7 @@ This document contains the following:
  -  [AWS Management Console](service-documents/aws-management-console.md)  
  -  [AWS CLI](service-documents/aws-cli.md)  
 - [AWS S3](service-documents/aws-s3.md)  
-- [Other](service-documents/other.md)
+- [Other]()
 
 SUPPORT  
 - [FAQ](tech-support/faq.md)  

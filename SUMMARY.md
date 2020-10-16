@@ -31,7 +31,6 @@
 * [AWS Management Console](service-documents/aws-management-console.md)
 * [AWS CLI](service-documents/aws-cli.md)
 * [AWS S3](service-documents/aws-s3.md)
-* [Others](service-documents/other.md)
 
 ## Support <a id="tech-support"></a>
 
