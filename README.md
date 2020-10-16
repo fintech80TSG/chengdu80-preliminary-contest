@@ -36,7 +36,7 @@ The process of this competition is as follows. Please read carefully:
 
   ****4.1  The operation guide for uploading to S3
 
-  4.2  The operation guide for downloading from S3（organization commit）
+  4.2  The operation guide for downloading from S3（Organization Committee）
 
 ### **5**.**The Competition Begins** <a id="user-sign-in-page"></a>
 
