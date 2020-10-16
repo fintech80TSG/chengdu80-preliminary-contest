@@ -1,4 +1,4 @@
-# Intro Team Video Upload
+# Team Intro Video Upload
 
 We use Amazon S3 to upload team intro Video after Access to Account \(if you don't know how to access,plz return [Access to Account](sign-console.md)\).
 

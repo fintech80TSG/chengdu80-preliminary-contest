@@ -12,6 +12,8 @@ For an Ubuntu AMI, the user name is ubuntu. ‌
 For a Windows AMI，the user name is administrator.
 {% endhint %}
 
+## \*\*\*\* <a id="PuttingAnObjectInABucket"></a>
+
 ## **Connect to Centos7 or Ubuntu18.04 LTS** <a id="PuttingAnObjectInABucket"></a>
 
 **Connect using PuTTY** 

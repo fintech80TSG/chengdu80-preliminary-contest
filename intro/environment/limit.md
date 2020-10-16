@@ -22,5 +22,5 @@ If your team need additional S3 bucket,plz [Contact us.](../../tech-support/onli
 
 ## 3.3 Limit  Security Groups\(Ports\)
 
-Each EC2 Server will only open Ports 60-9000.You should start your server on these Ports.If your team need special ports,plz [Contact us.](../../tech-support/online-support.md)
+Each EC2 Server will only open limit Ports  60-9000.You should start your server on these Ports.If your team need special ports,plz [Contact us.](../../tech-support/online-support.md)
 
