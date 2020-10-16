@@ -28,15 +28,10 @@ c.In the **Category** pane, choose **Session** and complete the following fields
 2. In the **Host Name** box: public ip\(ipv4\).
 3. In the **Port Name** box: 22
 4. Select **Connection** -&gt; **SSH** -&gt; **Auth**,browse the `.ppk` file.
-5. Click **Open**.
 
-d.Under **Connection type**, select **SSH**.
+![](../../.gitbook/assets/image%20%2885%29.png)
 
-                            ![
-							PuTTY configuration - Session
-						](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/images/putty-session-config.png)
-
-
+    5.Click **Open**.
 
 {% hint style="info" %}
  \(Optional\) You can configure PuTTY to automatically send 'keepalive' data at regular intervals to keep the session active. This is useful to avoid disconnecting from your instance due to session inactivity. In the **Category** pane, choose **Connection**, and then enter the required interval in the **Seconds between keepalives** field. For example, if your session disconnects after 10 minutes of inactivity, enter 180 to configure PuTTY to send keepalive data every 3 minutes.
