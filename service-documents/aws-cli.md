@@ -25,7 +25,6 @@ sudo ./aws/install
 1. Download the AWS CLI MSI installer for Windows \(64-bit\):
 
    * **For the latest version of the AWS CLI:** [https://awscli.amazonaws.com/AWSCLIV2.msi](https://awscli.amazonaws.com/AWSCLIV2.msi)
-   * **For a specific version of the AWS CLI:** Append a hyphen and the version number to the filename. For this example the filename for version `2.0.30` would be `AWSCLIV2-2.0.30.msi` resulting in the following link [https://awscli.amazonaws.com/AWSCLIV2-2.0.30.msi](https://awscli.amazonaws.com/AWSCLIV2-2.0.30.msi). 
 
    To update your current installation of AWS CLI version 2 on Windows, download a new installer each time you update to overwrite previous versions. AWS CLI is updated regularly. 
 
