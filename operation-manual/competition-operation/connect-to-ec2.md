@@ -29,6 +29,12 @@ c.In the **Category** pane, choose **Session** and complete the following fields
 
 ![](../../.gitbook/assets/image%20%2885%29.png)
 
+![](../../.gitbook/assets/image%20%2896%29.png)
+
+![](../../.gitbook/assets/image%20%2894%29.png)
+
+![](../../.gitbook/assets/image%20%2895%29.png)
+
     5.Click **Open**.
 
 {% hint style="info" %}
