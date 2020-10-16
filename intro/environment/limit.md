@@ -1,6 +1,6 @@
 # Limits
 
-## 3.1 Limit informations
+## 3.1 Limit resources
 
 We limited each participating team can only use 2 EC2 Server. \(3 select 2\)
 
