@@ -1,19 +1,21 @@
 # Limits
 
-In addition to the following technical constraints, we require teams to. 
+In addition to the following technical constraints, we require teams to：
 
-1. Prohibit the use of computing resources for non-competition-related content   
-2. prohibit the use of computing resources to publish any content not related to the competition   
-3. It is forbidden to post non-competition related content on the Teams platform.   
-4.Don't leak the questions and data of the contest.
+* Prohibit the use of computing resources for non-competition-related content 
+* Prohibit the use of computing resources to publish any content not related to the competition 
+* It is forbidden to post non-competition related content on the Teams platform. 
+* Don't leak the questions and data of the contest.
+
+
 
 ### 3.1 Limit resources
 
 We limited each participating team can only use 2 EC2 Server. \(3 select 2\)
 
-* [x] Windows 2016R2
-* [x] Ubuntu 18.04
-* [ ] Centos 7
+* [ ] Windows Server 2016R2
+* [ ] Ubuntu 18.04
+* [x] Centos 7
 
 Each team can only operate its own resources，can start/stop/restart your team
 
