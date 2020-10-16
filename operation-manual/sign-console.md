@@ -28,7 +28,7 @@ https://733604999136.signin.aws.amazon.com/console/
 
 ### CONNECT  EC2 <a id="user-sign-in-page"></a>
 
-plz refer [CONNECT  EC2]()
+plz refer [CONNECT  EC2](competition-operation/connect-to-ec2.md)
 
  
 
