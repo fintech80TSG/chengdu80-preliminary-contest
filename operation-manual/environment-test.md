@@ -61,7 +61,7 @@ g.Enter the **default user name** and **Password**.
 
 ## 3.3 Test S3 Upload/Download
 
-## 1.Uploading an object to a bucket <a id="PuttingAnObjectInABucket"></a>
+## Uploading an object to a bucket <a id="PuttingAnObjectInABucket"></a>
 
 **Amazon S3 managerment Console**
 
@@ -73,7 +73,7 @@ g.Enter the **default user name** and **Password**.
 
 You've successfully uploaded an object to your bucket.
 
-## 2.Delecting an object <a id="PuttingAnObjectInABucket"></a>
+## Delecting an object <a id="PuttingAnObjectInABucket"></a>
 
 **Amazon S3 managerment Console**
 
@@ -84,7 +84,7 @@ You've successfully uploaded an object to your bucket.
 
 You've successfully deleted an object to your bucket.
 
-## 3.Downloading an object from a bucket <a id="PuttingAnObjectInABucket"></a>
+## Downloading an object from a bucket <a id="PuttingAnObjectInABucket"></a>
 
 **Amazon S3 managerment Console**
 
