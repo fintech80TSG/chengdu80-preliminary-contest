@@ -22,7 +22,11 @@ The specific operation steps are as follows：
 
 **aws s3 ls（find the bucket and file）**
 
+\*\*\*\*![](../../.gitbook/assets/image%20%2899%29.png) ****
+
 **aws s3 cp s3://chengdu80final-project/XXX /local/**
+
+\*\*\*\*![](../../.gitbook/assets/image%20%2898%29.png) ****
 
 for example:
 
