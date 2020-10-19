@@ -26,7 +26,7 @@ The specific operation steps are as follows：
 
 **aws s3 cp s3://chengdu80final-project/XXX /local/**
 
-\*\*\*\*![](../../.gitbook/assets/image%20%2898%29.png) ****
+\*\*\*\*![](../../.gitbook/assets/1603077877-1-.png) ****
 
 for example:
 
