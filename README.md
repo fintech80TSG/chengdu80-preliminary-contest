@@ -57,7 +57,7 @@ Operation manual:
 
 6.1 By the end of the contest ,CST 2020-10-29 22:00 , all servers will be fully backed up and copies are downloaded for review.;
 
-6.2 All teams need to **shut down** your servers and also ensure that your servers provide access to the deployed prototypes without configuration once they are up again.
+6.2 All teams need to **shut down** your servers and also ensure that your servers provide access to the deployed prototypes without any configuration once they are up again.
 
 ###     **7**. Submit Presentation Videos <a id="user-sign-in-page"></a>
 
