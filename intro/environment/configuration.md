@@ -31,7 +31,7 @@ All teams in China will use servers in the Hong Kong region by default. We have 
 
 ## **3.  Basic services**
 
-The network for each team's servers is isolated from each other. There is 10 Gigabit bandwidth between aws servers.
+The network for each team's servers is isolated from each other. There is 5 Gigabit bandwidth between aws servers.
 
 To support the completion of the project, the following services are provided:
 
