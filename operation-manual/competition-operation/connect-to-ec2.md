@@ -8,8 +8,10 @@ Due to regional restrictions, the server addresses of the following teams are **
 It is recommended that you use the connection information provided by mail.  
   
 Tsinghua University/ THU   
-Southern University of Science and Technology / SUSTech Chongqing University/ CQU   
-Southwestern University of Finance and Economics/ SWUFE
+Southern University of Science and Technology / SUSTech   
+Chongqing University/ CQU   
+Southwestern University of Finance and Economics/ SWUFE  
+University of Electronic Science and Technology of China /UESTC
 {% endhint %}
 
 ## **Connect to Centos7 or Ubuntu18.04 LTS** <a id="PuttingAnObjectInABucket"></a>

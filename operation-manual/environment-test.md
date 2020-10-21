@@ -1,6 +1,6 @@
 # Environment Test
 
-Test your environment according to the following test steps .
+In the pre-match testing session, we need to do the following tests. 1. verify if the aws console login is working properly and if the team introduction video can be uploaded via S3. 2. check whether the server operating system is correct and whether it can be logged on normally 3. verify that the connection speed to the server is normal and that there is no lag.
 
 ## 3.1 Test connection to EC2
 
@@ -10,8 +10,10 @@ Due to regional restrictions, the server addresses of the following teams are **
 It is recommended that you use the connection information provided by mail.  
   
 Tsinghua University/THU   
-Southern University of Science and Technology /SUSTech Chongqing University/CQU   
-Southwestern University of Finance and Economics/SWUFE                 _University of Electronic Science and Technology of China_ /_UESTC_
+Southern University of Science and Technology /SUSTech   
+Chongqing University/CQU   
+Southwestern University of Finance and Economics/SWUFE                   
+University of Electronic Science and Technology of China /UESTC
 {% endhint %}
 
 **1.Connect to Centos7 or Ubuntu18.04 LTS**
@@ -88,9 +90,9 @@ g.Enter the **default user name** and **Password**.
 
 ## 3.2 Test EC2 environment,
 
-**1.Use EC2 to test the network speed \(for example: ping the local IP to test the delay\).**
+**1.test the network speed \(for example: ping the ec2 IP to test the delay\).**
 
-2.**Check whether the EC2 environment meets the operating requirements of your data.**
+2.**Check  the EC2 environment \(OS etc\).**
 
 ## 3.3 Test S3 Upload/Download
 
@@ -128,7 +130,7 @@ You've successfully downloaded an object to your bucket.
 
 ## 3.4 Feedback usage
 
-If you have completed the test, please feedback us [the corresponding test results](https://forms.office.com/Pages/DesignPage.aspx?fragment=FormId%3DS8fgZBcaAECBySjMd29sdbARWGwIoxVBvYOnmX6MKMNUQUIwNEQ3SDE2UDJDOEE5MThEVllLTFpRUC4u).
+When you have completed the test, please feedback us [the corresponding test results](https://forms.office.com/Pages/DesignPage.aspx?fragment=FormId%3DS8fgZBcaAECBySjMd29sdbARWGwIoxVBvYOnmX6MKMNUQUIwNEQ3SDE2UDJDOEE5MThEVllLTFpRUC4u).
 
 
 
