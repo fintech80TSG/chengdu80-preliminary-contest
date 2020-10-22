@@ -94,6 +94,10 @@ g.Enter the **default user name** and **Password**.
 
 2.**Check  the EC2 environment \(OS etc\).**
 
+{% hint style="info" %}
+Pre-install ****software is not allowed during test
+{% endhint %}
+
 ## 3.3 Test S3 Upload/Download
 
 **Open the Amazon S3 console at Services.**
