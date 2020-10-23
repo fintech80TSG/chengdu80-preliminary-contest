@@ -60,6 +60,20 @@ d.Select **Connection** -&gt; **SSH** -&gt; **Auth**,browse the `.ppk` file.
 
 Other SSH client please find the information about [SSH Client](https://www.slant.co/topics/149/~best-ssh-clients-for-windows).
 
+**MAC**
+
+**Connect using terminal**
+
+1.open the **terminal**
+
+![](../../.gitbook/assets/image%20%28106%29.png)
+
+2.Input the command: ssh -i _**key**_.pem _**username**_@_**host**_
+
+for example:
+
+![](../../.gitbook/assets/image%20%28103%29.png)
+
 ## **Connect to Windows 2016 R2** <a id="PuttingAnObjectInABucket"></a>
 
 a.Open the Amazon EC2 console at [https://console.aws.amazon.com/ec2/](https://console.aws.amazon.com/ec2/).
