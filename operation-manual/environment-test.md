@@ -88,6 +88,10 @@ g.Enter the **default user name** and **Password**.
 
 ![](../.gitbook/assets/image%20%2863%29.png)
 
+{% hint style="info" %}
+MAC login:[https://remotedesktopmanager.com/](https://remotedesktopmanager.com/)
+{% endhint %}
+
 ## 3.2 Test EC2 environment,
 
 **1.test the network speed \(for example: ping the ec2 IP to test the delay\).**
@@ -107,7 +111,7 @@ Pre-install ****software is not allowed during test
 1**.Uploading an object to a bucket**
 
 1. In the **Bucket** list, choose the name of the bucket that you want to upload your object to.
-2. On the **Overview** tab for your bucket, choose **Upload** or **Get Started**.
+2. On ：the **Overview** tab for your bucket, choose **Upload** or **Get Started**.
 3. To choose the file to upload, in the **Upload** dialog box, choose **Add files**.
 4. Choose a file to upload, and then choose **Open.**
 5. Choose **Upload**.

@@ -89,6 +89,10 @@ g.Enter the **default user name** and **Password**.
 
 
 {% hint style="info" %}
+MAC login:[https://remotedesktopmanager.com/](https://remotedesktopmanager.com/)
+{% endhint %}
+
+{% hint style="info" %}
 **Note**: Get the default user name for the AMI that you used to launch your instance: ‌ 
 
 For a CentOS AMI, the user name is centos. ‌ 
