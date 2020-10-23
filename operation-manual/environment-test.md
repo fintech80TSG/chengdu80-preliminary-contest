@@ -18,6 +18,8 @@ University of Electronic Science and Technology of China /UESTC
 
 **1.Connect to Centos7 or Ubuntu18.04 LTS**
 
+**\(Note:**putty is not a designated SSH tool, other login methods are allowed\)
+
 **Connect using PuTTY** 
 
 a. Download and install PuTTY from the [PuTTY download page](http://www.chiark.greenend.org.uk/~sgtatham/putty/). 
