@@ -3,7 +3,7 @@
 ## Obtaining data for the CHENGDU80-2020 Question
 
 ```text
- chosen topic
+ All data and questions are stored in the chengdu80-topic storage bucket.
 ```
 
 Participants can log in to the competition environment and read it directly by mounting it to their own online operating system, or they can get it by downloading it.
