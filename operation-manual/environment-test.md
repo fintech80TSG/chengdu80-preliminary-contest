@@ -108,7 +108,7 @@ g.Enter the **default user name** and **Password**.
 MAC login:[https://remotedesktopmanager.com/](https://remotedesktopmanager.com/)
 {% endhint %}
 
-## 3.2 Test EC2 environment,
+## 3.2 Test EC2 environment
 
 **1.test the network speed \(for example: ping the ec2 IP to test the delay\).**
 
