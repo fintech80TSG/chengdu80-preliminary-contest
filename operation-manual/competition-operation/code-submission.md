@@ -16,5 +16,3 @@ Here's the submission process \(as if you were submitting code to github normall
 Detailed instructions are available on the [GITHUB ](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github)
 {% endhint %}
 
-
-

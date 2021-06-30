@@ -8,7 +8,7 @@ Under the rule of fairness and justice, participants should compete in the envir
 
 ## 1. Architecture
 
-Each team will be provided with two servers \(Windows 2016 or Ubuntu 18.04 or Centos7\).  Participants should develop and deploy under the given environment.   
+Each team will be provided with two servers \(Windows 2016 or Ubuntu 18.04 or Centos7\). Participants should develop and deploy under the given environment.  
 All operations will be recorded.
 
 ![](../../.gitbook/assets/image%20%2893%29.png)
@@ -26,7 +26,7 @@ Hardware configuration is as follows：
 | Xeon 8vCPU | 32GB | 200GB SSD | Windows10/Ubuntu 18.04/Centos7 |
 
 {% hint style="info" %}
-All teams in China will use servers in the Hong Kong region by default. We have optimized the connection from the cities to Hong Kong via the accelerator. Each team's accelerator provides 40GB of traffic by default \(which is enough for normal usage\), please contact technical support if you need more information. 
+All teams in China will use servers in the Hong Kong region by default. We have optimized the connection from the cities to Hong Kong via the accelerator. Each team's accelerator provides 40GB of traffic by default \(which is enough for normal usage\), please contact technical support if you need more information.
 {% endhint %}
 
 ## **3.  Basic services**
@@ -39,6 +39,4 @@ To support the completion of the project, the following services are provided:
 * [S3 bucket](../../service-documents/aws-s3.md)
 * [Limit ](limit.md)
 * [Backup ](../../operation-manual/competition-operation/backup-and-restore.md)
-
-
 

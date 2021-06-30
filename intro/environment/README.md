@@ -14,7 +14,7 @@ Under the rule of fairness and justice, participants should compete in the envir
 * Connect to the designated servers\(EC2\) ; 
 * Develop, deploy and demonstrate the project in the designated servers.
 
-Each team will be provided with two servers \(Windows 2016 or Ubuntu 18.04 or Centos7\).  Participants should develop and deploy under the given environment.   
+Each team will be provided with two servers \(Windows 2016 or Ubuntu 18.04 or Centos7\). Participants should develop and deploy under the given environment.  
 All operations will be recorded.
 
 To introduce the completion of the project, the following information is provided:
@@ -22,6 +22,4 @@ To introduce the completion of the project, the following information is provide
 * [Platform](platform.md)
 * [Configuration](configuration.md)
 * [Limit](limit.md)
-
-
 

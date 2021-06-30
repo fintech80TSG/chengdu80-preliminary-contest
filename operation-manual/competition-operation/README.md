@@ -9,5 +9,3 @@ Competition operation:
 5. [Prototype deployment](prototype-deployment.md)
 6. [Video Upload](upload-team-introduction-video.md)
 
-
-

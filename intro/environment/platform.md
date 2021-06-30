@@ -18,5 +18,3 @@ AWS now spans 24 geographic regions around the world, and has announced plans fo
 
 **Amazon Simple Storage Service** \(Amazon S3\) is an object storage service that offers industry-leading scalability, data availability, security, and performance. This means the contestants can use it to store and protect any amount of data for a range of use cases, such as websites, mobile applications, backup and restore and archive .
 
-
-

@@ -2,7 +2,7 @@
 
 Welcome to the [AWS Management Console](https://console.aws.amazon.com/). This guide provides a short introduction to working with the console. To learn how to work with individual services in the console, see [AWS Documentation](https://aws.amazon.com//documentation/).
 
-### What is the AWS Management Console? <a id="learn-whats-new"></a>
+## What is the AWS Management Console? <a id="learn-whats-new"></a>
 
 The [AWS Management Console](https://console.aws.amazon.com/) is a web application that comprises and refers to a broad collection of service consoles for managing Amazon Web Services. When you first sign in, you see the console home page.
 
@@ -12,9 +12,7 @@ The home page provides access to each service console as well as an intuitive us
 
 ![](https://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/images/console-parts-new.png)
 
-
-
-### Getting started with a service <a id="start-service"></a>
+## Getting started with a service <a id="start-service"></a>
 
 The [AWS Management Console](https://console.aws.amazon.com/) provides multiple ways for navigating to individual service consoles.
 
@@ -27,9 +25,9 @@ Do one of the following:
 * Under **All services**, choose a service name.
 * On the navigation bar, choose **Services** to open a full list of services. Then choose the service that you want.
 
-![                                  ](https://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/images/console-search.png)
+![ ](https://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/images/console-search.png)
 
-### Adding and removing favorites <a id="add-remove-shortcut"></a>
+## Adding and removing favorites <a id="add-remove-shortcut"></a>
 
 For easy access, you can save the consoles that you use the most to a list of **Favorites**.
 
@@ -40,7 +38,7 @@ For easy access, you can save the consoles that you use the most to a list of **
 3. Select the star to the left of the service name.
 4. Repeat the previous two steps to add more services to your **Favorites** list.
 
-![                           ](https://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/images/console-favorite.png)
+![ ](https://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/images/console-favorite.png)
 
 **To remove a service from the list of Favorites**
 
@@ -49,7 +47,7 @@ For easy access, you can save the consoles that you use the most to a list of **
    * In the **Favorites** list, pause on the name of a service. Then choose the **X** to the right of the service name.
    * In the **Recently visited** list or **All services** list, deselect the star by the name of a service that is in your **Favorites** list.
 
-### Choosing a Region <a id="select-region"></a>
+## Choosing a Region <a id="select-region"></a>
 
 For many services, you can choose an AWS Region that specifies where your resources are managed. You do not choose a Region for the [AWS Management Console](https://console.aws.amazon.com/) or for some services, such as IAM.
 
@@ -60,9 +58,9 @@ For many services, you can choose an AWS Region that specifies where your resour
 
    When you choose a Region, that Region becomes the default in the console.
 
-![                                       ](https://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/images/console-region-selector.png)
+![ ](https://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/images/console-region-selector.png)
 
-### Changing your password <a id="change-password"></a>
+## Changing your password <a id="change-password"></a>
 
 If you are an account owner, you can change your AWS account password from the [AWS Management Console](https://console.aws.amazon.com/).
 

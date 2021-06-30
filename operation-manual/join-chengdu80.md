@@ -1,46 +1,34 @@
-# Join Chengdu80 TEAMS
+# 加入成都80竞赛的Slack工作区
 
-Before the test environment, join the chengdu80 Microsoft Teams, you can contact the supporter about your questions at any time during the competition.
+在测试环境之前，请先加入成都80竞赛的Slack工作区，您可以在这个工作区询问工作人员竞赛的相关信息，也可以在比赛期间随时联系支持者解决您的问题。
 
-**Technical support process**
+**具体流程** 
 
-Choosing Microsoft Teams as the platform for technical support and instant notification \(instant communication, meeting, calling, file management, etc\).
+本次竞赛选择 Slack 作为技术支持和即时通知（即时通信、会议、通话、文件管理等）的平台。
 
-The support process is as follows:
+**1\).玩家需要点击邀请链接，加入成都80竞赛的Slack工作区。**
 
-1. Players need to register their team account and add in "CHENGDU80"
+步骤一：请下载Slack的客户端：
 
- **Help Document for Registration:**
+1.Windows下载地址：[https://slack.com/intl/en-hk/downloads/windows](https://slack.com/intl/en-hk/downloads/windows)
 
-[https://support.microsoft.com/en-us/office/sign-up-for-teams-free-70aaf044-b872-4c32-ac47-362ab29ebbb1?ui=en-us&rs=en-us&ad=us](https://support.microsoft.com/en-us/office/sign-up-for-teams-free-70aaf044-b872-4c32-ac47-362ab29ebbb1?ui=en-us&rs=en-us&ad=us)
+2.MAC下载地址：[https://slack.com/intl/en-hk/downloads/mac](https://slack.com/intl/en-hk/downloads/mac)
 
-**Teams Download：**
+步骤二：请点击成都80竞赛工作区的邀请链接: 
 
-[https://www.microsoft.com/en/microsoft-365/microsoft-teams/download-app\#desktopAppDownloadregion](https://www.microsoft.com/en/microsoft-365/microsoft-teams/download-app#desktopAppDownloadregion)
+XXXXXX
 
-**Join link:** [https://teams.microsoft.com/l/team/19%3ab5064e81a1f74d82bc1f6fc909bcf86a%40thread.tacv2/conversations?groupId=b6ecae3d-b84a-4648-acc2-73b4e8c3369e&tenantId=64e0c74b-1a17-4000-81c9-28cc776f6c75](https://teams.microsoft.com/l/team/19%3ab5064e81a1f74d82bc1f6fc909bcf86a%40thread.tacv2/conversations?groupId=b6ecae3d-b84a-4648-acc2-73b4e8c3369e&tenantId=64e0c74b-1a17-4000-81c9-28cc776f6c75)
+步骤三：请使用邮箱账号和密码加入成都80竞赛的工作区：
 
-**If you have any technical questions, you can choose several ways :**
+输入邮箱账号和密码，您会收到一个含有验证码的邮件，在网页输入验证码后，会有弹框要求打开您的Slack客户端，请选择是，即可加入成都80竞赛的Slack工作区。
 
-1.  **Create a private one-to-one chat for communication;**
+**2\). 如果您有任何技术问题，您可以选择以下多种方式来获得帮助:**
 
-![](../.gitbook/assets/image%20%2887%29.png)
+1.创建私人一对一聊天进行交；
 
-**2. You can also have an open dialogue in the** **‘Team’ to seek problem solving;**
+![](../.gitbook/assets/image.png)
 
-![](../.gitbook/assets/image%20%2892%29.png)
+2.您也可以在Slack工作区中的相应频道里进行公开对话以寻求解决问题
 
-
-
-**3.If there is a document transfer, you can choose the ‘File’ function \(built-in Microsoft 365\) for collaborative interaction:**
-
-![](../.gitbook/assets/image%20%2888%29.png)
-
-**4. If you need to communicate in a multi-person meeting, you can use Teams meetings to contact and collaborate with people around the world via voice or video on the desktop, browser, mobile device or meeting room device.**
-
-![](../.gitbook/assets/image%20%2889%29.png)
-
-**5. If you need overall process guidance, please refer to "User Guide"**
-
-![](../.gitbook/assets/image%20%2890%29.png)
+![](../.gitbook/assets/image%20%281%29.png)
 

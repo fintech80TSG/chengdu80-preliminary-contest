@@ -5,14 +5,14 @@ In the pre-match testing session, we need to do the following tests. 1. verify i
 ## 3.1 Test connection to EC2
 
 {% hint style="warning" %}
-Due to regional restrictions, the server addresses of the following teams are **different \(Using** [**GA service**](https://aws.amazon.com/cn/global-accelerator/?blogs-global-accelerator.sort-by=item.additionalFields.createdDate&blogs-global-accelerator.sort-order=desc&aws-global-accelerator-wn.sort-by=item.additionalFields.postDateTime&aws-global-accelerator-wn.sort-order=desc)**\),** so emailed account information should be noted.   
-  
-It is recommended that you use the connection information provided by mail.  
-  
-Tsinghua University/THU   
-Southern University of Science and Technology /SUSTech   
-Chongqing University/CQU   
-Southwestern University of Finance and Economics/SWUFE                   
+Due to regional restrictions, the server addresses of the following teams are **different \(Using** [**GA service**](https://aws.amazon.com/cn/global-accelerator/?blogs-global-accelerator.sort-by=item.additionalFields.createdDate&blogs-global-accelerator.sort-order=desc&aws-global-accelerator-wn.sort-by=item.additionalFields.postDateTime&aws-global-accelerator-wn.sort-order=desc)**\),** so emailed account information should be noted.
+
+It is recommended that you use the connection information provided by mail.
+
+Tsinghua University/THU  
+Southern University of Science and Technology /SUSTech  
+Chongqing University/CQU  
+Southwestern University of Finance and Economics/SWUFE  
 University of Electronic Science and Technology of China /UESTC
 {% endhint %}
 
@@ -20,9 +20,9 @@ University of Electronic Science and Technology of China /UESTC
 
 **\(Note:**putty is not a designated SSH tool, other login methods are allowed\)
 
-**Connect using PuTTY** 
+**Connect using PuTTY**
 
-a. Download and install PuTTY from the [PuTTY download page](http://www.chiark.greenend.org.uk/~sgtatham/putty/). 
+a. Download and install PuTTY from the [PuTTY download page](http://www.chiark.greenend.org.uk/~sgtatham/putty/).
 
 b.Start PuTTY \(from the **Start** menu, choose **All Programs, PuTTY, PuTTY**\).
 
@@ -33,15 +33,19 @@ a.run puttygen.exe,load `.pem`file change to`.ppk` file.
 * From the **Start** menu, choose **All Programs**, **PuTTY**, **PuTTYgen**.
 * Under **Type of key to generate**, choose **RSA**. If you're using an older version of PuTTYgen, choose **SSH-2 RSA**.
 
-                                  ![
-							RSA key in PuTTYgen
-						](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/images/puttygen-key-type.png)
+  ```text
+                              ![
+                        RSA key in PuTTYgen
+                    ](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/images/puttygen-key-type.png)
+  ```
 
-* Choose **Load**. By default, PuTTYgen displays only files with the extension `.ppk`. To locate your `.pem` file, choose the option to display files of all types. 
+* Choose **Load**. By default, PuTTYgen displays only files with the extension `.ppk`. To locate your `.pem` file, choose the option to display files of all types.
 
-                                  ![
-							Select all file types
-						](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/images/puttygen-load-key.png)
+  ```text
+                              ![
+                        Select all file types
+                    ](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/images/puttygen-load-key.png)
+  ```
 
 * Select your `.pem` file for the key pair that you specified when you launched your instance and choose **Open**. PuTTYgen displays a notice that the `.pem` file was successfully imported. Choose **OK**.
 * To save the key in the format that PuTTY can use, choose **Save private key**. PuTTYgen displays a warning about saving the key without a passphrase. Choose **Yes**.
@@ -54,10 +58,12 @@ d.Select **Connection** -&gt; **SSH** -&gt; **Auth**,browse the `.ppk` file.
 
 ![](../.gitbook/assets/image%20%2885%29.png)
 
-    e.Click **Open**.
+```text
+e.Click **Open**.
+```
 
 {% hint style="info" %}
- \(Optional\) You can configure PuTTY to automatically send 'keepalive' data at regular intervals to keep the session active. This is useful to avoid disconnecting from your instance due to session inactivity. In the **Category** pane, choose **Connection**, and then enter the required interval in the **Seconds between keepalives** field. For example, if your session disconnects after 10 minutes of inactivity, enter 180 to configure PuTTY to send keepalive data every 3 minutes.
+\(Optional\) You can configure PuTTY to automatically send 'keepalive' data at regular intervals to keep the session active. This is useful to avoid disconnecting from your instance due to session inactivity. In the **Category** pane, choose **Connection**, and then enter the required interval in the **Seconds between keepalives** field. For example, if your session disconnects after 10 minutes of inactivity, enter 180 to configure PuTTY to send keepalive data every 3 minutes.
 {% endhint %}
 
 Other SSH client please find the information about [SSH Client](https://www.slant.co/topics/149/~best-ssh-clients-for-windows).
@@ -82,7 +88,7 @@ a.Open the Amazon EC2 console at [https://console.aws.amazon.com/ec2/](https://c
 
 b.Choose **EC2** enter the Page.
 
-c.Choose **Get Windows password**. 
+c.Choose **Get Windows password**.
 
 ![](../.gitbook/assets/image%20%2878%29.png)
 
@@ -112,10 +118,10 @@ MAC login:[https://remotedesktopmanager.com/](https://remotedesktopmanager.com/)
 
 **1.test the network speed \(for example: ping the ec2 IP to test the delay\).**
 
-2.**Check  the EC2 environment \(OS etc\).**
+2.**Check the EC2 environment \(OS etc\).**
 
 {% hint style="info" %}
-Pre-install ****software is not allowed during test
+Pre-install _\*\*_software is not allowed during test
 {% endhint %}
 
 ## 3.3 Test S3 Upload/Download
@@ -155,12 +161,4 @@ You've successfully downloaded an object to your bucket.
 ## 3.4 Feedback usage
 
 When you have completed the test, please feedback us [the corresponding test results](https://forms.office.com/Pages/DesignPage.aspx?fragment=FormId%3DS8fgZBcaAECBySjMd29sdbARWGwIoxVBvYOnmX6MKMNUQUIwNEQ3SDE2UDJDOEE5MThEVllLTFpRUC4u).
-
-
-
-
-
-
-
-
 

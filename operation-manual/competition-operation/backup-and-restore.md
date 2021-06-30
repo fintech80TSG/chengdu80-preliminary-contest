@@ -1,6 +1,6 @@
 # Backup and Restore
 
-When we encounter misoperation, we can use snapshot restore. We provide daily  automatic snapshot at UTC 2:00 and provide self-manual snapshot.
+When we encounter misoperation, we can use snapshot restore. We provide daily automatic snapshot at UTC 2:00 and provide self-manual snapshot.
 
 ## Creating a snapshot <a id="ebs-create-snapshot"></a>
 
@@ -81,5 +81,5 @@ f.Choose broken EC2 and select the root Volume.
 
 g.then choose **Actions, Detach Volume\(Please shut down EC2\)**.
 
-h.Select the new Volume and then choose **Actions,  Attach Volume**.
+h.Select the new Volume and then choose **Actions, Attach Volume**.
 

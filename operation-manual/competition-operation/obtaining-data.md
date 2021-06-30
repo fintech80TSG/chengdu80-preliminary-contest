@@ -22,11 +22,11 @@ The specific operation steps are as follows：
 
 **aws s3 ls（find the bucket and file）**
 
-\*\*\*\*![](../../.gitbook/assets/image%20%2899%29.png) ****
+\*\*\*\*![](../../.gitbook/assets/image%20%2899%29.png) _\*\*_
 
 **aws s3 cp s3://chengdu80-project/XXX /local/**
 
-\*\*\*\*![](../../.gitbook/assets/1603077877-1-.png) ****
+\*\*\*\*![](../../.gitbook/assets/1603077877-1-.png) _\*\*_
 
 for example:
 
@@ -37,13 +37,11 @@ If there are large files on the windows side that cannot be uploaded or download
 
 Install&open the S3 browser,click Account - Add New Account\(Fill in your account key information\)
 
-![](../../.gitbook/assets/image-s3browser.jpg)
+![](../../.gitbook/assets/image-s3browser%20%281%29.jpg)
 
 {% hint style="info" %}
 Detailed instructions are available on the [S3 browser ](https://s3browser.com/s3browser-first-run.aspx)
 {% endhint %}
-
-
 
 ### **Mount S3**
 

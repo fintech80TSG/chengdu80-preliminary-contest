@@ -28,8 +28,6 @@ You've successfully uploaded an object to your bucket.
 
 ![](../../.gitbook/assets/1602824662-1-.jpg)
 
-
-
 If there are large files on the windows side that cannot be uploaded or downloaded, you can use the official free tool [S3 Browser](https://s3browser.com/download/s3browser-9-2-1.exe).
 
 Install&open the S3 browser,click Account - Add New Account\(Fill in your account key information\)

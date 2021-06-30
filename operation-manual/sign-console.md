@@ -2,7 +2,7 @@
 
 If you are logging into the AWS console for the first time, please follow the steps below.
 
-### Sign Account <a id="user-sign-in-page"></a>
+## Sign Account <a id="user-sign-in-page"></a>
 
 1.You will get the information about your group resources from the email.
 
@@ -14,11 +14,13 @@ https://733604999136.signin.aws.amazon.com/console/
 
 3.Enter your IAM user name and password and choose **Sign in**.
 
-                                ![
-            IAM User Sign-in Page
-          ](https://docs.aws.amazon.com/IAM/latest/UserGuide/images/sign-in-iam-user-capture.png)
+```text
+                            ![
+        IAM User Sign-in Page
+      ](https://docs.aws.amazon.com/IAM/latest/UserGuide/images/sign-in-iam-user-capture.png)
+```
 
-### View EC2 <a id="user-sign-in-page"></a>
+## View EC2 <a id="user-sign-in-page"></a>
 
 1.select **Services -&gt; EC2** buttons
 
@@ -28,9 +30,7 @@ https://733604999136.signin.aws.amazon.com/console/
 
 ![](../.gitbook/assets/image%20%2862%29.png)
 
-### CONNECT  EC2 <a id="user-sign-in-page"></a>
+## CONNECT  EC2 <a id="user-sign-in-page"></a>
 
-plz refer [CONNECT  EC2](competition-operation/connect-to-ec2.md)
-
- 
+plz refer [CONNECT EC2](competition-operation/connect-to-ec2.md)
 
