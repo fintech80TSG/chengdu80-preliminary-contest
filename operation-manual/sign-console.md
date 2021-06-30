@@ -12,25 +12,9 @@ If you are logging into the AWS console for the first time, please follow the st
 https://733604999136.signin.aws.amazon.com/console/
 ```
 
-3.Enter your IAM user name and password and choose **Sign in**.
+3.Enter your IAM user name and password, then choose **Sign in**.
 
-```text
-                            ![
-        IAM User Sign-in Page
-      ](https://docs.aws.amazon.com/IAM/latest/UserGuide/images/sign-in-iam-user-capture.png)
-```
+![](../.gitbook/assets/image%20%285%29.png)
 
-## View EC2 <a id="user-sign-in-page"></a>
-
-1.select **Services -&gt; EC2** buttons
-
-![](../.gitbook/assets/image%20%2864%29.png)
-
-2.get EC2 information
-
-![](../.gitbook/assets/image%20%2862%29.png)
-
-## CONNECT  EC2 <a id="user-sign-in-page"></a>
-
-plz refer [CONNECT EC2](competition-operation/connect-to-ec2.md)
+##  <a id="user-sign-in-page"></a>
 
