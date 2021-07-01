@@ -1,34 +1,34 @@
-# 加入成都80竞赛的Slack工作区
+# Join Chengdu80 workspace
 
-在测试环境之前，请先加入成都80竞赛的Slack工作区，您可以在这个工作区询问工作人员竞赛的相关信息，也可以在比赛期间随时联系支持者解决您的问题。
+Before testing the environment, please join the Slack workspace of the Chengdu80 competition.You can ask staff information about the competition in this workspace, and you can also contact supporters to solve your problems at any time during the competition.
 
-**具体流程** 
+## Specific process
 
-本次竞赛选择 Slack 作为技术支持和即时通知（即时通信、会议、通话、文件管理等）的平台。
+Choosing Slack as the platform for technical support and instant notifications \(instant messaging, conferences, calls, file management, etc.\) for this competition.
 
-**1\).玩家需要点击邀请链接，加入成都80竞赛的Slack工作区。**
+### **1.**Participants need to click the invitation link to join the Slack workspace of the Chengdu80 competition.
 
-步骤一：请下载Slack的客户端：
+Step 1：Please download the Slack client：
 
-1.Windows下载地址：[https://slack.com/intl/en-hk/downloads/windows](https://slack.com/intl/en-hk/downloads/windows)
+Windows download link：[https://slack.com/intl/en-hk/downloads/windows](https://slack.com/intl/en-hk/downloads/windows)
 
-2.MAC下载地址：[https://slack.com/intl/en-hk/downloads/mac](https://slack.com/intl/en-hk/downloads/mac)
+MAC download link：[https://slack.com/intl/en-hk/downloads/mac](https://slack.com/intl/en-hk/downloads/mac)
 
-步骤二：请点击成都80竞赛工作区的邀请链接: 
+Step 2：Please click the invitation link of the Chengdu80 competition workspace: 
 
-XXXXXX
+这里可能需要提供一个邀请链接
 
-步骤三：请使用邮箱账号和密码加入成都80竞赛的工作区：
+Step 3：Please use your email account and password to join the workspace of the Chengdu80 competition：
 
-输入邮箱账号和密码，您会收到一个含有验证码的邮件，在网页输入验证码后，会有弹框要求打开您的Slack客户端，请选择是，即可加入成都80竞赛的Slack工作区。
+Entering your email account and password, you will receive an email with verification code. After entering the verification code on the web page, there will be a pop-up asking to open your Slack client.  Please select  “Yes”  to join the Slack workspace of the Chengdu80 competition.
 
-**2\). 如果您有任何技术问题，您可以选择以下多种方式来获得帮助:**
+### **2.**If you have any questions, you can get help by the following ways**:**
 
-1.创建私人一对一聊天进行交；
+1\).You can create a private one-to-one chat for communication；
 
 ![](../.gitbook/assets/image.png)
 
-2.您也可以在Slack工作区中的相应频道里进行公开对话以寻求解决问题
+2\).You can also have a public conversation in the corresponding channel to find a solution;
 
 ![](../.gitbook/assets/image%20%281%29.png)
 

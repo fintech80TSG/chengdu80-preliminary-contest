@@ -139,7 +139,7 @@ You've successfully uploaded an object to your bucket.
 **2.Deleting an object**
 
 1. In the **Buckets** list, choose the bucket that you want to delete objects.
-2. In the **Name** list, select the check box for the object that you want to delete.在对象列表中，勾选要删除的对象。
+2. In the object list, check the object you want to delete.
 3. Choose **Actions**, and then choose “Delete ”.
 4.  Confirm the object that you want to delete in the Delete objects dialog box, then select “Delete ”.
 
@@ -148,7 +148,7 @@ You've successfully uploaded an object to your bucket.
 **3.Downloading an object from a bucket**
 
 1. In the **Buckets** list, choose the bucket that you want to download objects.
-2. In the **Name** list, select the check box for the object that you want to download.在对象列表中，选中要下载的对象。
+2. In the object list, check the object you want to download.
 3. Choose **Actions**, then choose **Download**.
 4. Choose “Download” In the **Download objects** dialog box.
 
