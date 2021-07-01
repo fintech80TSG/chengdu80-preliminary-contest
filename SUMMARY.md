@@ -12,6 +12,8 @@
 ## operation manual
 
 * [Join Chengdu80 workspace](operation-manual/join-chengdu80.md)
+* [Choose your fastest region](operation-manual/choose-your-fastest-region.md)
+* [Server usage specification](operation-manual/server-usage-specification.md)
 * [Access to Account](operation-manual/sign-console.md)
 * [Environment Test](operation-manual/environment-test.md)
 * [Team Intro Video Upload](operation-manual/upload-team-introduction-video.md)
@@ -19,6 +21,7 @@
   * [Connect to EC2](operation-manual/competition-operation/connect-to-ec2.md)
   * [Backup and Restore](operation-manual/competition-operation/backup-and-restore.md)
   * [Obtaining  Data](operation-manual/competition-operation/obtaining-data.md)
+  * [Access to the PORTs](operation-manual/competition-operation/access-to-the-ports.md)
   * [Code Submission](operation-manual/competition-operation/code-submission.md)
   * [Prototype deployment](operation-manual/competition-operation/prototype-deployment.md)
   * [Intro Video Upload](operation-manual/competition-operation/upload-team-introduction-video.md)
