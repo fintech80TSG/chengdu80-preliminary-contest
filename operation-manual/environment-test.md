@@ -22,7 +22,7 @@ In the pre-match testing session,  you need to do the following tests.
 由于地域限制，中国大陆的参赛团队的服务器地址不同，请注意查阅邮件里的加速地址信息， 建议您使用邮件提供的IP地址。
 {% endhint %}
 
-## Connect to operating system
+## Connect to Operating System
 
 ### 1.Connect to Linux
 
@@ -66,25 +66,25 @@ Connect using PuTTY
 
 Other SSH client please find the information about [SSH Client](https://www.slant.co/topics/149/~best-ssh-clients-for-windows).
 
-**1.2 MAC Connect to Linux**
+#### **1.2 MAC Connect to Linux**
 
-1.open the **terminal**
+1.open the terminal
 
 ![](../.gitbook/assets/image%20%28106%29.png)
 
-2.Input the command: ssh -i _**key**_.pem _**username**_@_**host**_
+2.Input the command: ssh -i _key_.pem _username_@_host_
 
 for example:
 
 ![](../.gitbook/assets/image%20%28103%29.png)
 
-### **2.Windows Connect to Windows 2016** 
+### **2.Connect to Windows** 
 
 2.1 Open the Amazon EC2 console at [https://console.aws.amazon.com/ec2/](https://console.aws.amazon.com/ec2/).
 
-2.2 Choose **EC2** enter the Page.
+2.2 Choose EC2 enter the Page.
 
-2.3 Choose **Get Windows password**.
+2.3 Choose Get Windows password.
 
 ![](../.gitbook/assets/image%20%2878%29.png)
 
@@ -94,7 +94,7 @@ for example:
 
 ![](../.gitbook/assets/image%20%2874%29.png)
 
-2.5 Copy **Password**.
+2.5 Copy Password.
 
 ![](../.gitbook/assets/image%20%2876%29.png)
 
@@ -102,7 +102,7 @@ for example:
 
 ![](../.gitbook/assets/image%20%2860%29.png)
 
-2.7 Enter the **default user name** and **Password**.
+2.7 Enter the default user name and Password.
 
 ![](../.gitbook/assets/image%20%2863%29.png)
 
@@ -110,7 +110,7 @@ for example:
 MAC login:[https://remotedesktopmanager.com/](https://remotedesktopmanager.com/)
 {% endhint %}
 
-## 4.Test EC2 environment
+## Test EC2 environment
 
 1.Test the network speed \(for example: ping the EC2 IP to test the delay\).
 
@@ -120,41 +120,41 @@ MAC login:[https://remotedesktopmanager.com/](https://remotedesktopmanager.com/)
 Pre-install software is not allowed during the test session.
 {% endhint %}
 
-## 5.Test file uploads and downloads in S3
+## Test file uploads and downloads in S3
 
-**Open the Amazon S3 console at Services.**
+Open the Amazon S3 console at Services.
 
 ![](../.gitbook/assets/image%20%2886%29.png)
 
-1**.Uploading an object to a bucket**
+**1.Uploading an object to a bucket**
 
 1. In the **Bucket** list, choose the name of the bucket that you want to upload your object to.
-2. On ：the **Overview** tab for your bucket, choose **Upload** or **Get Started**.
+2. Click the **Overview** tab for your bucket, choose **Upload** or **Get Started**.
 3. To choose the file to upload, in the **Upload** dialog box, choose **Add files**.
 4. Choose a file to upload, and then choose **Open.**
 5. Choose **Upload**.
 
 You've successfully uploaded an object to your bucket.
 
-**2.Delecting an object**
+**2.Deleting an object**
 
-1. In the **Buckets** list, choose the name of the bucket that you want to delete an object from.
-2. In the **Name** list, select the check box for the object that you want to delete.
-3. Choose **Actions**, and then choose **Delete**.
-4. In the **Delete objects** dialog box, verify the name of the object, and choose **Delete**.
+1. In the **Buckets** list, choose the bucket that you want to delete objects.
+2. In the **Name** list, select the check box for the object that you want to delete.在对象列表中，勾选要删除的对象。
+3. Choose **Actions**, and then choose “Delete ”.
+4.  Confirm the object that you want to delete in the Delete objects dialog box, then select “Delete ”.
 
-You've successfully deleted an object to your bucket.
+    You've successfully deleted an object from your bucket.
 
 **3.Downloading an object from a bucket**
 
-1. In the **Buckets** list, choose the name of the bucket that you want to download an object from.
-2. In the **Name** list, select the check box for the object that you want to download.
-3. Choose **Actions**, and then choose **Download**.
-4. In the **Download objects** dialog box and choose **Download**.
+1. In the **Buckets** list, choose the bucket that you want to download objects.
+2. In the **Name** list, select the check box for the object that you want to download.在对象列表中，选中要下载的对象。
+3. Choose **Actions**, then choose **Download**.
+4. Choose “Download” In the **Download objects** dialog box.
 
-You've successfully downloaded an object to your bucket.
+     You've successfully downloaded an object from your bucket.
 
-## 3.4 Feedback usage
+## Feedback usage
 
-When you have completed the test, please feedback us [the corresponding test results](https://forms.office.com/Pages/DesignPage.aspx?fragment=FormId%3DS8fgZBcaAECBySjMd29sdbARWGwIoxVBvYOnmX6MKMNUQUIwNEQ3SDE2UDJDOEE5MThEVllLTFpRUC4u).
+When you have completed the test,  please feedback us [the corresponding test results](https://forms.office.com/Pages/DesignPage.aspx?fragment=FormId%3DS8fgZBcaAECBySjMd29sdbARWGwIoxVBvYOnmX6MKMNUQUIwNEQ3SDE2UDJDOEE5MThEVllLTFpRUC4u).
 

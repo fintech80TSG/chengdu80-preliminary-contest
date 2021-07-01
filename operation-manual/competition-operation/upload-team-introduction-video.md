@@ -1,4 +1,4 @@
-# Presentation Video Upload
+# Intro Video Upload
 
 We use Amazon S3 to upload Project Intro Video after Access to Account \(if you don't know how to access, please return [Access to Account](../sign-console.md)\).
 

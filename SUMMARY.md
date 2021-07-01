@@ -21,7 +21,7 @@
   * [Obtaining  Data](operation-manual/competition-operation/obtaining-data.md)
   * [Code Submission](operation-manual/competition-operation/code-submission.md)
   * [Prototype deployment](operation-manual/competition-operation/prototype-deployment.md)
-  * [Presentation Video Upload](operation-manual/competition-operation/upload-team-introduction-video.md)
+  * [Intro Video Upload](operation-manual/competition-operation/upload-team-introduction-video.md)
 
 ## Service Documents
 
