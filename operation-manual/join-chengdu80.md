@@ -16,7 +16,7 @@ MAC download link：[https://slack.com/intl/en-hk/downloads/mac](https://slack.c
 
 Step 2：Please click the invitation link of the Chengdu80 competition workspace: 
 
-这里可能需要提供一个邀请链接
+**这里可能需要提供一个邀请链接**
 
 Step 3：Please use your email account and password to join the workspace of the Chengdu80 competition：
 

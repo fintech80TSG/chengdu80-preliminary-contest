@@ -19,11 +19,12 @@
 * [Team Intro Video Upload](operation-manual/upload-team-introduction-video.md)
 * [Competition operation](operation-manual/competition-operation/README.md)
   * [Connect to EC2](operation-manual/competition-operation/connect-to-ec2.md)
+  * [Connect to Operating System](operation-manual/competition-operation/connect-to-operating-system.md)
   * [Backup and Restore](operation-manual/competition-operation/backup-and-restore.md)
   * [Obtaining  Data](operation-manual/competition-operation/obtaining-data.md)
   * [Access to the PORTs](operation-manual/competition-operation/access-to-the-ports.md)
   * [Code Submission](operation-manual/competition-operation/code-submission.md)
-  * [Prototype deployment](operation-manual/competition-operation/prototype-deployment.md)
+  * [Prototype Deployment](operation-manual/competition-operation/prototype-deployment.md)
   * [Intro Video Upload](operation-manual/competition-operation/upload-team-introduction-video.md)
 
 ## Service Documents

@@ -1,4 +1,4 @@
-# Prototype deployment
+# Prototype Deployment
 
 The security group port is only set by the organizing committee during the competition and cannot be viewed.
 

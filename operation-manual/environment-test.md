@@ -19,7 +19,7 @@ In the pre-match testing session,  you need to do the following tests.
 ![](../.gitbook/assets/image%20%284%29.png)
 
 {% hint style="warning" %}
-由于地域限制，中国大陆的参赛团队的服务器地址不同，请注意查阅邮件里的加速地址信息， 建议您使用邮件提供的IP地址。
+Due to geographical restrictions, participating teams from mainland China will have different server addresses.Please pay attention to check the email with  acceleration address information. We recommend that you use the IP address provided by the email.
 {% endhint %}
 
 ## Connect to Operating System

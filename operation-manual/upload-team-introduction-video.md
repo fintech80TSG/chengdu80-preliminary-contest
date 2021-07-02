@@ -2,25 +2,25 @@
 
 Please upload the Team Intro Video to Amazon S3 after logging into your account \(if you don't know how to access, plz return [Access to Account](sign-console.md)\).
 
-#### **1.Turn to Amazon S3 managerment Console**
+### **1.Turn to Amazon S3 managerment Console**
 
 ![](../.gitbook/assets/1602823704-1-.jpg)
 
-#### 2.In the **Bucket** list, choose the bucket that you want to upload objects.
+### 2.In the **Bucket** list, choose the bucket that you want to upload objects.
 
 ![](../.gitbook/assets/1602823781-1-.jpg)
 
-#### 3.Choose **your team folder o**n the **Overview** tab.
+### 3.Choose **your team folder o**n the **Overview** tab.
 
 ![](../.gitbook/assets/1602824258-1-.jpg)
 
-#### 4.Choose the file to upload, in the **Upload** dialog box, choose **Add files**.
+### 4.Choose the file to upload, in the **Upload** dialog box, choose **Add files**.
 
 ![](../.gitbook/assets/1602823884-1-.jpg)
 
-#### 5.Choose a file to upload, and then choose **Open.**
+### 5.Choose a file to upload, and then choose **Open.**
 
-#### 6.Choose **Upload**.
+### 6.Choose **Upload**.
 
 You've successfully uploaded an object to your bucket.
 

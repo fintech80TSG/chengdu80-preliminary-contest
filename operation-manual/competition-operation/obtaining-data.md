@@ -1,14 +1,20 @@
 # Obtaining  Data
 
-## Obtaining data for the CHENGDU80-2020 Question
+The competition data and competition questions are stored in the  "s3chengdu80-topic"  S3 bucket, and you can get them in the following ways.
 
-赛事数据和题目都存储在s3chengdu80-topic存储桶中，您可以通过以下方式获取
+## 1.Log in to the AWS console and download relevant data from the S3 bucket.
 
-1. aws控制台网页下载，操作参考...
+1\)In the **Buckets** list, choose the bucket that you want to download objects.
 
-    2. aws cli 命令行下载
+2\)In the object list, check the object you want to download.
 
-[**install & config AWS CLI**](../../service-documents/aws-cli.md)
+3\)Choose **Actions**, then choose **Download**.
+
+4\)Choose “Download” In the **Download objects** dialog box.You've successfully downloaded an object from your bucket.
+
+## 2. Download with AWS CLI command line.
+
+#### [**install & config AWS CLI**](../../service-documents/aws-cli.md)
 
 ```text
 aws s3 ls（find the bucket and file）
@@ -26,17 +32,17 @@ aws s3 cp s3://chengdu80-project/XXX /local/
 aws s3 cp s3://chengdu80-topic/topic1 ./root/
 ```
 
-    3. s3 browser\(Windows\)
+##  3.S3 browser\(Windows\)
 
 {% hint style="info" %}
 Detailed instructions are available on the [S3 browser ](https://s3browser.com/s3browser-first-run.aspx)
 {% endhint %}
 
- 4. 挂载 s3 到系统目录\(Linux\)
+##  4.Mount S3 to the system directory\(Linux\)
 
-[**install & config AWS CLI**](../../service-documents/aws-cli.md)
+####  [**install & config AWS CLI**](../../service-documents/aws-cli.md)
 
-安装 goofys
+#### 4.1 Install goofys
 
 ```text
 wget https://github.com/kahing/goofys/releases/latest/download/goofys
@@ -48,7 +54,7 @@ sudo yum install -y fuse
 sudo apt install fuse
 ```
 
-挂载 S3
+####  4.2 Mount S3
 
 ```text
 sudo mkdir -p /Mount-Point （挂载文件夹）
