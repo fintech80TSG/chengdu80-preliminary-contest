@@ -14,9 +14,7 @@ Windows download link：[https://slack.com/intl/en-hk/downloads/windows](https:/
 
 MAC download link：[https://slack.com/intl/en-hk/downloads/mac](https://slack.com/intl/en-hk/downloads/mac)
 
-Step 2：Please click the [invitation link](https://join.slack.com/t/fintech80-chengdu2021/shared_invite/zt-s0how640-hDP4SOokgrPMF0tVVPEYFA) of the Chengdu80@slack workspace: 
-
-The invitation link will be provided to the participating team members in advance. Please check it carefully．
+Step 2：Please click the [invitation link](https://join.slack.com/t/fintech80-chengdu2021/shared_invite/zt-s0how640-hDP4SOokgrPMF0tVVPEYFA) of the Chengdu80@slack workspace.
 
 Step 3：Please use your email account and password to join the workspace of the Chengdu80 competition：
 
