@@ -26,7 +26,7 @@ This document site is an introduction to the technical rules and environment of 
    d. [How to get tech-support on slack?](tech-support/online-support.md)  
    ****
 
-2. **【Prepare environment】** Test the network speed to choose the fastest server  a. [Choose your team's fast region](operation-manual/choose-your-fastest-region.md) b. [Submit](https://www.slack.com)  after testing **需要更新** 
+2. **【Prepare environment】** Test the network speed to choose the fastest server  a. [Choose your team's fast region](operation-manual/choose-your-fastest-region.md) b. [Submit](https://forms.gle/4mqooLhRuTGeYmNS8)  after testing  
 3. **【Test environment and competition】** Familiarize with the competition environment and servers  a. [Introduction](intro/environment/) of competition environment b. Server usage [specification ](operation-manual/server-usage-specification.md) c. How to [connect to the server](operation-manual/competition-operation/connect-to-ec2.md)  d. How to [load competition data](operation-manual/competition-operation/obtaining-data.md)  e. How to perform [backup and restore ](operation-manual/competition-operation/backup-and-restore.md) f. How to [open access ports](operation-manual/competition-operation/access-to-the-ports.md) 
 4. **【Submission of competition results】**  a. [Code Submission](operation-manual/competition-operation/code-submission.md)  b. Slide Submission  c. Prototype introduction video submission
 
