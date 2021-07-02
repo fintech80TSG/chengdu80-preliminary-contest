@@ -1,6 +1,6 @@
 # Obtaining  Data
 
-The competition data and competition questions are stored in the  "s3chengdu80-topic"  S3 bucket, and you can get them in the following ways.
+The competition data and competition questions are stored in the  "**s3chengdu80-topic**"  S3 bucket, and you can get them in the following ways.
 
 ## 1.Log in to the AWS console and download relevant data from the S3 bucket.
 
@@ -42,7 +42,7 @@ Detailed instructions are available on the [S3 browser ](https://s3browser.com/s
 
 ####  [**install & config AWS CLI**](../../service-documents/aws-cli.md)
 
-#### 4.1 Install goofys
+#### 4.1 Install  "goofys" 
 
 ```text
 wget https://github.com/kahing/goofys/releases/latest/download/goofys
@@ -57,8 +57,8 @@ sudo apt install fuse
 ####  4.2 Mount S3
 
 ```text
-sudo mkdir -p /Mount-Point （挂载文件夹）
-sudo chown Your-User-Name:Your-User-Name （系统用户名，如：centos） /Mount-Point
-/usr/local/bin/goofys Your-Bucket:Your-School-Prefix （大学简称） /Mount-Point
+sudo mkdir -p /Mount-Point 
+sudo chown Your-User-Name:Your-User-Name （eg：centos） /Mount-Point
+/usr/local/bin/goofys Your-Bucket:Your-School-Prefix （eg:chengdu80-team-intro-upload:SWUFE） /Mount-Point
 ```
 

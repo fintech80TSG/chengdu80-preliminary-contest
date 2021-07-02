@@ -16,6 +16,8 @@ MAC download link：[https://slack.com/intl/en-hk/downloads/mac](https://slack.c
 
 Step 2：Please click the [invitation link](https://join.slack.com/t/fintech80-chengdu2021/shared_invite/zt-s0how640-hDP4SOokgrPMF0tVVPEYFA) of the Chengdu80@slack workspace: 
 
+The invitation link will be provided to the participating team members in advance. Please check it carefully．
+
 Step 3：Please use your email account and password to join the workspace of the Chengdu80 competition：
 
 Entering your email account and password, you will receive an email with verification code. After entering the verification code on the web page, there will be a pop-up asking to open your Slack client.  Please select  “Yes”  to join the Slack workspace of the Chengdu80 competition.
@@ -24,7 +26,7 @@ Entering your email account and password, you will receive an email with verific
 
 1\).You can create a private one-to-one chat for communication；
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
 2\).You can also have a public conversation in the corresponding channel to find a solution;
 

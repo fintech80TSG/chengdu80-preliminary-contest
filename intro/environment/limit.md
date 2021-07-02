@@ -11,9 +11,11 @@ In addition to the following technical constraints, we require teams to：
 
 We limited each participating team can only use 2 EC2 Server. \(3 select 2\)
 
-* [ ] Windows Server 2016R2
-* [ ] Ubuntu 18.04
-* [x] Centos 7
+Windows Server 2016 R2
+
+Ubuntu 18.04
+
+Centos 7
 
 Each team can only operate its own resources，can start/stop/restart your team
 

@@ -1,14 +1,26 @@
 # FAQ
 
-## Can i request to open port 80, 443 or others on both our vms？
+## Can I request port 80, 443, or some other port to be opened on two vms？
 
-Yes，you can answer help@chengdu80.org or support@chengdu80.org to open the ports you need.
+Yes，you can [contact technical supporters](online-support.md) to open the ports you need.
 
-## Where can i get the data?
+## Where can I get the data?
 
-it's in the chengdu80-topic bucket（name：dataset.zip）.and you can use AWS CLI\([https://2020.chengdu80.org/service-documents/aws-cli](https://2020.chengdu80.org/service-documents/aws-cli)\) aws s3 cp command to download the data.
+It's in the "chengdu80-topic" bucket \(name：dataset.zip\). you can[ follow this ](../operation-manual/competition-operation/obtaining-data.md) to download the data.
 
-## Where can I get help？
+## What should I do if my account does not have permission when performing normal operation？
 
-You can ask for help on teams and to understand the competition system.
+You can [contact technical supporters](online-support.md) to deal with it and restore the permissions.
+
+## How do I use AWS CLI？
+
+Please refer to [AWS CLI](../service-documents/aws-cli.md). If you still don't understand how to operate the AWS CLI, you can [contact technical supporters](online-support.md) for help.
+
+## How can I get help？
+
+You can ask for help on Slack.
+
+For technical issues, please contact technical supporters \(@CHENGDU80-TSG-SUPPORT-1 or @CHENGDU80-TSG-SUPPORT-2\). 
+
+For issues related to the competition process, please communicate with relevant staff.
 
