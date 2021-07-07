@@ -1,8 +1,8 @@
-# CHENGDU80  ONLINE MANUAL
+# FINTECH80-CHENGDU  ONLINE MANUAL
 
 ## Intro
 
-CHENGDU80 is a FinTech design and development competition for academic participants utilizing open source technology. As part of the SWUFE-CDAR annual conference, the Chengdu 80 competition will provide opportunities for students to interact with leading academics in finance and technology, international financial institutions, and government and regulatory leaders. Each participating team will consist of up to 6 students from a single academic institution led by a faculty member or postdoctoral scholar and must include members of both genders and at least 1 undergraduate.
+Fintech80-Chengdu-2021 is a FinTech design and development competition for academic participants utilizing open source technology. As part of the SWUFE-CDAR annual conference, the Chengdu 80 competition will provide opportunities for students to interact with leading academics in finance and technology, international financial institutions, and government and regulatory leaders. Each participating team will consist of up to 6 students from a single academic institution led by a faculty member or postdoctoral scholar and must include members of both genders and at least 1 undergraduate.
 
 This document site is an introduction to the technical rules and environment of the CHENGDU80 contest. Participants should be informed of the environment, technical process and service request means described in this document in advance.
 

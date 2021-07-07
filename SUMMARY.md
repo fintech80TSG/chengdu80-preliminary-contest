@@ -1,6 +1,6 @@
 # Table of contents
 
-* [CHENGDU80  ONLINE MANUAL](README.md)
+* [FINTECH80-CHENGDU  ONLINE MANUAL](README.md)
 
 ## INTRO
 
