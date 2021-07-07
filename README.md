@@ -2,16 +2,16 @@
 
 ## Intro
 
-Fintech80-Chengdu-2021 is a FinTech design and development competition for academic participants utilizing open source technology. As part of the SWUFE-CDAR annual conference, the Chengdu 80 competition will provide opportunities for students to interact with leading academics in finance and technology, international financial institutions, and government and regulatory leaders. Each participating team will consist of up to 6 students from a single academic institution led by a faculty member or postdoctoral scholar and must include members of both genders and at least 1 undergraduate.
+Fintech80-Chengdu-2021 is a FinTech design and development competition for academic participants utilizing open source technology. As part of the SWUFE-CDAR annual conference, the FINETCH80 competition will provide opportunities for students to interact with leading academics in finance and technology, international financial institutions, and government and regulatory leaders. Each participating team will consist of up to 6 students from a single academic institution led by a faculty member or postdoctoral scholar and must include members of both genders and at least 1 undergraduate.
 
-This document site is an introduction to the technical rules and environment of the CHENGDU80 contest. Participants should be informed of the environment, technical process and service request means described in this document in advance.
+This document site is an introduction to the technical rules and environment of the FINTECH80-CHENGDU contest. Participants should be informed of the environment, technical process and service request means described in this document in advance.
 
 **Please make sure you are aware of and complete the following notes and procedures for this competition.**
 
 📌 ****【**Get in touch】**  
         Join the official support and communication platform of the contest - slack   
             a. How to use Slack? See : [Slack user manual ](https://slack.com/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide)  
-            b. [Invitation link](https://join.slack.com/t/fintech80-chengdu2021/shared_invite/zt-s0how640-hDP4SOokgrPMF0tVVPEYFA) to **CHENGDU80's slack** platform channel   
+            b. [Invitation link](https://join.slack.com/t/fintech80-chengdu2021/shared_invite/zt-s0how640-hDP4SOokgrPMF0tVVPEYFA) to **FINTECH80CHENGDU's slack** platform channel   
             c. Naming convention   
          Please follow the following naming rules for communication.   
              - **Participating team** : Shortname of your university - Personal name - \(team member/instructor\)   
@@ -19,7 +19,7 @@ This document site is an introduction to the technical rules and environment of 
              - **Volunteers**: 80 Volunteers - name  - Shortname of the university you assistant    
               `eg: 80Volunteers-CHUNLIN-SWUFE`  
             - **Staff**: CHENGDU80- Name   
-              `eg: CHENGDU80-CHUNLIN`  
+              `eg: FINTECH80-CHUNLIN`  
            d. [How to get tech-support on slack?](tech-support/online-support.md)  
   
  ****📌 **【Prepare environment】**  
