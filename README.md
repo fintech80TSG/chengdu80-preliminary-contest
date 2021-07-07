@@ -18,7 +18,7 @@ This document site is an introduction to the technical rules and environment of 
                `eg: SWUFE-CHUNLIN-TeamMember`  
              - **Volunteers**: 80 Volunteers - name  - Shortname of the university you assistant    
               `eg: 80Volunteers-CHUNLIN-SWUFE`  
-            - **Staff**: CHENGDU80- Name   
+            - **Staff**: FINTECH80- Name   
               `eg: FINTECH80-CHUNLIN`  
            d. [How to get tech-support on slack?](tech-support/online-support.md)  
   
