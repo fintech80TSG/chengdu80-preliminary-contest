@@ -1,6 +1,6 @@
-# Join Chengdu80 workspace
+# Support Platform
 
-Before testing the environment, please join the Slack workspace of the Chengdu80 competition.You can ask staff information about the competition in this workspace, and you can also contact supporters to solve your problems at any time during the competition.
+Before testing the environment, please join the Slack workspace of the FINTECH80-CHENGDU competition.You can ask staff information about the competition in this workspace, and you can also contact supporters to solve your problems at any time during the competition.
 
 ## Specific process
 

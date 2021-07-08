@@ -11,7 +11,7 @@
 
 ## operation manual
 
-* [Join Chengdu80 workspace](operation-manual/join-chengdu80.md)
+* [Support Platform](operation-manual/join-chengdu80.md)
 * [Choose your fastest region](operation-manual/choose-your-fastest-region.md)
 * [Server usage specification](operation-manual/server-usage-specification.md)
 * [Access to Account](operation-manual/sign-console.md)
