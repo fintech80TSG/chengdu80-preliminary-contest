@@ -10,3 +10,9 @@ Each team should ensure that the server can be restarted automatically at the en
 You should start your server on these Ports（60-9000）.If your team need special ports,plz [Contact us.](../../tech-support/online-support.md)
 {% endhint %}
 
+{% hint style="info" %}
+To ensure that the server is running properly during the defense, please configure your own robustness code \(shutdown self-start configuration\).
+{% endhint %}
+
+
+
