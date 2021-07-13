@@ -1,6 +1,6 @@
 # Obtaining  Data
 
-The competition data and competition questions are stored in the  "**s3chengdu80-topic**"  S3 bucket, and you can get them in the following ways.
+The competition data and competition questions are stored in the  "**fintech80chengdu-topic**"  S3 bucket, and you can get them in the following ways.
 
 ## 1.Log in to the AWS console and download relevant data from the S3 bucket.
 

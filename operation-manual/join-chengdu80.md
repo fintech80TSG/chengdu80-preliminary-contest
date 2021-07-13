@@ -24,7 +24,7 @@ Entering your email account and password, you will receive an email with verific
 
 1\).You can create a private one-to-one chat for communication；
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2824%29.png)
 
 2\).You can also have a public conversation in the corresponding channel to find a solution;
 
