@@ -156,5 +156,5 @@ You've successfully uploaded an object to your bucket.
 
 ## Feedback usage
 
-When you have completed the test,  please feedback us [the corresponding test results](https://forms.office.com/Pages/DesignPage.aspx?fragment=FormId%3DS8fgZBcaAECBySjMd29sdbARWGwIoxVBvYOnmX6MKMNUQUIwNEQ3SDE2UDJDOEE5MThEVllLTFpRUC4u).
+When you have completed the test,  please feedback us [the corresponding test results](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAALvGMbNURFozMlhZTEhDRlVFRzUwREVQV09RSkZYMi4u).
 

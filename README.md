@@ -25,7 +25,7 @@ This document site is an introduction to the technical rules and environment of 
  ****📌 **【Prepare environment】**  
           Test the network speed to choose the fastest server   
              a. [Choose your team's fast region](operation-manual/choose-your-fastest-region.md)  
-             b.  [Submit](https://forms.gle/4mqooLhRuTGeYmNS8)  after testing   
+             b.  [Submit](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAALvGMbNURFozMlhZTEhDRlVFRzUwREVQV09RSkZYMi4u)  after testing   
 
 
 \*\*\*\*📌 **【Test environment and competition】**  
