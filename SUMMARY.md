@@ -25,7 +25,7 @@
   * [Access to the PORTs](operation-manual/competition-operation/access-to-the-ports.md)
   * [Code Submission](operation-manual/competition-operation/code-submission.md)
   * [Prototype Deployment](operation-manual/competition-operation/prototype-deployment.md)
-  * [Intro Video Upload](operation-manual/competition-operation/upload-team-introduction-video.md)
+  * [Project Intro Video & Slide Upload](operation-manual/competition-operation/upload-team-introduction-video.md)
 
 ## Service Documents
 

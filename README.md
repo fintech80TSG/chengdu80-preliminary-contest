@@ -39,9 +39,9 @@ This document site is an introduction to the technical rules and environment of 
 
 
 \*\*\*\*📌 **【Submission of competition results】**   
-            a. [Code Submission](operation-manual/competition-operation/code-submission.md)   
-            b. Slide Submission   
-            c. Prototype introduction video submission
+            a. [Code & Report Submission](operation-manual/competition-operation/code-submission.md)   
+            b. [Slide & Prototype introduction video Submission](operation-manual/competition-operation/upload-team-introduction-video.md)   
+            
 
 ###  <a id="user-sign-in-page"></a>
 
