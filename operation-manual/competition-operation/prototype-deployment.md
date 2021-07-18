@@ -1,5 +1,7 @@
 # Prototype Deployment
 
+**The online competition server not only provides practice and training, but also serves as a server for prototype deployment. The jury looks at both the prototype deployment and the code used to complete this prototype deployment.** I**t is recommended that all operations are done in the competition environment.** 
+
 The security group port is only set by the organizing committee during the competition and cannot be viewed.
 
 To ensure that your service starts up properly, each team needs to **apply for the required open port** on Slack.
