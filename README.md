@@ -10,22 +10,22 @@ This document site is an introduction to the technical rules and environment of 
 
 :pushpin: **** 【**Get in touch】**\
 &#x20;       ****        Join the official support and communication platform of the contest - slack \
-&#x20;           a. How to use Slack? See : [Slack user manual ](https://slack.com/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide)\
-&#x20;           b. [Invitation link](https://join.slack.com/t/fintech80-chengdu2021/shared\_invite/zt-s0how640-hDP4SOokgrPMF0tVVPEYFA) to **FINTECH80CHENGDU's slack** platform channel \
-&#x20;           c. Naming convention \
-&#x20;        Please follow the following naming rules for communication. \
+&#x20;           a. Fill out the [registration information form](https://forms.office.com/r/0BkueghUS7) （ref: How to [Choose your team's fast region](operation-manual/choose-your-fastest-region.md)）\
+&#x20;           b. [Invitation link](https://join.slack.com/t/fintech80chen-g6n8344/shared\_invite/zt-1bzfo4xtg-pLwPzK5z9CfNgnrSfZFJzg) to **FINTECH80CHENGDU's slack** platform channel  （ [Slack user manual ](https://slack.com/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide)）\
+&#x20;           c. Naming Codes \
+&#x20;               Please follow the following naming rules for communication. \
 &#x20;            \- **Participating team** : Shortname of your university - (team member/instructor) - Personal name \
 &#x20;              `eg: SWUFE-TeamMember-CHUNLIN`\
 &#x20;            \- **Volunteers**: 80 Volunteers - name  - Shortname of the university you assistant  \
 &#x20;             `eg: 80Volunteers-CHUNLIN-SWUFE`\
 &#x20;           \- **Staff**: FINTECH80- Name \
 &#x20;             `eg: FINTECH80-CHUNLIN`\
-&#x20;          d. [How to get tech-support on slack?](tech-support/online-support.md)\
-\
+&#x20;      &#x20;
+
 &#x20;**** :pushpin: **【Prepare environment】**\
-&#x20;         ****          Test the network speed to choose the fastest server \
-&#x20;            a. [Choose your team's fast region](operation-manual/choose-your-fastest-region.md)\
-&#x20;            b.  [Submit](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAALvGMbNURFozMlhZTEhDRlVFRzUwREVQV09RSkZYMi4u)  after testing \
+&#x20;               ****                \
+&#x20;            b. [Submit ](https://forms.office.com/r/n6bN1gFJ06) after testing \
+&#x20;            b.  [Submit ](https://forms.office.com/r/n6bN1gFJ06) after testing \
 
 
 ****:pushpin: **【Test environment and competition】**\
