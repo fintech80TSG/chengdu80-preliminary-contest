@@ -3,7 +3,7 @@
 :pushpin: **** 【**Get in touch】**
 
 &#x20;       ****        Join the official support and communication platform of the contest - slack \
-&#x20;           a. Fill out the [registration information form](https://forms.office.com/r/0BkueghUS7) （ref: How to [Choose your team's fast region](../../operation-manual/steps/choose-your-fastest-region.md)）\
+&#x20;           a. Fill out the [registration information form](https://forms.office.com/r/0BkueghUS7) （ref: How to [Choose your team's fast region](../operation-manual/competition-operation/choose-your-fastest-region.md)）\
 &#x20;           b. [Invitation link](https://join.slack.com/t/fintech80chen-g6n8344/shared\_invite/zt-1bzfo4xtg-pLwPzK5z9CfNgnrSfZFJzg) to **FINTECH80CHENGDU's slack** platform channel  （ [Slack user manual ](https://slack.com/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide)）\
 &#x20;           c. Naming Codes \
 &#x20;               Please follow the following naming rules for communication. \
@@ -21,15 +21,15 @@
 ****:pushpin: **【Test environment and competition】**
 
 &#x20; ``   **** Familiarize with the competition environment and platform.\
-&#x20;           a. [Introduction](./) of competition environment\
-&#x20;           b. [Support platform and specifications](../../operation-manual/competiton-real-time-support/support-platform-and-specifications.md)\
-&#x20;           c. How to [connect to the server](../../operation-manual/steps/competition-operation/connect-to-ec2.md) \
-&#x20;           d. How to [load competition data](../../operation-manual/steps/competition-operation/obtaining-data.md) \
-&#x20;           e. How to perform [backup and restore ](../../operation-manual/steps/competition-operation/backup-and-restore.md)\
-&#x20;           f. How to [open access ports](../../operation-manual/steps/competition-operation/access-to-the-ports.md)
+&#x20;           a. [Introduction](environment/) of competition environment\
+&#x20;           b. [Support platform and specifications](../operation-manual/online-live-support/support-platform-and-specifications.md)\
+&#x20;           c. How to [connect to the server](../operation-manual/competition-operation/connect-to-ec2.md) \
+&#x20;           d. How to [load competition data](../operation-manual/competition-operation/obtaining-data.md) \
+&#x20;           e. How to perform [backup and restore ](../operation-manual/competition-operation/backup-and-restore.md)\
+&#x20;           f. How to [open access ports](../operation-manual/competition-operation/access-to-the-ports.md)
 
 ****:pushpin: **【Submission of competition results】** &#x20;
 
-&#x20;           a. [Project Intro Video and Slides Uploading](../../operation-manual/steps/competition-operation/upload-team-introduction-video.md)\
-&#x20;           b. [Code Submission](../../operation-manual/steps/competition-operation/code-submission.md)\
+&#x20;           a. [Project Intro Video and Slides Uploading](../operation-manual/competition-operation/upload-team-introduction-video.md)\
+&#x20;           b. [Code Submission](../operation-manual/competition-operation/code-submission.md)\
 &#x20;         &#x20;

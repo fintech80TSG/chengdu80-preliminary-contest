@@ -11,7 +11,7 @@ To ensure that your service starts up properly, each team needs to **apply for t
 Each team should ensure that the server can be restarted automatically at the end of the game.
 
 {% hint style="info" %}
-You should start your server on these Ports（60-9000）.If your team need special ports,plz [Contact us.](../../../tech-support/online-support.md)
+You should start your server on these Ports（60-9000）.If your team need special ports,plz [Contact us.](../../tech-support/online-support.md)
 {% endhint %}
 
 {% hint style="info" %}

@@ -1,4 +1,4 @@
-# Competition operation
+# Operating Instructions
 
 The steps are as follows:
 

@@ -14,7 +14,7 @@ Use the following procedure to create a snapshot from the specified volume.
 
 1.3 Choose **Create Snapshot**.
 
-<figure><img src="../../../.gitbook/assets/21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/21.png" alt=""><figcaption></figcaption></figure>
 
 1.4 Choose **Add Tag** to add tags to your snapshot. For each tag, provide a tag key and a tag value（Name\_account is your AccountName like chengdu80final-team 1）.
 
@@ -25,7 +25,7 @@ Use the following procedure to create a snapshot from the specified volume.
 | Name  | XXXX          |
 | Owner | Name\_account |
 
-![](../../../.gitbook/assets/22.png)
+![](../../.gitbook/assets/22.png)
 
 ### **2.(Optional)To create a snapshot using the command line, see the following example.**
 
@@ -60,7 +60,7 @@ VolumeSize          : 20This example creates a snapshot of the specified volume.
 ## Restoring a snapshot <a href="#ebs-create-snapshot" id="ebs-create-snapshot"></a>
 
 {% hint style="danger" %}
-Warning: Due to IAM limit，Contestants do not have permission to restore the snapshot.You just can[ contact us](../../../tech-support/online-support.md) for alternative operations.
+Warning: Due to IAM limit，Contestants do not have permission to restore the snapshot.You just can[ contact us](../../tech-support/online-support.md) for alternative operations.
 {% endhint %}
 
 ****

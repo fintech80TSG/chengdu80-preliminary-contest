@@ -6,7 +6,7 @@ Yes，you can [contact technical supporters](online-support.md) to open the port
 
 ## Where can I get the data?
 
-It's in the "chengdu80-topic" bucket (name：dataset.zip). you can[ follow this ](../operation-manual/steps/competition-operation/obtaining-data.md) to download the data.
+It's in the "chengdu80-topic" bucket (name：dataset.zip). you can[ follow this ](../operation-manual/competition-operation/obtaining-data.md) to download the data.
 
 ## What should I do if my account does not have permission when performing normal operation？
 

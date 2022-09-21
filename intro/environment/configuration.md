@@ -1,4 +1,4 @@
-# Configuration
+# Computing Resource Limits
 
 ## 1. EC2（Elastic Computer Cloud）
 
@@ -50,8 +50,8 @@ The network for each team's servers is isolated from each other. There is 5 Giga
 
 To support the completion of the project, the following services are provided:
 
-* [GIT ](../../operation-manual/steps/competition-operation/code-submission.md)&#x20;
-* [Backup ](../../operation-manual/steps/competition-operation/backup-and-restore.md)
+* [GIT ](../../operation-manual/competition-operation/code-submission.md)&#x20;
+* [Backup ](../../operation-manual/competition-operation/backup-and-restore.md)
 
 ## 5. Prohibited content
 

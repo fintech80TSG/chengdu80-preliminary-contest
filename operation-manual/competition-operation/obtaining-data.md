@@ -14,19 +14,19 @@ The competition data and competition questions are stored in the  "**fintech80ch
 
 ## 2. Download with AWS CLI command line.
 
-#### [**install & config AWS CLI**](../../../service-documents/aws-cli.md)
+#### [**install & config AWS CLI**](../../service-documents/aws-cli.md)
 
 ```
 aws s3 ls（find the bucket and file）
 ```
 
-![](<../../../.gitbook/assets/image (99).png>)&#x20;
+![](<../../.gitbook/assets/image (99).png>)&#x20;
 
 ```
 aws s3 cp s3://chengdu80-project/XXX /local/
 ```
 
-![](../../../.gitbook/assets/1603077877-1-.png)&#x20;
+![](../../.gitbook/assets/1603077877-1-.png)&#x20;
 
 ```
 aws s3 cp s3://chengdu80-topic/topic1 ./root/
@@ -40,7 +40,7 @@ Detailed instructions are available on the [S3 browser ](https://s3browser.com/s
 
 ## &#x20;4. Mount S3 to the system directory(Linux)
 
-#### &#x20;[**install & config AWS CLI**](../../../service-documents/aws-cli.md)
+#### &#x20;[**install & config AWS CLI**](../../service-documents/aws-cli.md)
 
 ### 4.1 Install  "goofys"&#x20;
 

@@ -20,21 +20,21 @@ Step 3：Please use your email account and password to join the workspace of the
 
 Entering your email account and password, you will receive an email with verification code. After entering the verification code on the web page, there will be a pop-up asking to open your Slack client.  Please select  “Yes”  to join the Slack workspace of the Chengdu80 competition.
 
-### 2.Naming conventions
+### 2.Naming Codes
 
 Please follow the following naming rules for communication. \
 &#x20;  \- **Participating team** : Shortname of your university - (team member/instructor) - Personal name \
-&#x20;       `eg: SWUFE-TeamMember-CHUNLIN`\
+&#x20;       `eg: SWUFE-TeamMember-LIN`\
 &#x20;  \- **Volunteers**: 80 Volunteers - name  - Shortname of the university you assistant  \
-&#x20;        `eg: 80Volunteers-CHUNLIN-SWUFE`\
+&#x20;        `eg: 80Volunteers-LIN-SWUFE`\
 &#x20;  \- **Staff**: FINTECH80- Name \
-&#x20;        `eg: FINTECH80-CHUNLIN`
+&#x20;        `eg: FINTECH80-IN`
 
 ### 3.If you have any questions, you can get help by the following ways:
 
 1\).You can create a private one-to-one chat for communication；
 
-<figure><img src="../../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
 2\).You can also have a public conversation in the corresponding channel to find a solution;
 
