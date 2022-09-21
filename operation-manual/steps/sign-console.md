@@ -12,7 +12,6 @@ https://733604999136.signin.aws.amazon.com/console/
 
 3.Enter your IAM user name and password, then choose "**Sign in**".
 
-![](../.gitbook/assets/image%20%285%29.png)
+<figure><img src="../../.gitbook/assets/17.png" alt=""><figcaption></figcaption></figure>
 
-##  <a id="user-sign-in-page"></a>
-
+## &#x20;<a href="#user-sign-in-page" id="user-sign-in-page"></a>

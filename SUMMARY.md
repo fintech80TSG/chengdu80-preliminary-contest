@@ -7,25 +7,28 @@
 * [Competition Environment](intro/environment/README.md)
   * [Platform](intro/environment/platform.md)
   * [Configuration](intro/environment/configuration.md)
-  * [Limits](intro/environment/limit.md)
+  * [Framework](intro/environment/framework.md)
+  * [Overview of Operation Steps](intro/environment/overview-of-operation-steps.md)
 
-## operation manual
+## competition manual <a href="#operation-manual" id="operation-manual"></a>
 
-* [Support Platform](operation-manual/join-chengdu80.md)
-* [Choose your fastest region](operation-manual/choose-your-fastest-region.md)
-* [Server usage specification](operation-manual/server-usage-specification.md)
-* [Access to Account](operation-manual/sign-console.md)
-* [Environment Test](operation-manual/environment-test.md)
-* [Team Intro Video Upload](operation-manual/upload-team-introduction-video.md)
-* [Competition operation](operation-manual/competition-operation/README.md)
-  * [Connect to EC2](operation-manual/competition-operation/connect-to-ec2.md)
-  * [Connect to Operating System](operation-manual/competition-operation/connect-to-operating-system.md)
-  * [Backup and Restore](operation-manual/competition-operation/backup-and-restore.md)
-  * [Obtaining  Data](operation-manual/competition-operation/obtaining-data.md)
-  * [Access to the PORTs](operation-manual/competition-operation/access-to-the-ports.md)
-  * [Code Submission](operation-manual/competition-operation/code-submission.md)
-  * [Prototype Deployment](operation-manual/competition-operation/prototype-deployment.md)
-  * [Project Intro Video Upload](operation-manual/competition-operation/upload-team-introduction-video.md)
+* [Competition Process](<operation-manual/Competition process.md>)
+* [Competiton Real-time Support](operation-manual/competiton-real-time-support/README.md)
+  * [Support Platform and Specifications](operation-manual/competiton-real-time-support/support-platform-and-specifications.md)
+  * [Personnel Division](operation-manual/competiton-real-time-support/personnel-division.md)
+* [Steps](operation-manual/steps/README.md)
+  * [Access to Account](operation-manual/steps/sign-console.md)
+  * [Choose your fastest region](operation-manual/steps/choose-your-fastest-region.md)
+  * [Test Area](operation-manual/steps/environment-test.md)
+  * [Competition operation](operation-manual/steps/competition-operation/README.md)
+    * [Obtaining  Data](operation-manual/steps/competition-operation/obtaining-data.md)
+    * [Connect to EC2](operation-manual/steps/competition-operation/connect-to-ec2.md)
+    * [Connect to Operation System](operation-manual/steps/competition-operation/connect-to-operation-system.md)
+    * [Access to the PORTs](operation-manual/steps/competition-operation/access-to-the-ports.md)
+    * [Backup and Restore](operation-manual/steps/competition-operation/backup-and-restore.md)
+    * [Project Intro Video and Slides Upload](operation-manual/steps/competition-operation/upload-team-introduction-video.md)
+    * [Code Submission](operation-manual/steps/competition-operation/code-submission.md)
+    * [Evaluation Contents and Requirements](operation-manual/steps/competition-operation/evaluation-contents-and-requirements.md)
 
 ## Service Documents
 
@@ -33,12 +36,11 @@
 * [AWS CLI](service-documents/aws-cli.md)
 * [AWS S3](service-documents/aws-s3.md)
 
-## Support <a id="tech-support"></a>
+## Support <a href="#tech-support" id="tech-support"></a>
 
 * [FAQ](tech-support/faq.md)
-* [Support Online](tech-support/online-support.md)
+* [Competition Contact Personnel](tech-support/online-support.md)
 
----
+***
 
 * [Official Website](http://cd80.swufe.edu.cn)
-

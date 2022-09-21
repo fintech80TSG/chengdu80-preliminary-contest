@@ -2,7 +2,7 @@
 
 The competition data and competition questions are stored in the  "**fintech80chengdu-topic**"  S3 bucket, and you can get them in the following ways.
 
-## 1.Log in to the AWS console and download relevant data from the S3 bucket.
+## 1. Log in to the AWS console and download relevant data from the S3 bucket.
 
 1\)In the **Buckets** list, choose the bucket that you want to download objects.
 
@@ -14,37 +14,37 @@ The competition data and competition questions are stored in the  "**fintech80ch
 
 ## 2. Download with AWS CLI command line.
 
-#### [**install & config AWS CLI**](../../service-documents/aws-cli.md)
+#### [**install & config AWS CLI**](../../../service-documents/aws-cli.md)
 
-```text
+```
 aws s3 ls（find the bucket and file）
 ```
 
-![](../../.gitbook/assets/image%20%2899%29.png) 
+![](<../../../.gitbook/assets/image (99).png>)&#x20;
 
-```text
+```
 aws s3 cp s3://chengdu80-project/XXX /local/
 ```
 
-![](../../.gitbook/assets/1603077877-1-.png) 
+![](../../../.gitbook/assets/1603077877-1-.png)&#x20;
 
-```text
+```
 aws s3 cp s3://chengdu80-topic/topic1 ./root/
 ```
 
-##  3.S3 browser\(Windows\)
+## &#x20;3. S3 browser(Windows)
 
 {% hint style="info" %}
 Detailed instructions are available on the [S3 browser ](https://s3browser.com/s3browser-first-run.aspx)
 {% endhint %}
 
-##  4.Mount S3 to the system directory\(Linux\)
+## &#x20;4. Mount S3 to the system directory(Linux)
 
-####  [**install & config AWS CLI**](../../service-documents/aws-cli.md)
+#### &#x20;[**install & config AWS CLI**](../../../service-documents/aws-cli.md)
 
-#### 4.1 Install  "goofys" 
+### 4.1 Install  "goofys"&#x20;
 
-```text
+```
 wget https://github.com/kahing/goofys/releases/latest/download/goofys
 chmod +x goofys
 sudo mv goofys /usr/local/bin/
@@ -54,11 +54,10 @@ sudo yum install -y fuse
 sudo apt install fuse
 ```
 
-####  4.2 Mount S3
+### &#x20;4.2 Mount S3
 
-```text
+```
 sudo mkdir -p /Mount-Point 
 sudo chown Your-User-Name:Your-User-Name （eg：centos） /Mount-Point
 /usr/local/bin/goofys Your-Bucket:Your-School-Prefix （eg:chengdu80-team-intro-upload:SWUFE） /Mount-Point
 ```
-
