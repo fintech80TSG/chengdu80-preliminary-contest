@@ -10,6 +10,10 @@ Thanks to the instant communication workspace provided by [Slack](https://www.sl
 
 &#x20;           MAC download link：[https://slack.com/intl/en-hk/downloads/mac](https://slack.com/intl/en-hk/downloads/mac)
 
+&#x20;​           [Android ](https://swufelab.s3.ap-east-1.amazonaws.com/Slack\_v22.10.20.0.apk)
+
+&#x20;          [ iOS ](https://itunes.apple.com/app/slack-app/id618783545?ls=1\&mt=8)
+
 * Step 2：Click the [invitation link](https://join.slack.com/t/fintech80chen-g6n8344/shared\_invite/zt-1bzfo4xtg-pLwPzK5z9CfNgnrSfZFJzg) of the Chengdu80@slack workspace.
 * Step 3：Please use your email account and password to join the workspace&#x20;
 
