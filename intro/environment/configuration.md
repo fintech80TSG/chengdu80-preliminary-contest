@@ -4,15 +4,17 @@
 
 ### 1.1  EC2 resource
 
-Each team will be provided with two EC2 servers.
+Each team will be provided with two EC2 servers.One is general-purpose computing server, and the other is accelerated computing.
+
+In accelerated computing, the instance G4dn type will be configured for everyone to use in the competition.G4dn instances use NVIDIA Tesla GPUs and provide a cost-effective, high-performance platform for general purpose GPU computing using the CUDA or machine learning frameworks along with graphics applications using DirectX or OpenGL. Each GPU has 16 GiB of GDDR6 memory, making G4dn instances well-suited for machine learning inference, video transcoding, and graphics applications like remote graphics workstations and game streaming in the cloud.
 
 The two EC2 can be configured as Windows operating system or Ubuntu/Centos operating system, but it should be **noted** that **the way to connect to the server varies according to the operating system of the terminal**.
 
 Hardware configuration is as follows：
 
-| CPU        | RAM  |       HDD |                             OS |
-| ---------- | ---- | --------: | -----------------------------: |
-| Xeon 8vCPU | 32GB | 200GB SSD | Windows10/Ubuntu 18.04/Centos7 |
+| General Purpose       | Xeon 8vCPU/32 GiB |                                  / | 1 x 200 NVMe SSD | Windows 10/Ubuntu 18.04/Centos 7 |
+| --------------------- | ----------------- | ---------------------------------: | ---------------: | -------------------------------- |
+| Accelerated Computing | Xeon 4vCPU/16 GiB | NVIDIA T4 Tensor Core GPUs /16 GiB |  1x 125 NVMe SSD | Windows 10/Ubuntu 18.04/Centos 7 |
 
 {% hint style="info" %}
 All teams in China will use servers in the Hong Kong region by default. We have optimized the connection from the cities to Hong Kong via the accelerator. Each team's accelerator provides 40GB of traffic by default (which is enough for normal usage), please contact technical support if you need more information.
