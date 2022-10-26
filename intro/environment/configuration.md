@@ -22,15 +22,13 @@ All teams in China will use servers in the Hong Kong region by default. We have 
 
 ### 1.2 EC2 resource limit
 
-We limited each participating team can only use 2 EC2 Server. (3 select 2)
+We limited each participating team can only use 2 EC2 Server.&#x20;
 
-Windows Server 2016 R2
+**OS list :**
 
-Ubuntu 18.04
+Ubuntu 18.04/20.04/22.04 ; Windows Server 2016/2019/2022; CentOS 7/8
 
-Centos 7
-
-Each team can only operate its own resources，can start/stop/restart your team
+Each team can only operate its own resources，can start/stop/restart by yourself.
 
 {% hint style="danger" %}
 Warning: Don't touch other teams resource,and you have not permission to create new instances.
