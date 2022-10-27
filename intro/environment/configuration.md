@@ -12,9 +12,9 @@ The two EC2 can be configured as Windows operating system or Ubuntu/Centos opera
 
 Hardware configuration is as follows：
 
-| General Purpose       | Xeon 8vCPU/32 GiB |                                  / | 1 x 200 NVMe SSD | Windows 10/Ubuntu 18.04/Centos 7 |
-| --------------------- | ----------------- | ---------------------------------: | ---------------: | -------------------------------- |
-| Accelerated Computing | Xeon 4vCPU/16 GiB | NVIDIA T4 Tensor Core GPUs /16 GiB |  1x 125 NVMe SSD | Windows 10/Ubuntu 18.04/Centos 7 |
+| General Purpose       | Xeon 8vCPU/32 GiB |                                  / | 1 x 200 NVMe SSD | Windows Server/Ubuntu /Centos  |
+| --------------------- | ----------------- | ---------------------------------: | ---------------: | ------------------------------ |
+| Accelerated Computing | Xeon 4vCPU/16 GiB | NVIDIA T4 Tensor Core GPUs /16 GiB |  1x 125 NVMe SSD | Windows Server/Ubuntu /Centos  |
 
 {% hint style="info" %}
 All teams in China will use servers in the Hong Kong region by default. We have optimized the connection from the cities to Hong Kong via the accelerator. Each team's accelerator provides 40GB of traffic by default (which is enough for normal usage), please contact technical support if you need more information.
