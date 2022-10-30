@@ -35,5 +35,9 @@ According to the tournament rules, we need teams to submit an introduction video
 We will test and validate the code and prototypes during the competition judging, please keep the prototypes directly accessible after the competition when the server is turned on.\
 After the competition, we will keep a backup of the server and the code. The code will be open source by default.
 
-* Follow  [the link](competition-operation/upload-team-introduction-video.md) to submit video and slides.
+* Follow  [the link](competition-operation/upload-team-introduction-video.md) to submit video<mark style="color:red;">**\***</mark> and slides.
 * Follow  [the link](competition-operation/code-submission.md) to submit code.
+
+{% hint style="warning" %}
+<mark style="color:red;">**Attention\***</mark>\ <mark style="color:red;">**Teams on site just commit code and slide ;**</mark>\ <mark style="color:red;">**Teams online need commit code 、upload video and slides.**</mark>
+{% endhint %}
