@@ -1,6 +1,6 @@
 # Project Intro Video and Slides Upload
 
-Please upload the Team Intro Video and Slides to Amazon S3 after logging into your account (if you don't know how to access, plz return [Access to Account](sign-console.md)).You can upload project intro video and slides to the "fintech80chengdu-project-intro-upload" S3 bucket.&#x20;
+Please upload the Team Intro Video and Slides to Amazon S3 after logging into your account (if you don't know how to access, plz return [Access to Account](sign-console.md)).You can upload project intro video to the "fintech80chengdu-video-intro-upload" S3 bucket and upload slides to the "fintech80chengdu-project-intro-upload" S3 bucket.&#x20;
 
 Teams competing **onsite are no longer required to upload a project introduction video** ,but the slides need to be uploaded to github along with the code.
 
