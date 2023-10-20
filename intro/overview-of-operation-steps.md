@@ -3,7 +3,7 @@
 :pushpin: 【**Get in touch】**
 
 &#x20;       Join the official support and communication platform of the contest - slack ([iOS](https://apps.apple.com/us/app/slack/id618783545) [Android ](https://swufelab.s3.ap-east-1.amazonaws.com/Slack\_23.09.30.0\_Apkpure.apk)[Mac](https://slack.com/intl/zh-cn/downloads) [Windows](https://slack.com/intl/zh-cn/downloads))\
-&#x20;           a. Fill out the [registration information form](https://forms.office.com/r/0BkueghUS7) （ref: How to [Choose your team's fast region](../operation-manual/competition-operation/choose-your-fastest-region.md)）\
+&#x20;           a. Fill out the [registration information form](https://forms.office.com/r/0BkueghUS7)[ ](https://forms.office.com/r/DSAPLEqS8L)\
 &#x20;           b. [Invitation link](https://join.slack.com/t/fintech80chen-g6n8344/shared\_invite/zt-1bzfo4xtg-pLwPzK5z9CfNgnrSfZFJzg) to **FINTECH80CHENGDU's slack** platform channel  （ [Slack user manual ](https://slack.com/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide)）\
 &#x20;           c. Naming Codes \
 &#x20;               Please follow the following naming rules for communication. \
@@ -16,7 +16,7 @@
 
 &#x20;:pushpin: **【Prepare environment】**&#x20;
 
-&#x20;    a.[Submit](https://forms.office.com/r/n6bN1gFJ06) after testing&#x20;
+&#x20;    a.[Submit](https://forms.office.com/r/n6bN1gFJ06)[ ](https://forms.office.com/r/mMeNm1YZfn)after testing&#x20;
 
 :pushpin: **【Test environment and competition】**
 
