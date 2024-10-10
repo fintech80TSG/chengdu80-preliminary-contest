@@ -5,7 +5,7 @@ We use Github Classroom to collect, store, review, and publish team codes after 
 Here's the submission process (as if you were submitting code to github normally)
 
 * [Sign in](https://classroom.github.com/login) your github account, or [sign up](https://github.com/join)  if you don't have one .
-* Click on the [link ](https://classroom.github.com/a/ZEqMxGpP)to join and accept this assignment set by the chengdu80 contest .
+* Click on the [link ](https://classroom.github.com/a/ntblLdKs)to join and accept this assignment set by the chengdu80 contest .
 * Choose your university name as your name  .
 * Your team can work together to submit code to your repository.
 

@@ -14,6 +14,10 @@ Windows download link：[https://slack.com/intl/en-hk/downloads/windows](https:/
 
 MAC download link：[https://slack.com/intl/en-hk/downloads/mac](https://slack.com/intl/en-hk/downloads/mac)
 
+Android download link：[https://play.google.com/store/apps/details?id=com.Slack](https://play.google.com/store/apps/details?id=com.Slack)
+
+IOS download link：[https://itunes.apple.com/app/slack-app/id618783545?ls=1\&mt=8](https://itunes.apple.com/app/slack-app/id618783545?ls=1\&mt=8)
+
 Step 2：Please click the [invitation link](https://join.slack.com/t/fintech80chen-g6n8344/shared\_invite/zt-1bzfo4xtg-pLwPzK5z9CfNgnrSfZFJzg) of the Chengdu80@slack workspace.
 
 Step 3：Please use your email account and password to join the workspace of the Chengdu80 competition：
@@ -34,7 +38,7 @@ Please follow the following naming rules for communication. \
 
 1\).You can create a private one-to-one chat for communication；
 
-<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
 
 2\).You can also have a public conversation in the corresponding channel to find a solution;
 

@@ -1,8 +1,8 @@
 # Test Area
 
-In the pre-match testing session,  you need to do the following tests.&#x20;
+In the pre-match testing session,  you need to do the following tests. （[To learn how to work with individual services in the console](../../service-documents/aws-management-console.md)）
 
-1\. verify if the aws console login is working properly and if the team introduction video can be uploaded via S3.&#x20;
+1\. verify if the aws console login is working properly and if the slides can be uploaded via S3.&#x20;
 
 2\. check whether the server operating system is correct and whether it can be logged on normally&#x20;
 
@@ -10,7 +10,7 @@ In the pre-match testing session,  you need to do the following tests.&#x20;
 
 ## Connect to EC2
 
-### 1.select Services -> EC2 buttons
+### 1.Double-click that key with the EC2 button
 
 <figure><img src="../../.gitbook/assets/18.png" alt=""><figcaption></figcaption></figure>
 
@@ -18,11 +18,7 @@ In the pre-match testing session,  you need to do the following tests.&#x20;
 
 <figure><img src="../../.gitbook/assets/19.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="warning" %}
-Due to geographical restrictions, participating teams from mainland China will have different server addresses.Please pay attention to check the email with  acceleration address information. We recommend that you use the IP address provided by the email.
-{% endhint %}
-
-## Connect to Operating System
+## Connect to Operating System（[detailed description](connect-to-operation-system.md)）
 
 ### 1.Connect to Linux
 
@@ -43,11 +39,11 @@ Connect using PuTTY
 * From the Start menu, choose All Programs, PuTTY, PuTTYgen.
 * Under Type of key to generate, choose RSA. If you're using an older version of PuTTYgen, choose SSH-2 RSA.
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (18).png>)
 
 * Choose Load. By default, PuTTYgen displays only files with the extension `.ppk`. To locate your `.pem` file, choose the option to display files of all types.
 
-![](<../../.gitbook/assets/image (2).png>)
+![](../../.gitbook/assets/image.png)
 
 * Select your `.pem` file for the key pair that you specified when you launched your instance and choose Open. PuTTYgen displays a notice that the `.pem` file was successfully imported. Choose OK.
 * To save the key in the format that PuTTY can use, choose Save private key. PuTTYgen displays a warning about saving the key without a passphrase. Choose Yes.
@@ -86,7 +82,7 @@ for example:
 
 2.3 Choose Get Windows password.
 
-<figure><img src="../../.gitbook/assets/11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/11.png" alt=""><figcaption><p>If the Get Windows Password button isn't clickable, it's because the selected host isn't running Windows</p></figcaption></figure>
 
 2.4 Select the file name of the private key (`.pem`) and unzip.
 
@@ -122,7 +118,7 @@ Pre-install software is not allowed during the test session.
 
 ## Test file uploads and downloads in S3
 
-Open the Amazon S3 console at Services.
+Open the Amazon S3 console at Services.([Detailed steps refer to](../../service-documents/aws-s3.md))
 
 ![](../../.gitbook/assets/20.png)
 

@@ -8,7 +8,7 @@ Under the rule of fairness and justice, participants should compete in the envir
 
 
 
-Each team will be provided with two servers (Windows 2016 or Ubuntu 18.04 or Centos7). Participants should develop and deploy under the given environment.\
+Each team will be provided with two servers (Windows or Ubuntu or Centos). Participants should develop and deploy under the given environment.\
 All operations will be recorded.
 
 <figure><img src="../../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>

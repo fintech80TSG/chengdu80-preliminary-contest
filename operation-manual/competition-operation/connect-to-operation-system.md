@@ -19,11 +19,11 @@ Connect using PuTTY
 * From the Start menu, choose All Programs, PuTTY, PuTTYgen.
 * Under Type of key to generate, choose RSA. If you're using an older version of PuTTYgen, choose SSH-2 RSA.
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (18).png>)
 
 * Choose Load. By default, PuTTYgen displays only files with the extension `.ppk`. To locate your `.pem` file, choose the option to display files of all types.
 
-![](<../../.gitbook/assets/image (2).png>)
+![](../../.gitbook/assets/image.png)
 
 * Select your `.pem` file for the key pair that you specified when you launched your instance and choose Open. PuTTYgen displays a notice that the `.pem` file was successfully imported. Choose OK.
 * To save the key in the format that PuTTY can use, choose Save private key. PuTTYgen displays a warning about saving the key without a passphrase. Choose Yes.

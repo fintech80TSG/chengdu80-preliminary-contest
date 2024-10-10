@@ -4,11 +4,11 @@ For this competition, we used AWS's cloud platform to provide the computing envi
 
 Follows are the introduction of AWS.
 
-**Complete Global Facilities, Convenient for Contestants to Access Nearby**
+**The most secure, extensive, and reliable Global Cloud Infrastructure, for all your applications**
 
-There will be domestic and overseas teams in this competition. we provided a cloud-based competition environment where teams around the world could choose the nearest available area to access computing power and release prototypes. for Chinese teams ,it will be Hong Kong region;
+The AWS Global Cloud Infrastructure is the most secure, extensive, and reliable cloud platform, offering over 200 fully featured services from data centers globally. Whether you need to deploy your application workloads across the globe in a single click, or you want to build and deploy specific applications closer to your end-users with single-digit millisecond latency, AWS provides you the cloud infrastructure where and when you need it.
 
-AWS now spans 24 geographic regions around the world, and has announced plans for nine more Availability Zones and three more AWS Regions in Indonesia, Japan, and Spain. The complete global infrastructure based on AWS can help domestic and overseas competitors to access the regional points more conveniently , and use GA acceleration in Hong Kong to ensure the efficient access of Domestic players in China.
+The AWS Cloud spans 102 Availability Zones within 32 geographic regions around the world, with announced plans for 12 more Availability Zones and 4 more AWS Regions in Canada, Malaysia, New Zealand, and Thailand.
 
 ![AWS Global Cloud Infrastructure](<../../../.gitbook/assets/image (71).png>)
 

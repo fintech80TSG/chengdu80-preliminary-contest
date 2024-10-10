@@ -13,19 +13,18 @@
 
 ## competition manual <a href="#operation-manual" id="operation-manual"></a>
 
-* [Tournament Flow](operation-manual/join-chengdu80.md)
+* [Tournament Flow](operation-manual/competition-process.md)
 * [Operating Instructions](operation-manual/competition-operation/README.md)
   * [Access to Account](operation-manual/competition-operation/sign-console.md)
-  * [Choose your fastest region](operation-manual/competition-operation/choose-your-fastest-region.md)
   * [Test Area](operation-manual/competition-operation/environment-test.md)
   * [Obtaining  Data](operation-manual/competition-operation/obtaining-data.md)
-  * [Connect to EC2](operation-manual/competition-operation/connect-to-ec2.md)
-  * [Connect to Operation System](operation-manual/competition-operation/connect-to-operation-system.md)
   * [Access to the PORTs](operation-manual/competition-operation/access-to-the-ports.md)
   * [Backup and Restore](operation-manual/competition-operation/backup-and-restore.md)
-  * [Project Intro Video and Slides Upload](operation-manual/competition-operation/upload-team-introduction-video.md)
+  * [Slides Upload](operation-manual/competition-operation/upload-team-introduction-video.md)
   * [Code Submission](operation-manual/competition-operation/code-submission.md)
   * [Evaluation Contents and Requirements](operation-manual/competition-operation/evaluation-contents-and-requirements.md)
+  * [Connect to EC2](operation-manual/competition-operation/connect-to-ec2.md)
+  * [Connect to Operation System](operation-manual/competition-operation/connect-to-operation-system.md)
 * [Online Live Support](operation-manual/online-live-support/README.md)
   * [Support Platform and Specifications](operation-manual/online-live-support/support-platform-and-specifications.md)
 
@@ -38,7 +37,7 @@
 ## Support <a href="#tech-support" id="tech-support"></a>
 
 * [FAQ](tech-support/faq.md)
-* [Competition Contact Personnel](tech-support/online-support.md)
+* [Contacts US](tech-support/online-support.md)
 
 ***
 
