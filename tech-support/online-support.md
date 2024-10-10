@@ -9,7 +9,7 @@ The following problems can be encountered by contacting the relevant channels an
 * Other questions: Volunteers of each team
 
 {% hint style="info" %}
-Detailed instructions are available on the [Slack.com](https://slack.com/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide)
+Detailed instructions are available on the Lark platform
 {% endhint %}
 
 
