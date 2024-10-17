@@ -4,14 +4,14 @@ The Technical Support Group has meticulously prepared a comprehensive document �
 
 <mark style="color:orange;">**FINTECH80-CHENGDU 2024 Schedule**</mark>
 
-|                                                    |                                                                                                                                                                                                                              | <p> </p><p></p><p> </p>              |
-| -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-| <p> </p><p>Phase</p><p> </p>                       | <p> </p><p>Details</p><p> </p>                                                                                                                                                                                               | <p> </p><p>Time</p><p> </p>          |
-| <p> </p><p>Apply&#x26;Confirm</p><p> </p>          | <p>–   Join the <a href="https://www.larksuite.com">Lark</a> and channels（Follow the naming rules ）</p><p>–   Confirm Info (Fill out the registration information form, eg server OS and responsible person information)</p> | <p> </p><p>Before Oct.24</p><p> </p> |
-| <p> </p><p>Environment test</p><p> </p>            | <p>–   Test the environment (online &#x26; offline)</p><p>–   Review and submit the Checklist.</p><p>–   If you have any questions, contact TSG</p>                                                                          | <p> </p><p>Oct.25 </p><p> </p>       |
-| <p> </p><p>Tournament stage</p><p> </p>            | <p>–   Retrieve data and connect to the server</p><p>–   Begin the 80-hour competition journey</p>                                                                                                                           | <p>Begin at<br>Oct.26 14:00</p>      |
-| <p> </p><p>Code&#x26;slide submission </p><p> </p> | <p>–   Submit the source code.</p><p>–   Submit contest presentation slides</p><p>–   make sure it is available when starting up</p>                                                                                         | <p>Before<br>Oct.29 22:00</p>        |
-| <p> </p><p>Final Presentation</p><p> </p>          | –   Presentation（inform TSG if you need to turn on the server)                                                                                                                                                               | <p> </p><p>Oct.30 12:00</p><p> </p>  |
+|                                                    |                                                                                                                                                                                                  | <p> </p><p></p><p> </p>              |
+| -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ |
+| <p> </p><p>Phase</p><p> </p>                       | <p> </p><p>Details</p><p> </p>                                                                                                                                                                   | <p> </p><p>Time</p><p> </p>          |
+| <p> </p><p>Apply&#x26;Confirm</p><p> </p>          | <p>–   Join the im.chengdu80.org and channels（Follow the naming rules ）</p><p>–   Confirm Info (Fill out the registration information form, eg server OS and responsible person information)</p> | <p> </p><p>Before Oct.22</p><p> </p> |
+| <p> </p><p>Environment test</p><p> </p>            | <p>–   Test the environment (online &#x26; offline)</p><p>–   Review and submit the Checklist.</p><p>–   If you have any questions, contact TSG</p>                                              | <p> </p><p>Oct.25 </p><p> </p>       |
+| <p> </p><p>Tournament stage</p><p> </p>            | <p>–   Retrieve data and connect to the server</p><p>–   Begin the 80-hour competition journey</p>                                                                                               | <p>Begin at<br>Oct.26 14:00</p>      |
+| <p> </p><p>Code&#x26;slide submission </p><p> </p> | <p>–   Submit the source code.</p><p>–   Submit contest presentation slides</p><p>–   make sure it is available when starting up</p>                                                             | <p>Before<br>Oct.29 22:00</p>        |
+| <p> </p><p>Final Presentation</p><p> </p>          | –   Presentation（inform TSG if you need to turn on the server)                                                                                                                                   | <p> </p><p>Oct.30 12:00</p><p> </p>  |
 
 &#x20;
 
@@ -21,9 +21,9 @@ The Technical Support Group has meticulously prepared a comprehensive document �
 
 :pushpin: 【**Get in touch】**
 
-&#x20;       Join the official support and communication platform of the contest - Lark ([iOS](https://apps.apple.com/us/app/lark-team-collaboration/id1452166623) [Android ](https://apkpure.com/cn/lark-team-collaboration/com.larksuite.suite/download)[Mac](https://www.larksuite.com/en\_us/download) [Windows](https://www.larksuite.com/en\_us/download))\
-&#x20;           a. Fill out the [registration information form](https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAALvGMbNUREY0Wk1YU0pON1hXTlJUT1Y3UUhHS0FUVy4u)\
-&#x20;           b.Join **FINTECH80CHENGDU's lark** platform channel  （ [ user manual ](https://www.larksuite.com/hc/en-US/academy/watch/80000)）\
+&#x20;       Join the official support and communication platform of the contest -https://im.chengdu80.org ([download](https://mattermost.com/apps/))\
+&#x20;           a. Fill out the r[egistration information form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAALvGMbNUOVVPSlg1SjVGSEdaNVRQR0k5Q0o1R1pGMy4u)\
+&#x20;           b.Join **FINTECH80CHENGDU's** [**Technical Support** channel](https://im.chengdu80.org/fintech80/channels/fintech80-technical-support)   \
 &#x20;           c. Naming Guidelines\
 &#x20;               Please follow the following naming rules for communication. \
 &#x20;               \- **Participating team** : Shortname of your university - (team member/instructor) - Personal name \
@@ -37,7 +37,7 @@ The Technical Support Group has meticulously prepared a comprehensive document �
 
 &#x20;           a.[Introduction ](environment/)of competition envirment
 
-&#x20;           b.[Submit ](https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAALvGMbNURTVBREkyR05TSURLQzRETTNJOUlaVDEzWi4u)after testing&#x20;
+&#x20;           b.[Submit ](https://forms.office.com/r/sTAcQjE2i8)after testing&#x20;
 
 :pushpin: **【competition】**
 

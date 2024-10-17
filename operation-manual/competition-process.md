@@ -6,17 +6,17 @@
 
 ### **1.** Join the Communication Platform .
 
-We choosing Slack as the platform for technical support and instant notifications (instant messaging, conferences, calls, file management, etc.) for this contest ,so if you have any questions, please contact us on [slack](../intro/environment/communication-platform.md).
+We hosting an open source Mattermost as the platform for technical support and instant notifications (instant messaging, conferences, calls, file management, etc.) for this contest ,so if you have any questions, please contact us on contest platform  IM(https://im.chengdu80.org)
 
 ### 2. Sign up
 
 We need to collect some information about the team, such as the contacts (so that we can send the login secret key), select your server system ,etc.\
-Please fill out the [registration information form](https://forms.office.com/r/DSAPLEqS8L).
+Please fill out the [registration information form](https://forms.office.com/r/yZE4t7yZj9).
 
 ### 3. Environment Test
 
 Before the official start of the tournament, we will prepare the selected server configuration for each team, please test it at the selected time slot to ensure that it works during the tournament.\
-[**Submit** ](https://forms.office.com/r/mMeNm1YZfn) **the result** after testing.
+[**Submit** ](https://forms.office.com/r/sTAcQjE2i8) **the result** after testing.
 
 ### 4.Competition process operation.
 
@@ -38,6 +38,3 @@ After the competition, we will keep a backup of the server and the code. The cod
 * Follow  [the link](competition-operation/upload-team-introduction-video.md) to submit slides.
 * Follow  [the link](competition-operation/code-submission.md) to submit code.
 
-{% hint style="warning" %}
-<mark style="color:red;">**Attention\***</mark>\ <mark style="color:red;">**Teams on site just commit code and slide ;**</mark>
-{% endhint %}
