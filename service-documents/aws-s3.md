@@ -1,5 +1,11 @@
 # AWS S3
 
+## &#x20;<a href="#puttinganobjectinabucket" id="puttinganobjectinabucket"></a>
+
+{% hint style="info" %}
+For this contest we provide contest data via the <mark style="color:red;">s3://fintech80chengdu-topic</mark> storage bucket, which contains contest questions and dependency data.
+{% endhint %}
+
 ## - By the aws console (<mark style="color:red;">Not</mark> recommended, but  intuitive and simple） <a href="#puttinganobjectinabucket" id="puttinganobjectinabucket"></a>
 
 See [Steps blew](aws-s3.md#puttinganobjectinabucket-2)
@@ -36,16 +42,12 @@ You will need to provide the following information:
 
 ### 3. Sync Files
 
-Use the `aws s3 sync` command to synchronize files from the S3 bucket to your EC2 instance. The basic syntax is:
-
-```
-aws s3 sync s3://bucket-name /path/to/local/directory
-```
+Use the `aws s3 sync` command to synchronize files from the S3 bucket to your EC2 instance.&#x20;
 
 **Example**:Assuming you want to sync files from CHENGDU80 topic S3 bucket named chengdu80-topic to the `/home/ec2-user/myfiles` directory on your EC2 instance, you would run:
 
 ```
-aws s3 sync s3://chengdu80-topic /home/ec2-user/myfiles
+aws s3 sync s3://fintech80chengdu-topic /your-local-folder --region ap-southeast-1
 ```
 
 ### 4. Verify Sync
