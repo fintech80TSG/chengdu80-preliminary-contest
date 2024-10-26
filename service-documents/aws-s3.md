@@ -47,7 +47,7 @@ Use the `aws s3 sync` command to synchronize files from the S3 bucket to your EC
 **Example**:Assuming you want to sync files from CHENGDU80 topic S3 bucket named chengdu80-topic to the `/home/ec2-user/myfiles` directory on your EC2 instance, you would run:
 
 ```
-aws s3 sync s3://fintech80chengdu-topic /your-local-folder --region ap-southeast-1
+aws s3 sync s3://fintech80chengdu-topic /your-local-folder --region ap-east-1
 ```
 
 ### 4. Verify Sync
