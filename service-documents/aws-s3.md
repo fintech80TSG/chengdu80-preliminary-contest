@@ -1,6 +1,64 @@
 # AWS S3
 
-## Uploading an object to a bucket <a href="#puttinganobjectinabucket" id="puttinganobjectinabucket"></a>
+## - By the aws console (<mark style="color:red;">Not</mark> recommended, but  intuitive and simple） <a href="#puttinganobjectinabucket" id="puttinganobjectinabucket"></a>
+
+See [Steps blew](aws-s3.md#puttinganobjectinabucket-2)
+
+## - By the aws cli  (<mark style="color:red;">Recommended</mark>, support large files and intermittent transfer, fast speed） <a href="#puttinganobjectinabucket" id="puttinganobjectinabucket"></a>
+
+### 1. Install AWS CLI
+
+If the AWS CLI is not installed on your EC2 instance, follow these steps to install it.
+
+```
+# For Amazon Linux or CentOS
+sudo yum install aws-cli -y
+
+# For Ubuntu
+sudo apt-get update
+sudo apt-get install awscli -y
+```
+
+### 2. Configure AWS CLI
+
+Use the following command to configure the AWS CLI, entering your AWS access key and region information.
+
+```
+aws configure
+```
+
+You will need to provide the following information:
+
+* AWS Access Key ID
+* AWS Secret Access Key
+* Default region name (e.g. ap-southeast-1)
+* Default output format (you can choose json)
+
+### 3. Sync Files
+
+Use the `aws s3 sync` command to synchronize files from the S3 bucket to your EC2 instance. The basic syntax is:
+
+```
+aws s3 sync s3://bucket-name /path/to/local/directory
+```
+
+**Example**:Assuming you want to sync files from CHENGDU80 topic S3 bucket named chengdu80-topic to the `/home/ec2-user/myfiles` directory on your EC2 instance, you would run:
+
+```
+aws s3 sync s3://chengdu80-topic /home/ec2-user/myfiles
+```
+
+### 4. Verify Sync
+
+After synchronization is complete, you can use the `ls` command to check the target directory and confirm that files have been successfully downloaded.
+
+```
+ls /home/ec2-user/myfiles
+```
+
+## &#x20;<a href="#puttinganobjectinabucket" id="puttinganobjectinabucket"></a>
+
+## By the aws console (<mark style="color:red;">Not</mark> recommended, but  intuitive and simple）Uploading an object to a bucket <a href="#puttinganobjectinabucket" id="puttinganobjectinabucket"></a>
 
 **Amazon S3 managerment Console**
 
